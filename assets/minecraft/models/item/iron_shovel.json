@@ -10,7 +10,7 @@
 		{ "predicate": {"damaged": 0, "damage": 0.01195219123505976}, "model": "attractions/wdw/mk/mc"},
 		{ "predicate": {"damaged": 0, "damage": 0.01593625498007968}, "model": "attractions/wdw/mk/potc"},
 		{ "predicate": {"damaged": 0, "damage": 0.0199203187250996}, "model": "resorts/pop"},
-		{ "predicate": {"damaged": 0, "damage": 0.02390438247011952}, "model": "item/iron_shovel"},
+		{ "predicate": {"damaged": 0, "damage": 0.02390438247011952}, "model": "attractions/wdw/mk/tiki"},
 		{ "predicate": {"damaged": 0, "damage": 0.027888446215139442}, "model": "item/iron_shovel"},
 		{ "predicate": {"damaged": 0, "damage": 0.03187250996015936}, "model": "item/iron_shovel"},
 		{ "predicate": {"damaged": 0, "damage": 0.03585657370517928}, "model": "item/iron_shovel"},
