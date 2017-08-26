@@ -18,7 +18,7 @@
 		{ "predicate": {"damaged": 0, "damage": 0.043824701195219126}, "model": "attractions/wdw/mk/tsi"},
 		{ "predicate": {"damaged": 0, "damage": 0.04780876494023904}, "model": "attractions/wdw/mk/wdwrr"},
 		{ "predicate": {"damaged": 0, "damage": 0.05179282868525896}, "model": "attractions/wdw/mk/hop"},
-		{ "predicate": {"damaged": 0, "damage": 0.055776892430278883}, "model": "item/iron_shovel"},
+		{ "predicate": {"damaged": 0, "damage": 0.055776892430278883}, "model": "attractions/wdw/mk/hm"},
 		{ "predicate": {"damaged": 0, "damage": 0.05976095617529881}, "model": "item/iron_shovel"},
 		{ "predicate": {"damaged": 0, "damage": 0.06374501992031872}, "model": "item/iron_shovel"},
 		{ "predicate": {"damaged": 0, "damage": 0.06772908366533864}, "model": "item/iron_shovel"},
