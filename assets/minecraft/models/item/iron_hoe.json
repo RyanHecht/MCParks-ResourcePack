@@ -6,7 +6,7 @@
 	"overrides": [
 		{ "predicate": {"damaged": 0, "damage": 0}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.00398406374501992}, "model": "magicbands/expo"},
-		{ "predicate": {"damaged": 0, "damage": 0.00796812749003984}, "model": "item/iron_hoe"},
+		{ "predicate": {"damaged": 0, "damage": 0.00796812749003984}, "model": "magicbands/dca"},
 		{ "predicate": {"damaged": 0, "damage": 0.01195219123505976}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.01593625498007968}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.0199203187250996}, "model": "item/iron_hoe"},
