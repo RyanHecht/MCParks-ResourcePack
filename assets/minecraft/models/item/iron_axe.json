@@ -36,7 +36,7 @@
 		{ "_cmd_": "give @p minecraft:iron_axe 1 28 {Unbreakable:1}",  "predicate": {"damaged": 0, "damage": 0.1115537848605}, "model": "vehicles/slinky_front"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 29 {Unbreakable:1}",  "predicate": {"damaged": 0, "damage": 0.1155378486055}, "model": "vehicles/slinky_middle"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 30 {Unbreakable:1}",  "predicate": {"damaged": 0, "damage": 0.1195219123505}, "model": "vehicles/slinky_back"},
-		{ "_cmd_": "give @p minecraft:iron_axe 1 31 {Unbreakable:1}",  "predicate": {"damaged": 0, "damage": 0.1235059760956}, "model": "item/iron_axe"},
+		{ "_cmd_": "give @p minecraft:iron_axe 1 31 {Unbreakable:1}",  "predicate": {"damaged": 0, "damage": 0.1235059760956}, "model": "misc/cars/lightning"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 32 {Unbreakable:1}",  "predicate": {"damaged": 0, "damage": 0.1274900398406}, "model": "item/iron_axe"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 33 {Unbreakable:1}",  "predicate": {"damaged": 0, "damage": 0.1314741035856}, "model": "item/iron_axe"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 34 {Unbreakable:1}",  "predicate": {"damaged": 0, "damage": 0.1354581673306}, "model": "item/iron_axe"},
