@@ -8746,8 +8746,9 @@
 	],
 	"display": {
 		"head": {
-			"translation":  [ 8.3478, -29.91, 32 ],
-			"scale":  [ 4, 4, 4 ]
+			"rotation":  [ 0, 45, 0 ],
+			"translation":  [ -11, -29.91, -11 ],
+			"scale":  [ 3.5, 5.5, 3.5 ]
 		}
 	}
 }
