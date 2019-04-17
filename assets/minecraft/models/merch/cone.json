@@ -3,10 +3,10 @@
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
-		"img": "costumes/cone/cozy_cone",
-		"images": "costumes/cone/zwhite",
-		"images (1)": "costumes/cone/zred",
-		"voxels_palette": "costumes/cone/cone"
+		"img": "merch/cone/cozy_cone",
+		"images": "merch/cone/zwhite",
+		"images (1)": "merch/cone/zred",
+		"voxels_palette": "merch/cone/cone"
 	},
 	"elements": [ 	 
 		{

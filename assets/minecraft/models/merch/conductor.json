@@ -4,7 +4,7 @@
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
 		"conductor": "blocks/conductor",
-		"voxels_palette": "costumes/conductor"
+		"voxels_palette": "merch/ears/conductor"
 	},
 	"elements": [ 	 
 		{

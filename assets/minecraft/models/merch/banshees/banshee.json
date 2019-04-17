@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
-		"voxels_palette": "costumes/banshees/teal"
+		"voxels_palette": "merch/banshees/teal"
 	},
 	"elements": [ 	 
 		{
