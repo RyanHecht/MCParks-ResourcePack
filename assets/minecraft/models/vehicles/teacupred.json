@@ -1,0 +1,10 @@
+{
+	"parent": "vehicles/teacup",
+	"textures": {
+		"1": "vehicles/tcred",
+		"2": "blocks/concrete_gray",
+		"3": "blocks/concrete_white",
+		"4": "blocks/concrete_cyan",
+		"particle": "vehicles/tcblue"
+	}
+}
