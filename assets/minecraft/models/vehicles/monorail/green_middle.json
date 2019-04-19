@@ -1,0 +1,15 @@
+{
+	"parent": "vehicles/monorail/red_middle",
+	"textures": {
+		"1": "blocks/concrete_white",
+		"2": "blocks/concrete_gray",
+		"4": "blocks/concrete_cyan",
+		"6": "blocks/quartz_block_side",
+		"7": "blocks/concrete_silver",
+		"9": "blocks/concrete_black",
+		"particle": "blocks/concrete_white",
+		"blacktrim": "blocks/concrete_black",
+		"trim": "blocks/hardened_clay_stained_green",
+		"color": "blocks/concrete_green"
+	}
+}
