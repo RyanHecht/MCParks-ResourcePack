@@ -19,7 +19,7 @@
 		{ "predicate": {"damaged": 0, "damage": 0.04780876494023904}, "model": "merch/ears/r2d2"},
 		{ "predicate": {"damaged": 0, "damage": 0.05179282868525896}, "model": "merch/ears/lightning"},
 		{ "predicate": {"damaged": 0, "damage": 0.055776892430278883}, "model": "merch/ears/chewbacca"},
-		{ "predicate": {"damaged": 0, "damage": 0.05976095617529881}, "model": "item/iron_hoe"},
+		{ "predicate": {"damaged": 0, "damage": 0.05976095617529881}, "model": "merch/ears/sorcerermickey"},
 		{ "predicate": {"damaged": 0, "damage": 0.06374501992031872}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.06772908366533864}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.07171314741035856}, "model": "item/iron_hoe"},
