@@ -1,0 +1,15 @@
+{
+	"parent": "vehicles/perch",
+	"textures": {
+		"4": "blocks/concrete_powder_brown",
+		"5": "blocks/hardened_clay_stained_light_blue",
+		"6": "blocks/hardened_clay_stained_lime",
+		"7": "blocks/hardened_clay_stained_red",
+		"8": "blocks/concrete_white",
+		"9": "blocks/enchanting_table_top",
+		"name": "blocks/log_jungle_top",
+		"particle": "blocks/log_jungle_top",
+		"namebase": "blocks/concrete_brown",
+		"roof": "blocks/concrete_orange"
+	}
+}
