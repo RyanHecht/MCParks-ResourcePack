@@ -28,7 +28,7 @@
 		{ "predicate": {"damaged": 0, "damage": 0.08366533864541832}, "model": "merch/wands/voldemortwand"},
 		{ "predicate": {"damaged": 0, "damage": 0.08764940239043825}, "model": "merch/ears/goofyhat"},
 		{ "predicate": {"damaged": 0, "damage": 0.09163346613545817}, "model": "merch/groot"},
-		{ "predicate": {"damaged": 0, "damage": 0.09561752988047809}, "model": "item/iron_hoe"},
+		{ "predicate": {"damaged": 0, "damage": 0.09561752988047809}, "model": "merch/hook"},
 		{ "predicate": {"damaged": 0, "damage": 0.099601593625498}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.10358565737051792}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.10756972111553785}, "model": "item/iron_hoe"},
