@@ -59,7 +59,7 @@
 		{ "predicate": {"damaged": 0, "damage": 0.20717131474103584}, "model": "merch/lukesaberlit"},
 		{ "predicate": {"damaged": 0, "damage": 0.21115537848605578}, "model": "merch/kylosaber"},
 		{ "predicate": {"damaged": 0, "damage": 0.2151394422310757}, "model": "merch/kylosaberlit"},
-		{ "predicate": {"damaged": 0, "damage": 0.21912350597609562}, "model": "item/iron_hoe"},
+		{ "predicate": {"damaged": 0, "damage": 0.21912350597609562}, "model": "merch/aladdin_lamp"},
 		{ "predicate": {"damaged": 0, "damage": 0.22310756972111553}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.22709163346613545}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.23107569721115537}, "model": "item/iron_hoe"},
