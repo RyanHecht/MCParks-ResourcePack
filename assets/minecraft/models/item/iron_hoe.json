@@ -188,7 +188,7 @@
 		{ "predicate": {"damaged": 0, "damage": 0.7211155378486056}, "model": "attractions/bgt/ff"},
 		{ "predicate": {"damaged": 0, "damage": 0.7250996015936255}, "model": "food/mickey_apple"},
 		{ "predicate": {"damaged": 0, "damage": 0.7290836653386454}, "model": "food/mickey_bar"},
-		{ "predicate": {"damaged": 0, "damage": 0.7330677290836654}, "model": "item/iron_hoe"},
+		{ "predicate": {"damaged": 0, "damage": 0.7330677290836654}, "model": "food/dole_whip"},
 		{ "predicate": {"damaged": 0, "damage": 0.7370517928286853}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.7410358565737052}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.7450199203187251}, "model": "item/iron_hoe"},
