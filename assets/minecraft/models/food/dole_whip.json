@@ -1,12 +1,12 @@
 {
 	"__comment": "Designed by Agentdid127 with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"whip": "blocks/hardened_clay_stained_white",
+		"whip": "blocks/planks_birch",
 		"cyan": "blocks/concrete_cyan",
 		"black": "blocks/concrete_black",
-		"red": "blocks/hardened_clay_stained_red",
-		"orange": "blocks/hardened_clay_stained_orange",
-		"birch": "blocks/planks_birch"
+		"red": "blocks/concrete_red",
+		"orange": "blocks/concrete_orange",
+		"birch": "blocks/concrete_powder_yellow"
 		},
 	"elements": [ 	 
 		{
