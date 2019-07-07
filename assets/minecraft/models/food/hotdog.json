@@ -1,5 +1,5 @@
 {
-	"credit": "Created by Jishy using Blockbench",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "food/hotdog1",
 		"1": "food/hotdog2",
@@ -427,18 +427,21 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"firstperson_righthand": {
-			"translation": [0, 3.75, 1.25],
-			"scale": [0.5, 0.5, 0.5]
+			"translation": [-2, 5, 1.25],
+			"scale": [0.6, 0.6, 0.6]
 		},
 		"firstperson_lefthand": {
-			"translation": [0, 3.75, 1.25],
-			"scale": [0.5, 0.5, 0.5]
+			"rotation": [0, 15, 0],
+			"translation": [-2, 5, 1.25],
+			"scale": [0.6, 0.6, 0.6]
 		},
 		"ground": {
 			"translation": [0, 7.25, 0]
 		},
 		"gui": {
-			"rotation": [51, 0, 0]
+			"rotation": [38, 49, 0],
+			"translation": [0, 3.5, 0],
+			"scale": [1.2, 1.2, 1.2]
 		},
 		"head": {
 			"translation": [0, 6.25, 0],
