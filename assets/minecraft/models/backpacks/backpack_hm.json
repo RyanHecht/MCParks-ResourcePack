@@ -1,11 +1,10 @@
 {
-	"credit": "Made by Gooby <3",
+	"credit": "Made with Blockbench",
 	"textures": {
-		"5": "ModelStuff/hm",
+		"5": "backpacks/hm",
 		"texture": "blocks/wool_colored_black",
 		"texture1": "blocks/wool_colored_silver",
-		"texture2": "blocks/concrete_powder_brown",
-		"particle": "backpacks/hm"
+		"texture2": "blocks/concrete_powder_brown"
 	},
 	"elements": [
 		{
