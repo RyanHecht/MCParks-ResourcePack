@@ -1,5 +1,5 @@
 {
-	"credit": "Made by Gooby <3",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"3": "blocks/concrete_black",
 		"4": "blocks/beacon",
@@ -26884,8 +26884,8 @@
 		},
 		"head": {
 			"rotation": [0, 180, 0],
-			"translation": [0, -29.75, -10.5],
-			"scale": [3, 3, 3]
+			"translation": [0, -30, -10.5],
+			"scale": [2.38, 2.76, 2.46]
 		},
 		"fixed": {
 			"rotation": [0, 100, 0],
