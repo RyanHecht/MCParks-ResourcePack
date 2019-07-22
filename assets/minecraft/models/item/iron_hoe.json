@@ -62,7 +62,7 @@
 		{ "predicate": {"damaged": 0, "damage": 0.21912350597609562}, "model": "merch/aladdin_lamp"},
 		{ "predicate": {"damaged": 0, "damage": 0.22310756972111553}, "model": "merch/gauntlet"},
 		{ "predicate": {"damaged": 0, "damage": 0.22709163346613545}, "model": "merch/ears/oswald"},
-		{ "predicate": {"damaged": 0, "damage": 0.23107569721115537}, "model": "item/iron_hoe"},
+		{ "predicate": {"damaged": 0, "damage": 0.23107569721115537}, "model": "merch/ears/santaears"},
 		{ "predicate": {"damaged": 0, "damage": 0.23505976095617528}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.23904382470119523}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.24302788844621515}, "model": "item/iron_hoe"},
