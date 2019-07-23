@@ -135,7 +135,7 @@
 		{ "predicate": {"damaged": 0, "damage": 0.5099601593625498}, "model": "attractions/uor/ioa/hulk"},
 		{ "predicate": {"damaged": 0, "damage": 0.5139442231075697}, "model": "attractions/uor/uso/fallon"},
 		{ "predicate": {"damaged": 0, "damage": 0.5179282868525896}, "model": "attractions/uor/ioa/he"},
-		{ "predicate": {"damaged": 0, "damage": 0.5219123505976095}, "model": "item/iron_hoe"},
+		{ "predicate": {"damaged": 0, "damage": 0.5219123505976095}, "model": "magicbands/expedition_everest"},
 		{ "predicate": {"damaged": 0, "damage": 0.5258964143426295}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.5298804780876494}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.5338645418326693}, "model": "item/iron_hoe"},
