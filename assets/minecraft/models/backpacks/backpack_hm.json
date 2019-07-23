@@ -3327,9 +3327,8 @@
 			"scale": [0.8, 0.8, 0.8]
 		},
 		"firstperson_lefthand": {
-			"rotation": [-19, 16, 11],
-			"translation": [8.3642, 0.6956, -8.347],
-			"scale": [0.8, 0.8, 0.8]
+			"translation": [-9, -3, 11.3],
+			"scale": [2.25, 0.85, 1.05]
 		},
 		"ground": {
 			"translation": [0, 5.5651, 4.1739],
