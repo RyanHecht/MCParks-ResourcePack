@@ -1,11 +1,11 @@
 {
-	"credit": "Created by Guby <3",
+	"__comment": "Designed by W2D5W8 with Cubik Studio - https://cubik.studio",
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
 		"mesh_palette": "merch/mesh_palette"
 	},
-	"elements": [
+	"elements": [ 	 
 		{
 			"__comment": "Voxels-795F3F",
 			"from": [ 1.5, 7.5, 6.5 ],
@@ -14702,13 +14702,14 @@
 			"scale":  [ 0.4, 0.4, 0.4 ]
 		},
 		"firstperson_righthand": {
-			"rotation":  [ -27, 108, -15 ],
-			"translation":  [ 3.4782, 0, 0 ],
-			"scale":  [ 0.4, 0.4, 0.4 ]
+			"rotation":  [ 19, -51, 0 ],
+			"translation":  [ 0.6955, 0.4637, -0.463 ],
+			"scale":  [ 0.6, 0.6, 0.6 ]
 		},
 		"firstperson_lefthand": {
-			"rotation":  [ -27, -158, -7 ],
-			"scale":  [ 0.4, 0.4, 0.4 ]
+			"rotation":  [ 19, -51, 0 ],
+			"translation":  [ 0.6955, 0.4637, -0.463 ],
+			"scale":  [ 0.6, 0.6, 0.6 ]
 		},
 		"gui": {
 			"rotation":  [ 0, 119, 0 ],
