@@ -1,0 +1,108 @@
+﻿
+[C]§f============
+[C]§9MCParks Team - as of 7/24/2019
+[C]§f============
+
+ 
+§dOwners
+§f          TheDrMeowMix
+§f          RyanHecht_
+ 
+§7Resource Pack Contributors
+§f          RyanHecht_
+§f          Guby
+§f          agentdid127
+§f          Jishy_
+§f          W2D5W8
+§f          SorcererParker
+ 
+§cExecutives
+§f          W2D5W8
+§f          Kae_
+§f          Jessicacake22
+§f          ElectricUmbrella
+ 
+§bTechnicians
+§f          Vec_ (§9Lead§f)
+§f          etdt12344
+§f          CaptainzScourge
+§f          Biddle_
+§f          mpawn
+§f          DLP1992
+§f          Guby
+§f          Jishy_
+§f          ronsampaul
+§f          The_Thanos
+§f          FixIt_Felix
+§f          NobodyBestFriend
+§f          abk1504_extreme
+ 
+§6Imagineers
+§f          W2D5W8 (§6Lead§f)
+§f          farksepher (§6TSL Project Lead§f)
+§f          WestC0T (§6WDW Resorts Project Lead§f)
+§f          Paxtons1 (§6USO Project Lead§f)
+§f          mlgbuilder (§6DCA Project Lead§f)
+§f          KUMO85 (§6New DHS Project Lead§f)
+§f          SorcererParker (§6New DL Project Lead§f)
+§f          SkipperGavin
+§f          Karke802
+§f          Gorthog
+§f          NiTeStalkrr
+§f          LuisFlores
+§f          Aaruse
+§f          JUANDI321
+§f          Jbres_
+§f          Rilbud
+§f          disneyTokyo
+§f          VillageHaus
+§f          Tbone36
+§f          TheCrazyAlien
+§f          lywik270
+§f          butterman123654
+ 
+§aGuest Relations
+§f          lilpres (§aLead§f)
+§f          agentdid127 (§aGuest Exp. Coordinator§f)
+§f          Chigg_ (§aEvents Coordinator§f)
+§f          MissDiamonder (§aCharacters Coordinator§f)
+§f          spakado
+§f          ohhelloitsnick
+§f          TheDisneyDork
+§f          Zach0317
+§f          HanShortFirst30
+§f          Purificus
+§f          Beach_
+§f          HarryPotter0731
+§f          libbymoonbeam26
+§f          SplinterPlayMC
+§f          Beemaxer
+§f          Amanda_Dancer2
+§f          AdrienSol
+§f          Wailboy
+§f          nhrds
+§f          LostBoyIan
+§f          daeynore
+§f          SpacelanderD
+§f          Fuzed_
+§f          national8872_
+§f          pongoweb
+§f          EJMan16
+§f          Jake_F_Statefarm
+§f          HeyItsConan
+§f          SandyCatMC
+§f          Tori____
+§f          BrokenTV
+§f          PandemicWW
+
+[C]§f============
+[C]§3Special Thanks
+[C]§f============
+
+§f          Boby the Sponge
+
+
+
+
+
+§f"Hi, I'm Boby, the MCParks sponge!" §e- Boby The Sponge
