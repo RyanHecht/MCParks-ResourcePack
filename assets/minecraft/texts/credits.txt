@@ -15,6 +15,7 @@
 §f          Jishy_
 §f          W2D5W8
 §f          SorcererParker
+§f          mlgbuilder
  
 §cExecutives
 §f          W2D5W8
@@ -39,7 +40,7 @@
  
 §6Imagineers
 §f          W2D5W8 (§6Lead§f)
-§f          farksepher (§6TSL Project Lead§f)
+§f          farksepher (§6TDL Project Lead§f)
 §f          WestC0T (§6WDW Resorts Project Lead§f)
 §f          Paxtons1 (§6USO Project Lead§f)
 §f          mlgbuilder (§6DCA Project Lead§f)
