@@ -191,7 +191,7 @@
 		{ "predicate": {"damaged": 0, "damage": 0.7330677290836654}, "model": "food/dole_whip"},
 		{ "predicate": {"damaged": 0, "damage": 0.7370517928286853}, "model": "food/hotdog"},
 		{ "predicate": {"damaged": 0, "damage": 0.7410358565737052}, "model": "food/candycane"},
-		{ "predicate": {"damaged": 0, "damage": 0.7450199203187251}, "model": "item/iron_hoe"},
+		{ "predicate": {"damaged": 0, "damage": 0.7450199203187251}, "model": "food/hotdogmustard"},
 		{ "predicate": {"damaged": 0, "damage": 0.749003984063745}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.7529880478087649}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.7569721115537849}, "model": "item/iron_hoe"},
