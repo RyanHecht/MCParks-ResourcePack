@@ -152,7 +152,7 @@
 		{ "predicate": {"damaged": 0, "damage": 0.5776892430278885}, "model": "attractions/dlr/dl/autopia"},
 		{ "predicate": {"damaged": 0, "damage": 0.5816733067729084}, "model": "attractions/dlr/dl/sub"},
 		{ "predicate": {"damaged": 0, "damage": 0.5856573705179283}, "model": "misc/piano"},
-		{ "predicate": {"damaged": 0, "damage": 0.5896414342629482}, "model": "item/iron_hoe"},
+		{ "predicate": {"damaged": 0, "damage": 0.5896414342629482}, "model": "misc/smallworld-clock"},
 		{ "predicate": {"damaged": 0, "damage": 0.5936254980079682}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.5976095617529881}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.601593625498008}, "model": "item/iron_hoe"},
