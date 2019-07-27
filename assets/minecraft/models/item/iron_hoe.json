@@ -251,10 +251,10 @@
 		{ "predicate": {"damaged": 0, "damage": 0.9721115537848606}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.9760956175298805}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.9800796812749004}, "model": "item/iron_hoe"},
-		{ "predicate": {"damaged": 0, "damage": 0.9840637450199203}, "model": "item/iron_hoe"},
-		{ "predicate": {"damaged": 0, "damage": 0.9880478087649402}, "model": "item/iron_hoe"},
-		{ "predicate": {"damaged": 0, "damage": 0.9920318725099602}, "model": "item/iron_hoe"},
-		{ "predicate": {"damaged": 0, "damage": 0.9960159362549801}, "model": "item/iron_hoe"},
+		{ "predicate": {"damaged": 0, "damage": 0.9840637450199203}, "model": "misc/hm/hmpainting1"},
+		{ "predicate": {"damaged": 0, "damage": 0.9880478087649402}, "model": "misc/hm/hmpainting2"},
+		{ "predicate": {"damaged": 0, "damage": 0.9920318725099602}, "model": "misc/hm/hmpainting3"},
+		{ "predicate": {"damaged": 0, "damage": 0.9960159362549801}, "model": "misc/hm/hmpainting4"},
 		{ "predicate": {"damaged": 1, "damage": 0}, "model": "item/iron_hoe"}
 	]
 }
