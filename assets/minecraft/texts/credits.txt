@@ -47,19 +47,16 @@
 §f          KUMO85 (§6New DHS Project Lead§f)
 §f          SorcererParker (§6New DL Project Lead§f)
 §f          SkipperGavin
-§f          Karke802
+§f          Krake802
 §f          Gorthog
 §f          NiTeStalkrr
-§f          LuisFlores
 §f          Aaruse
 §f          JUANDI321
-§f          Jbres_
 §f          Rilbud
 §f          disneyTokyo
 §f          VillageHaus
 §f          Tbone36
 §f          TheCrazyAlien
-§f          lywik270
 §f          butterman123654
  
 §aGuest Relations
@@ -72,7 +69,6 @@
 §f          TheDisneyDork
 §f          Zach0317
 §f          HanShortFirst30
-§f          Purificus
 §f          Beach_
 §f          HarryPotter0731
 §f          libbymoonbeam26
