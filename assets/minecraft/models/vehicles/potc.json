@@ -2228,8 +2228,8 @@
 		},
 		"head": {
 			"rotation": [0, 90, 0],
-			"translation": [0, -5.565, 0],
-			"scale": [4, 4, 4]
+			"translation": [0, -9.565, -1.75],
+			"scale": [3.07, 3, 3.67]
 		},
 		"fixed": {
 			"rotation": [-16, 39, 0],
