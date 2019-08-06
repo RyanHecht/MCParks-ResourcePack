@@ -1,103 +1,79 @@
 ﻿
 [C]§f============
-[C]§9MCParks Team - as of 7/24/2019
+[C]§9MCParks Team - as of 8/6/2019
 [C]§f============
 
  
 §dOwners
-§f          TheDrMeowMix
-§f          RyanHecht_
+[C]TheDrMeowMix
+[C]RyanHecht_
  
 §7Resource Pack Contributors
-§f          RyanHecht_
-§f          Guby
-§f          agentdid127
-§f          Jishy_
-§f          W2D5W8
-§f          SorcererParker
-§f          mlgbuilder
+[C]RyanHecht_
+[C]Guby
+[C]agentdid127
+[C]Jishy_
+[C]W2D5W8
+[C]SorcererParker
+[C]mlgbuilder
+[C]DLP1992
  
 §cExecutives
-§f          W2D5W8
-§f          Kae_
-§f          Jessicacake22
-§f          ElectricUmbrella
+[C]W2D5W8
+[C]Kae_
+[C]Jessicacake22
+[C]ElectricUmbrella
  
 §bTechnicians
-§f          Vec_ (§9Lead§f)
-§f          etdt12344
-§f          CaptainzScourge
-§f          Biddle_
-§f          mpawn
-§f          DLP1992
-§f          Guby
-§f          Jishy_
-§f          ronsampaul
-§f          The_Thanos
-§f          FixIt_Felix
-§f          NobodyBestFriend
-§f          abk1504_extreme
+[C]Vec_ (§9Lead§f)
+[C]etdt12344	CaptainzScourge
+[C]Biddle_	mpawn
+[C]DLP1992	Guby
+[C]Jishy_	ronsampaul
+[C]The_Thanos	FixIt_Felix
+[C]NobodyBestFriend		abk1504_extreme
  
 §6Imagineers
-§f          W2D5W8 (§6Lead§f)
-§f          farksepher (§6TDL Project Lead§f)
-§f          WestC0T (§6WDW Resorts Project Lead§f)
-§f          Paxtons1 (§6USO Project Lead§f)
-§f          mlgbuilder (§6DCA Project Lead§f)
-§f          KUMO85 (§6New DHS Project Lead§f)
-§f          SorcererParker (§6New DL Project Lead§f)
-§f          SkipperGavin
-§f          Krake802
-§f          Gorthog
-§f          NiTeStalkrr
-§f          Aaruse
-§f          JUANDI321
-§f          Rilbud
-§f          disneyTokyo
-§f          VillageHaus
-§f          Tbone36
-§f          TheCrazyAlien
-§f          butterman123654
+[C]W2D5W8 (§6Lead§f)
+[C]farksepher (§6TDL Project Lead§f)
+[C]WestC0T (§6WDW Resorts Project Lead§f)
+[C]Paxtons1 (§6USO Project Lead§f)
+[C]mlgbuilder (§6DCA Project Lead§f)
+[C]KUMO85 (§6New DHS Project Lead§f)
+[C]SorcererParker (§6New DL Project Lead§f)
+[C]SkipperGavin		Krake802
+[C]Gorthog		NiTeStalkrr
+[C]Aaruse	JUANDI321
+[C]Rilbud	disneyTokyo
+[C]VillageHausTbone36Tbone36
+[C]TheCrazyAlien	butterman123654
  
 §aGuest Relations
-§f          lilpres (§aLead§f)
-§f          agentdid127 (§aGuest Exp. Coordinator§f)
-§f          Chigg_ (§aEvents Coordinator§f)
-§f          MissDiamonder (§aCharacters Coordinator§f)
-§f          spakado
-§f          ohhelloitsnick
-§f          TheDisneyDork
-§f          Zach0317
-§f          HanShortFirst30
-§f          Beach_
-§f          HarryPotter0731
-§f          libbymoonbeam26
-§f          SplinterPlayMC
-§f          Beemaxer
-§f          Amanda_Dancer2
-§f          AdrienSol
-§f          Wailboy
-§f          nhrds
-§f          LostBoyIan
-§f          daeynore
-§f          SpacelanderD
-§f          Fuzed_
-§f          national8872_
-§f          pongoweb
-§f          HeyItsConan
-§f          SandycatMC
-§f          Tori____
-§f          BrokenTV
-§f          PandemicWW
-§f          CJordan
-§f          YorkshireRose
+[C]lilpres (§aLead§f)
+[C]agentdid127 (§aGuest Exp. Coordinator§f)
+[C]Chigg_ (§aEvents Coordinator§f)
+[C]MissDiamonder (§aCharacters Coordinator§f)
+[C]spakado	ohhelloitsnick
+[C]TheDisneyDork	Zach0317
+[C]HanShortFirst30	Beach_
+[C]HarryPotter0731	libbymoonbeam26
+[C]SplinterPlayMC	Beemaxer
+[C]Amanda_Dancer2	AdrienSol
+[C]Wailboy	nhrds
+[C]LostBoyIan	daeynore
+[C]SpacelanderD	Fuzed_
+[C]pongoweb		HeyItsConan
+[C]SandycatMC	Tori____
+[C]BrokenTV		PandemicWW
+[C]CJordan	YorkshireRose
+[C]national8872_
 
 
 [C]§f============
 [C]§3Special Thanks
 [C]§f============
 
-§f          Boby the Sponge
+[C]Boby the Sponge
 
 
 
