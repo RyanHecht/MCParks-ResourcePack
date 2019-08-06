@@ -108,7 +108,7 @@
 		{ "predicate": {"damaged": 0, "damage": 0.40239043824701193}, "model": "magicbands/chewie"},
 		{ "predicate": {"damaged": 0, "damage": 0.40637450199203184}, "model": "magicbands/christmas"},
 		{ "predicate": {"damaged": 0, "damage": 0.41035856573705176}, "model": "merch/edith"},
-		{ "predicate": {"damaged": 0, "damage": 0.4143426294820717}, "model": "attractions/uor/uso/rrr"},
+		{ "predicate": {"damaged": 0, "damage": 0.4143426294820717}, "model": "magicbands/goofy_mickey"},
 		{ "predicate": {"damaged": 0, "damage": 0.41832669322709165}, "model": "attractions/uor/uso/mib"},
 		{ "predicate": {"damaged": 0, "damage": 0.42231075697211157}, "model": "attractions/uor/uso/mummy"},
 		{ "predicate": {"damaged": 0, "damage": 0.4262948207171315}, "model": "attractions/uor/uso/simpsons"},
