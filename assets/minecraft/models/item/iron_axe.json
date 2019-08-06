@@ -101,7 +101,7 @@
 		{ "_cmd_": "give @p minecraft:iron_axe 1 95 {Unbreakable:1}",  "predicate": {"damaged": 0, "damage": 0.3745019920318}, "model": "vehicles/jcback"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 96 {Unbreakable:1}",  "predicate": {"damaged": 0, "damage": 0.3784860557768}, "model": "vehicles/doombuggy"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 97 {Unbreakable:1}",  "predicate": {"damaged": 0, "damage": 0.3824701195219}, "model": "vehicles/potc"},
-		{ "_cmd_": "give @p minecraft:iron_axe 1 98 {Unbreakable:1}",  "predicate": {"damaged": 0, "damage": 0.3864541832669}, "model": "item/iron_axe"},
+		{ "_cmd_": "give @p minecraft:iron_axe 1 98 {Unbreakable:1}",  "predicate": {"damaged": 0, "damage": 0.3864541832669}, "model": "vehicles/gft"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 99 {Unbreakable:1}",  "predicate": {"damaged": 0, "damage": 0.3904382470119}, "model": "item/iron_axe"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 100 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.3944223107569}, "model": "item/iron_axe"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 101 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.3984063745019}, "model": "item/iron_axe"},
