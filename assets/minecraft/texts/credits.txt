@@ -84,13 +84,14 @@
 §f          Fuzed_
 §f          national8872_
 §f          pongoweb
-§f          EJMan16
-§f          Jake_F_Statefarm
 §f          HeyItsConan
 §f          SandycatMC
 §f          Tori____
 §f          BrokenTV
 §f          PandemicWW
+§f          CJordan
+§f          YorkshireRose
+
 
 [C]§f============
 [C]§3Special Thanks
