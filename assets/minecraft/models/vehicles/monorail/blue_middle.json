@@ -11,6 +11,6 @@
 		"blacktrim": "blocks/concrete_black",
 		"trim": "blocks/hardened_clay_stained_blue",
 		"color": "blocks/concrete_blue",
-		"color": "blocks/concrete_blue"
+		"delta": "blocks/concrete_blue"
 	}
 }
