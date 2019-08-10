@@ -11,6 +11,6 @@
 		"blacktrim": "blocks/concrete_red",
 		"trim": "blocks/concrete_black",
 		"color": "blocks/concrete_black",
-		"color": "blocks/concrete_black"
+		"delta": "blocks/concrete_black"
 	}
 }
