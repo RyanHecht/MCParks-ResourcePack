@@ -1,0 +1,16 @@
+{
+	"parent": "vehicles/monorail/doors/red_end",
+	"textures": {
+		"2": "blocks/concrete_white",
+		"3": "blocks/concrete_gray",
+		"4": "blocks/concrete_black",
+		"5": "blocks/concrete_cyan",
+		"6": "blocks/concrete_lime",
+		"8": "blocks/quartz_block_side",
+		"9": "blocks/concrete_silver",
+		"trim": "blocks/hardened_clay_stained_orange",
+		"blacktrim": "blocks/concrete_black",
+		"color": "blocks/concrete_orange",
+		"delta": "blocks/concrete_orange"
+	}
+}

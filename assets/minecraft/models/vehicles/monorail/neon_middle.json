@@ -10,6 +10,7 @@
 		"particle": "blocks/concrete_white",
 		"blacktrim": "blocks/concrete_black",
 		"trim": "vehicles/monorail/concrete_neon",
-		"color": "vehicles/monorail/concrete_neon"
+		"color": "vehicles/monorail/concrete_neon",
+		"delta": "blocks/concrete_white"
 	}
 }
