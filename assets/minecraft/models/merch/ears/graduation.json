@@ -1998,11 +1998,13 @@
 			"scale": [0.45, 0.45, 0.45]
 		},
 		"firstperson_righthand": {
-			"translation": [0, 5.25, 0],
+			"rotation": [0, 120, 0],
+			"translation": [0, 8, 0],
 			"scale": [0.8, 0.8, 0.8]
 		},
 		"firstperson_lefthand": {
-			"translation": [0, 5.25, 0],
+			"rotation": [0, 120, 0],
+			"translation": [0, 8, 0],
 			"scale": [0.8, 0.8, 0.8]
 		},
 		"ground": {
