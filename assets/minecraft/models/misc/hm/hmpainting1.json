@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Created by Guby <3",
 	"textures": {
 		"0": "misc/hm"
 	},
@@ -49,7 +49,7 @@
 		},
 		"head": {
 			"rotation": [0, 180, 0],
-			"translation": [0, 21.25, -16],
+			"translation": [0, 21.25, -7.25],
 			"scale": [2, 3, 2]
 		},
 		"fixed": {
