@@ -1,9 +1,8 @@
 {
-	"credit": "Created by Guby <3, textured by Jishy",
+	"credit": "Made by Jishy dont @ me",
 	"textures": {
 		"5": "backpacks/avengers",
 		"texture": "blocks/wool_colored_black",
-		"texture1": "blocks/wool_colored_silver",
 		"texture2": "blocks/concrete_powder_brown"
 	},
 	"elements": [
@@ -12,12 +11,12 @@
 			"from": [5.7143, 6.8571, 9.9048],
 			"to": [10.28573, 7.23805, 10.28575],
 			"faces": {
-				"north": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#texture1"},
-				"east": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#texture1"},
-				"south": {"uv": [0.96, 4.96, 4.039, 6.039], "texture": "#texture1"},
-				"west": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#texture1"},
-				"up": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#texture1"},
-				"down": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#texture1"}
+				"north": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#texture"},
+				"east": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#texture"},
+				"south": {"uv": [0.96, 4.96, 4.039, 6.039], "texture": "#texture"},
+				"west": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#texture"},
+				"up": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#texture"},
+				"down": {"uv": [0.96, 4.96, 3.04, 7.04], "texture": "#texture"}
 			}
 		},
 		{
