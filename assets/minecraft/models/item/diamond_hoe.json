@@ -59,7 +59,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.03331197950032 }, "model": "backpacks/backpack_gotg" },
 		{ "predicate": { "damaged": 0, "damage": 0.033952594490711 }, "model": "backpacks/backpack_little_mermaid" },
 		{ "predicate": { "damaged": 0, "damage": 0.034593209481102 }, "model": "backpacks/backpack_figment" },
-		{ "predicate": { "damaged": 0, "damage": 0.035233824471493 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.035233824471493 }, "model": "backpacks/backpack_stitch" },
 		{ "predicate": { "damaged": 0, "damage": 0.035874439461883 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.036515054452274 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.037155669442665 }, "model": "item/diamond_hoe" },
