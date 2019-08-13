@@ -154,7 +154,7 @@
 		{ "predicate": {"damaged": 0, "damage": 0.5856573705179283}, "model": "misc/piano"},
 		{ "predicate": {"damaged": 0, "damage": 0.5896414342629482}, "model": "misc/smallworld-clock"},
 		{ "predicate": {"damaged": 0, "damage": 0.5936254980079682}, "model": "misc/candle"},
-		{ "predicate": {"damaged": 0, "damage": 0.5976095617529881}, "model": "item/iron_hoe"},
+		{ "predicate": {"damaged": 0, "damage": 0.5976095617529881}, "model": "merch/ears/halloween_bow"},
 		{ "predicate": {"damaged": 0, "damage": 0.601593625498008}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.6055776892430279}, "model": "attractions/dlr/dca/flick"},
 		{ "predicate": {"damaged": 0, "damage": 0.6095617529880478}, "model": "attractions/dlr/dca/lbb"},
