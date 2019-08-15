@@ -114,7 +114,7 @@
 		{ "_cmd_": "give @p minecraft:iron_axe 1 108 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.4262948207171}, "model": "vehicles/monorail/doors/silver_end"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 109 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.4302788844621}, "model": "vehicles/monorail/doors/peach_end"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 110 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.4342629482071}, "model": "vehicles/monorail/doors/black_end"},
-		{ "_cmd_": "give @p minecraft:iron_axe 1 111 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.4382470119521}, "model": "item/iron_axe"},
+		{ "_cmd_": "give @p minecraft:iron_axe 1 111 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.4382470119521}, "model": "vehicles/wdwtrolley"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 112 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.4422310756972}, "model": "item/iron_axe"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 113 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.4462151394422}, "model": "item/iron_axe"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 114 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.4501992031872}, "model": "item/iron_axe"},
