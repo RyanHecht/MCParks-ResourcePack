@@ -11,6 +11,6 @@
 		"blacktrim": "blocks/concrete_black",
 		"trim": "vehicles/monorail/concrete_neon",
 		"color": "vehicles/monorail/concrete_neon",
-		"delta": "blocks/concrete_white"
+		"delta": "blocks/concrete_blue"
 	}
 }
