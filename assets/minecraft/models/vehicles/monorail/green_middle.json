@@ -10,6 +10,7 @@
 		"particle": "blocks/concrete_white",
 		"blacktrim": "blocks/concrete_black",
 		"trim": "blocks/hardened_clay_stained_green",
-		"color": "blocks/concrete_green"
+		"color": "blocks/concrete_green",
+		"delta": "blocks/concrete_green"
 	}
 }

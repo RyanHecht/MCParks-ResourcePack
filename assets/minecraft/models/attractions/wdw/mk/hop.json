@@ -1,1 +1,9 @@
-{"parent": "item/handheld", "textures": { "layer0": "attractions/wdw/mk/hop" } }
+{"parent": "item/handheld", "textures": { "layer0": "attractions/wdw/mk/hop" },
+	"display": {
+		"head": {
+			"rotation":  [ 0, 0, 0 ],
+			"translation":  [ 0, 0, -28.52 ],
+			"scale":  [ 3.7, 3.7, 3.7 ]
+		}
+	}
+}

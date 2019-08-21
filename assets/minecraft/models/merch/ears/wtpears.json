@@ -1,5 +1,5 @@
 {
-	"credit": "Made by Jishy with Blockbench",
+	"credit": "Made by Jishy dont @ me",
 	"textures": {
 		"0": "blocks/wool_colored_red",
 		"1": "blocks/hardened_clay_stained_yellow",
@@ -1864,25 +1864,33 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"translation": [0, 6, -4.5],
-			"scale": [0.77, 0.77, 0.77]
+			"rotation": [37, 0, 0],
+			"translation": [0, 3.5, 0],
+			"scale": [0.45, 0.45, 0.45]
 		},
 		"thirdperson_lefthand": {
-			"translation": [0, 6, -4.25],
-			"scale": [0.77, 0.77, 0.77]
+			"rotation": [37, 0, 0],
+			"translation": [0, 3.5, 0],
+			"scale": [0.45, 0.45, 0.45]
 		},
 		"firstperson_righthand": {
-			"translation": [0, 7.5, 0]
+			"rotation": [0, 120, 0],
+			"translation": [0, 8, 0],
+			"scale": [0.8, 0.8, 0.8]
 		},
 		"firstperson_lefthand": {
-			"translation": [0, 7.25, 0]
+			"rotation": [0, 120, 0],
+			"translation": [0, 8, 0],
+			"scale": [0.8, 0.8, 0.8]
 		},
 		"ground": {
-			"translation": [0, 5.5, 0]
+			"translation": [0, 2.25, 0],
+			"scale": [0.7, 0.7, 0.7]
 		},
 		"gui": {
-			"rotation": [0, -180, 0],
-			"translation": [0, 3.5, 0]
+			"rotation": [21, 148, 15],
+			"translation": [1, 3.5, 0],
+			"scale": [0.9, 0.9, 0.9]
 		},
 		"head": {
 			"translation": [0, 15.51, 0],

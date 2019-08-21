@@ -1,0 +1,61 @@
+{
+	"credit": "Created by Guby <3",
+	"textures": {
+		"0": "misc/hm"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 32, 0.25],
+			"faces": {
+				"north": {"uv": [15.9, 8.75, 16, 8.85], "texture": "#0"},
+				"east": {"uv": [15.9, 8.75, 16, 8.85], "texture": "#0"},
+				"south": {"uv": [12, 0, 16, 10], "texture": "#0"},
+				"west": {"uv": [15.9, 8.75, 16, 8.85], "texture": "#0"},
+				"up": {"uv": [15.9, 8.75, 16, 8.85], "texture": "#0"},
+				"down": {"uv": [15.9, 8.75, 16, 8.85], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-25, 0, 0],
+			"translation": [0, 0, 2.5],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-25, 0, 0],
+			"translation": [0, 0, 2.5],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_righthand": {
+			"rotation": [-12, -15, 0],
+			"translation": [6, 0, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-12, -15, 0],
+			"translation": [6, 0, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 0, 0.25],
+			"scale": [0.3, 0.3, 0]
+		},
+		"gui": {
+			"rotation": [-29, 14, 4],
+			"translation": [1, -1, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 21.25, -7.25],
+			"scale": [2, 3, 2]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [0, -3.25, -5.25],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}
