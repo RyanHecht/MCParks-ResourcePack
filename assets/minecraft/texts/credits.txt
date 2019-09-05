@@ -1,6 +1,6 @@
 ﻿
 [C]§f============
-[C]§9MCParks Team - as of 8/28/2019
+[C]§9MCParks Team - as of 9/5/2019
 [C]§f============
 
  
@@ -69,7 +69,8 @@
 [C]BrokenTV		PandemicWW
 [C]CJordan	YorkshireRose
 [C]national8872_	ShdwsMC
-[C]SintrexGame
+[C]SintrexGame	radmel
+[C]TheBomb776677	Colin_j
 
 
 [C]§f============
