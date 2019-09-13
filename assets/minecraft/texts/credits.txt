@@ -1,6 +1,6 @@
 ﻿
 [C]§f============
-[C]§9MCParks Team - as of 9/7/2019
+[C]§9MCParks Team - as of 9/12/2019
 [C]§f============
 
  
@@ -61,7 +61,7 @@
 [C]HarryPotter0731	libbymoonbeam26
 [C]SplinterPlayMC	Beemaxer
 [C]Amanda_Dancer2	AdrienSol
-[C]Wailboy	nhrds
+[C]nhrds
 [C]LostBoyIan	daeynore
 [C]SpacelanderD	Fuzed_
 [C]pongoweb		HeyItsConan
