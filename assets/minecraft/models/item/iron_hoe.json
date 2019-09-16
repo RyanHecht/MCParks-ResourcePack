@@ -141,7 +141,7 @@
 		{ "predicate": {"damaged": 0, "damage": 0.5338645418326693}, "model": "merch/ears/graduation"},
 		{ "predicate": {"damaged": 0, "damage": 0.5378486055776892}, "model": "merch/ears/candycornbow"},
 		{ "predicate": {"damaged": 0, "damage": 0.5418326693227091}, "model": "merch/ears/figment"},
-		{ "predicate": {"damaged": 0, "damage": 0.545816733067729}, "model": "item/iron_hoe"},
+		{ "predicate": {"damaged": 0, "damage": 0.545816733067729}, "model": "merch/ears/lollipop_bow"},
 		{ "predicate": {"damaged": 0, "damage": 0.549800796812749}, "model": "attractions/dlr/dl/alice"},
 		{ "predicate": {"damaged": 0, "damage": 0.5537848605577689}, "model": "attractions/dlr/dl/matterhorn"},
 		{ "predicate": {"damaged": 0, "damage": 0.5577689243027888}, "model": "attractions/dlr/dl/mrtoad"},
