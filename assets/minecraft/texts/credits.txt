@@ -1,6 +1,6 @@
 ﻿
 [C]§f============
-[C]§9MCParks Team - as of 8/6/2019
+[C]§9MCParks Team - as of 9/12/2019
 [C]§f============
 
  
@@ -26,13 +26,13 @@
  
 §bTechnicians
 [C]Vec_ (§9Lead§f)
-[C]etdt12344	CaptainzScourge
+[C]etdt12344	wolfmitchell
 [C]Biddle_	mpawn
 [C]DLP1992	Guby
 [C]Jishy_	ronsampaul
 [C]The_Thanos	FixIt_Felix
 [C]NobodyBestFriend		abk1504_extreme
-[C]AgentCaremichael_
+[C]AgentCaremichael_	ultrakrash
  
 §6Imagineers
 [C]W2D5W8 (§6Lead§f)
@@ -61,14 +61,16 @@
 [C]HarryPotter0731	libbymoonbeam26
 [C]SplinterPlayMC	Beemaxer
 [C]Amanda_Dancer2	AdrienSol
-[C]Wailboy	nhrds
+[C]nhrds
 [C]LostBoyIan	daeynore
 [C]SpacelanderD	Fuzed_
 [C]pongoweb		HeyItsConan
 [C]SandycatMC	Tori____
 [C]BrokenTV		PandemicWW
 [C]CJordan	YorkshireRose
-[C]national8872_
+[C]national8872_	ShdwsMC
+[C]SintrexGame	radmel
+[C]TheBomb776677	Colin_j
 
 
 [C]§f============
