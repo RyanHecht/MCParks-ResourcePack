@@ -1,6 +1,6 @@
 ﻿
 [C]§f============
-[C]§9MCParks Team - as of 9/12/2019
+[C]§9MCParks Team - as of 10/13/2019
 [C]§f============
 
  
@@ -28,14 +28,15 @@
 [C]Vec_ (§9Lead§f)
 [C]etdt12344	wolfmitchell
 [C]Biddle_	mpawn
-[C]DLP1992	Guby
+[C]DLP1992	Jones_Potter
 [C]Jishy_	ronsampaul
 [C]The_Thanos	FixIt_Felix
 [C]NobodyBestFriend		abk1504_extreme
 [C]AgentCaremichael_	ultrakrash
+[C]ShdwsMC
  
 §6Imagineers
-[C]W2D5W8 (§6Lead§f)
+[C]Aaruse (§6Lead§f)
 [C]farksepher (§6TDL Project Lead§f)
 [C]WestC0T (§6WDW Resorts Project Lead§f)
 [C]Paxtons1 (§6USO Project Lead§f)
@@ -44,11 +45,12 @@
 [C]SorcererParker (§6New DL Project Lead§f)
 [C]SkipperGavin		Krake802
 [C]Gorthog		NiTeStalkrr
-[C]Aaruse	JUANDI321
+[C]StarQatar	JUANDI321
 [C]Rilbud	disneyTokyo
-[C]VillageHausTbone36Tbone36
+[C]VillageHaus	MoreTimerPlay
 [C]TheCrazyAlien	butterman123654
 [C]wityblack	ImAFoolishMortal
+[C]LegendOfSif
  
 §aGuest Relations
 [C]lilpres (§aLead§f)
@@ -68,9 +70,9 @@
 [C]SandycatMC	Tori____
 [C]BrokenTV		PandemicWW
 [C]CJordan	YorkshireRose
-[C]national8872_	ShdwsMC
+[C]national8872_	Colin_j
 [C]SintrexGame	radmel
-[C]TheBomb776677	Colin_j
+[C]TheBomb776677	
 
 
 [C]§f============
