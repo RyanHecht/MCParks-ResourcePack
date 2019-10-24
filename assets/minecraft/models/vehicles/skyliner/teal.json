@@ -1,0 +1,7 @@
+{
+	"parent": "vehicles/skyliner/red",
+	"textures": {
+		"trim": "blocks/hardened_clay_stained_white",
+		"body": "vehicles/monorail/concrete_teal"
+	}
+}
