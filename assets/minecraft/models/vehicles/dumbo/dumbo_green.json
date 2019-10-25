@@ -1,0 +1,13 @@
+{
+	"parent": "vehicles/dumbo/dumbo",
+	"textures": {
+		"3": "blocks/concrete_powder_silver",
+		"5": "blocks/cactus_bottom",
+		"6": "blocks/hardened_clay_stained_pink",
+		"7": "blocks/concrete_white",
+		"8": "blocks/anvil_base",
+		"9": "blocks/concrete_powder_light_blue",
+		"MAIN": "blocks/hardened_clay_stained_lime",
+		"ACCENT": "blocks/concrete_orange"
+	}
+}
