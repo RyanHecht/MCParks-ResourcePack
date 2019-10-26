@@ -130,7 +130,7 @@
 		{ "_cmd_": "give @p minecraft:iron_axe 1 124 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.4900398406374}, "model": "vehicles/skyliner/teal"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 125 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.4940239043824}, "model": "vehicles/skyliner/purple"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 126 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.4980079681274}, "model": "vehicles/skyliner/hook"},
-		{ "_cmd_": "give @p minecraft:iron_axe 1 127 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.5019920318725}, "model": "item/iron_axe"},
+		{ "_cmd_": "give @p minecraft:iron_axe 1 127 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.5019920318725}, "model": "vehicles/skyliner/inside"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 128 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.5059760956175}, "model": "item/iron_axe"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 129 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.5099601593625}, "model": "item/iron_axe"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 130 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.5139442231075}, "model": "item/iron_axe"},
