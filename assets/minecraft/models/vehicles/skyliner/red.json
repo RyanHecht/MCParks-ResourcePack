@@ -1,0 +1,10 @@
+{
+	"parent": "vehicles/skyliner/mickeyandfriends",
+	"textures": {
+		"trim": "blocks/hardened_clay_stained_white",
+		"body": "blocks/concrete_red",
+		"texture1": "blocks/glass_gray",
+		"texture2": "blocks/glass_gray",
+		"texture3": "blocks/glass_gray"
+	}
+}
