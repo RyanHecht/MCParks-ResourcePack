@@ -1,1 +1,1 @@
-{"parent": "item/handheld", "textures": { "layer0": "misc/xmasmap" }}
+{"parent": "misc/maps", "textures": { "layer0": "misc/xmasmap" }}
