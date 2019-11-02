@@ -1,6 +1,6 @@
 ﻿
 [C]§f============
-[C]§9MCParks Team - as of 10/13/2019
+[C]§9MCParks Team - as of 10/31/2019
 [C]§f============
 
  
@@ -23,15 +23,20 @@
 [C]Kae_
 [C]Jessicacake22
 [C]ElectricUmbrella
- 
-§bTechnicians
+
+§bParks Experience (Main Focus)
+[C]agentdid127 (Resource Pack, GR, Technician)
+[C]Guby (Resource Pack, GR, Technician)
+[C]wolfmitchell (Development)
+
+§9Technicians
 [C]Vec_ (§9Lead§f)
-[C]etdt12344	wolfmitchell
-[C]Biddle_	mpawn
-[C]DLP1992	Jones_Potter
-[C]Jishy_	ronsampaul
-[C]The_Thanos	FixIt_Felix
-[C]NobodyBestFriend		abk1504_extreme
+[C]etdt12344		Picklee	
+[C]_Imagineer_		mpawn
+[C]DLP1992		Jones_Potter
+[C]JishySpoops		ronsampaul
+[C]The_Thanos		FixIt_Felix
+[C]NobodyBestFriend	abk1504_extreme
 [C]AgentCaremichael_	ultrakrash
 [C]ShdwsMC
  
@@ -39,40 +44,39 @@
 [C]Aaruse (§6Lead§f)
 [C]farksepher (§6TDL Project Lead§f)
 [C]WestC0T (§6WDW Resorts Project Lead§f)
-[C]Paxtons1 (§6USO Project Lead§f)
 [C]mlgbuilder (§6DCA Project Lead§f)
-[C]KUMO85 (§6New DHS Project Lead§f)
+[C]FirstOrder (§6New DHS Project Lead§f)
 [C]SorcererParker (§6New DL Project Lead§f)
-[C]SkipperGavin		Krake802
+[C]Krake802		butterman123654
 [C]Gorthog		NiTeStalkrr
-[C]StarQatar	JUANDI321
-[C]Rilbud	disneyTokyo
-[C]VillageHaus	MoreTimerPlay
-[C]TheCrazyAlien	butterman123654
-[C]wityblack	ImAFoolishMortal
-[C]LegendOfSif
+[C]StarQatar		JUANDI321
+[C]Rilbud		disneyTokyo
+[C]VillageHaus		MorTimerPlay
+[C]wityblack		ImAFoolishMortal
+[C]LegendOfSif		Paxtons1
+[C]StarQatar		T_Squnito
  
 §aGuest Relations
 [C]lilpres (§aLead§f)
-[C]agentdid127 (§aGuest Exp. Coordinator§f)
 [C]Chigg_ (§aEvents Coordinator§f)
 [C]MissDiamonder (§aCharacters Coordinator§f)
-[C]spakado	ohhelloitsnick
+[C]spakado		ohhelloitsnick
 [C]TheDisneyDork	Zach0317
 [C]HanShortFirst30	Beach_
 [C]HarryPotter0731	libbymoonbeam26
 [C]SplinterPlayMC	Beemaxer
 [C]Amanda_Dancer2	AdrienSol
 [C]nhrds
-[C]LostBoyIan	daeynore
-[C]SpacelanderD	Fuzed_
-[C]pongoweb		HeyItsConan
-[C]SandycatMC	Tori____
+[C]LostBoyIan		daeynore
+[C]SpacelanderD		Fuzed_
+[C]ShdwsMC		HeyItsConan
+[C]SandycatMC		Tori____
 [C]BrokenTV		PandemicWW
-[C]CJordan	YorkshireRose
+[C]CJordan		YorkshireRose
 [C]national8872_	Colin_j
-[C]SintrexGame	radmel
-[C]TheBomb776677	
+[C]SintrexGame		radmel
+[C]TheBomb776677	joshuafreedy
+[C] TheCrazyAlien
 
 
 [C]§f============
