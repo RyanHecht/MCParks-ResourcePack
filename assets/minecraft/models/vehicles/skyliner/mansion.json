@@ -1,0 +1,10 @@
+{
+	"parent": "vehicles/skyliner/mickeyandfriends",
+	"textures": {
+		"trim": "blocks/hardened_clay_stained_white",
+		"body": "blocks/concrete_blue",
+		"texture1": "vehicles/skyliner/leota",
+		"texture2": "vehicles/skyliner/hitchhikers",
+		"texture3": "vehicles/skyliner/coffin"
+	}
+}
