@@ -112,7 +112,7 @@
 		{ "predicate": {"damaged": 0, "damage": 0.41832669322709165}, "model": "merch/wands/harrypotterwand"},
 		{ "predicate": {"damaged": 0, "damage": 0.42231075697211157}, "model": "magicbands/vampire_mickey"},
 		{ "predicate": {"damaged": 0, "damage": 0.4262948207171315}, "model": "magicbands/mnsshp_nineteen"},
-		{ "predicate": {"damaged": 0, "damage": 0.4302788844621514}, "model": "attractions/uor/uso/transformers"},
+		{ "predicate": {"damaged": 0, "damage": 0.4302788844621514}, "model": "merch/olaf"},
 		{ "predicate": {"damaged": 0, "damage": 0.4342629482071713}, "model": "attractions/uor/uso/woody"},
 		{ "predicate": {"damaged": 0, "damage": 0.43824701195219123}, "model": "attractions/uor/uso/twirl"},
 		{ "predicate": {"damaged": 0, "damage": 0.44223107569721115}, "model": "attractions/uor/uso/shreak"},
