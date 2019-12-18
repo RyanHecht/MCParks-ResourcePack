@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "Textures/grey",
-		"7": "Textures/dark grey",
-		"11": "Textures/purple ",
-		"12": "Textures/restraint",
-		"13": "Textures/light purple",
-		"15": "Textures/light grey"
+		"2": "blocks/concrete_silver",
+		"7": "blocks/concrete_gray",
+		"11": "blocks/concrete_purple",
+		"12": "blocks/concrete_red",
+		"13": "blocks/concrete_magenta",
+		"15": "blocks/concrete_silver"
 	},
 	"elements": [
 		{
