@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "bluemilk/bluemilk",
-		"2": "bluemilk/whiteglass",
-		"particle": "bluemilk/whiteglass"
+		"1": "blocks/concrete_light_blue",
+		"2": "blocks/concrete_white",
+		"particle": "blocks/concrete_white"
 	},
 	"elements": [
 		{
@@ -1179,10 +1179,12 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"scale": [0.8, 0.8, 0.8]
+			"scale": [0.8, 0.8, 0.8],
+			"rotation": [27, 0, 0]
 		},
 		"thirdperson_lefthand": {
-			"scale": [0.8, 0.8, 0.8]
+			"scale": [0.8, 0.8, 0.8],
+			"rotation": [27, 0, 0]
 		},
 		"firstperson_righthand": {
 			"translation": [0, 2.5, 0]

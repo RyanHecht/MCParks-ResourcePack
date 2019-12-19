@@ -2,18 +2,18 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "blocks/concrete_light_blue",
-		"2": "blocks/concrete_gray",
+		"2": "blocks/concrete_silver",
 		"3": "blocks/concrete_silver",
 		"4": "blocks/concrete_blue",
 		"6": "blocks/concrete_cyan",
 		"7": "blocks/concrete_gray",
 		"10": "vehicles/navy",
-		"11": "blocks/concrete_purple",
+		"11": "blocks/hardened_clay_stained_purple",
 		"12": "blocks/concrete_red",
-		"13": "blocks/concrete_magenta",
+		"13": "blocks/concrete_purple",
 		"14": "blocks/concrete_white",
 		"15": "blocks/concrete_silver",
-		"16": "blocks/concrete_purple",
+		"16": "blocks/hardened_clay_stained_purple",
 		"17": "blocks/concrete_silver",
 		"18": "blocks/concrete_gray",
 		"19": "blocks/concrete_silver",
@@ -23303,5 +23303,12 @@
 			"origin": [8, 8, 8],
 			"children": [1723, 1724, 1725, 1726, 1727, 1728, 1729, 1730, 1731, 1732, 1733, 1734, 1735, 1736, 1737, 1738, 1739, 1740, 1741, 1742, 1743, 1744, 1745, 1746, 1747, 1748, 1749, 1750, 1751, 1752, 1753, 1754, 1755, 1756, 1757, 1758, 1759, 1760, 1761, 1762, 1763, 1764, 1765, 1766, 1767, 1768, 1769, 1770]
 		}
-	]
+	],
+	"display": {
+			"head": {
+			"rotation": [0, 90, 0],
+			"translation": [0, -15, 0],
+			"scale": [2, 2, 2]
+		}
+	}
 }
