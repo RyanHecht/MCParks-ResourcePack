@@ -6270,9 +6270,8 @@
 			"scale": [0.7, 0.7, 0.7]
 		},
 		"head": {
-			"rotation": [90, 0, 180],
-			"translation": [0, 0, -4],
-			"scale": [0.8, 0.8, 0.8]
+			"translation": [0, -15, 16],
+			"scale": [0.3, 0.3, 0.3]
 		},
 		"fixed": {
 			"translation": [0, -15, 16],
