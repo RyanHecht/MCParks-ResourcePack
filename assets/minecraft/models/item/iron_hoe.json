@@ -206,7 +206,7 @@
 		{ "predicate": {"damaged": 0, "damage": 0.7928286852589641}, "model": "food/bluemilk"},
 		{ "predicate": {"damaged": 0, "damage": 0.796812749003984}, "model": "food/greenmilk"},
 		{ "predicate": {"damaged": 0, "damage": 0.8007968127490039}, "model": "merch/hulkfist"},
-		{ "predicate": {"damaged": 0, "damage": 0.8047808764940239}, "model": "item/iron_hoe"},
+		{ "predicate": {"damaged": 0, "damage": 0.8047808764940239}, "model": "merch/wolverineclaw"},
 		{ "predicate": {"damaged": 0, "damage": 0.8087649402390438}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.8127490039840637}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.8167330677290836}, "model": "item/iron_hoe"},
