@@ -1,0 +1,10 @@
+{
+	"parent": "vehicles/DL/matterhornblue",
+	"textures": {
+		"particle": "blocks/e_particle",
+		"quartz_block_top": "blocks/quartz_block_top",
+		"shulker_blue": "blocks/shulker_top_green",
+		"obsidian": "blocks/obsidian",
+		"wool_colored_silver": "blocks/wool_colored_silver"
+	}
+}
