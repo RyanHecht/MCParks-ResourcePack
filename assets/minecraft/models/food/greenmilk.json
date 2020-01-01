@@ -1,0 +1,8 @@
+{
+    "parent": "food/bluemilk",
+	"textures": {
+		"1": "blocks/concrete_lime",
+		"2": "blocks/concrete_white",
+		"particle": "blocks/concrete_white"
+	}
+}

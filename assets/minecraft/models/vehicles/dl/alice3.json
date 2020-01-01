@@ -1,0 +1,12 @@
+{
+	"parent": "vehicles/DL/alice1",
+	"textures": {
+		"particle": "blocks/e_particle",
+		"coal_block": "blocks/coal_block",
+		"stone_slab_top": "blocks/stone_slab_top",
+		"hardened_clay_stained_black": "blocks/hardened_clay_stained_black",
+		"planks_birch": "blocks/planks_spruce",
+		"hardened_clay_magenta": "blocks/hardened_clay_stained_lime",
+		"hardened_clay_purple": "blocks/hardened_clay_stained_green"
+	}
+}

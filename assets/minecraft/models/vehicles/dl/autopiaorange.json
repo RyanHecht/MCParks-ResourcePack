@@ -1,0 +1,15 @@
+{
+	"parent": "vehicles/DL/autopiablack",
+	"textures": {
+		"particle": "blocks/e_particle",
+		"hardened_clay_red": "blocks/hardened_clay_stained_red",
+		"shulker_top_red": "blocks/shulker_top_orange",
+		"coal_block": "blocks/coal_block",
+		"stone_slab": "blocks/stone_slab_top",
+		"glowstone": "blocks/glowstone",
+		"wool_silver": "blocks/wool_colored_silver",
+		"hardened_clay_black": "blocks/hardened_clay_stained_black",
+		"quartz_block": "blocks/quartz_block_chiseled",
+		"lapis_block": "blocks/lapis_block"
+	}
+}
