@@ -1,0 +1,9 @@
+{
+	"parent": "vehicles/dumbo/dumbo_ride_arm",
+	"textures": {
+		"planks_jungle": "blocks/itemframe_background",
+		"hardened_clay_red": "blocks/itemframe_background",
+		"hardened_clay_blue": "blocks/itemframe_background",
+		"hardened_clay_grey": "blocks/hardened_clay_stained_cyan"
+	}
+}
