@@ -1,0 +1,9 @@
+{
+	"parent": "vehicles/sssred",
+	"textures": {
+		"0": "blocks/concrete_yellow",
+		"1": "blocks/iron_block",
+		"2": "blocks/hardened_clay_stained_blue",
+		"3": "blocks/anvil_base"
+	}
+}

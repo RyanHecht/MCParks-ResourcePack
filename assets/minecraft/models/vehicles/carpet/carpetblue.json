@@ -1,0 +1,12 @@
+{
+	"parent": "vehicles/carpet/carpet",
+	"textures": {
+		"1": "blocks/beacon",
+		"2": "blocks/concrete_cyan",
+		"3": "blocks/concrete_yellow",
+		"4": "blocks/concrete_light_blue",
+		"5": "blocks/concrete_red",
+		"6": "blocks/concrete_light_blue",
+		"7": "vehicles/aladdin"
+	}
+}
