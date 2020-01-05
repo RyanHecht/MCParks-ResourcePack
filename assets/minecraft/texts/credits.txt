@@ -1,6 +1,6 @@
 ﻿
 [C]§f============
-[C]§9MCParks Team - as of 10/31/2019
+[C]§9MCParks Team - as of 1/5/2020
 [C]§f============
 
  
@@ -8,7 +8,7 @@
 [C]TheDrMeowMix
 [C]RyanHecht_
  
-§7Resource Pack Contributors
+§7Resource Pack Team
 [C]RyanHecht_
 [C]Guby
 [C]agentdid127
@@ -16,7 +16,9 @@
 [C]W2D5W8
 [C]SorcererParker
 [C]mlgbuilder
-[C]DLP1992
+[C]Jones_Potter
+[C]etdt12344
+[C]Fendork
  
 §cExecutives
 [C]W2D5W8
@@ -26,7 +28,9 @@
 
 §bParks Experience (Main Focus)
 [C]agentdid127 (Resource Pack, GR, Technician)
-[C]Guby (Resource Pack, GR, Technician)
+[C]Guby (Resource Pack)
+[C]Fendork (Resource Pack)
+[C]BenDaGoat (PR/Branding)
 [C]wolfmitchell (Development)
 
 §9Technicians
@@ -37,12 +41,11 @@
 [C]JishySpoops		ronsampaul
 [C]The_Thanos		FixIt_Felix
 [C]NobodyBestFriend	abk1504_extreme
-[C]AgentCaremichael_	ultrakrash
+[C]AgentCarmichael_	ultrakrash
 [C]ShdwsMC
  
 §6Imagineers
 [C]Aaruse (§6Lead§f)
-[C]farksepher (§6TDL Project Lead§f)
 [C]WestC0T (§6WDW Resorts Project Lead§f)
 [C]mlgbuilder (§6DCA Project Lead§f)
 [C]FirstOrder (§6New DHS Project Lead§f)
@@ -51,10 +54,12 @@
 [C]Gorthog		NiTeStalkrr
 [C]StarQatar		JUANDI321
 [C]Rilbud		disneyTokyo
-[C]VillageHaus		MorTimerPlay
+[C]FirstOrder		MorTimerPlay
 [C]wityblack		ImAFoolishMortal
 [C]LegendOfSif		Paxtons1
 [C]StarQatar		T_Squnito
+[C]farksepher BentSpoon
+[C]BehindTheMagic jamman345
  
 §aGuest Relations
 [C]lilpres (§aLead§f)
@@ -66,7 +71,7 @@
 [C]HarryPotter0731	libbymoonbeam26
 [C]SplinterPlayMC	Beemaxer
 [C]Amanda_Dancer2	AdrienSol
-[C]nhrds
+[C]nhrds TheCrazyAlien
 [C]LostBoyIan		daeynore
 [C]SpacelanderD		Fuzed_
 [C]ShdwsMC		HeyItsConan
@@ -75,9 +80,7 @@
 [C]CJordan		YorkshireRose
 [C]national8872_	Colin_j
 [C]SintrexGame		radmel
-[C]TheBomb776677	joshuafreedy
-[C] TheCrazyAlien
-
+[C]TheBomb776677	HexAdventures
 
 [C]§f============
 [C]§3Special Thanks
