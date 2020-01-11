@@ -1,0 +1,13 @@
+{
+	"parent": "vehicles/stormforceacceletron/purple",
+	"textures": {
+		"body": "blocks/concrete_yellow",
+		"seat": "blocks/wool_colored_yellow",
+		"color_stripe": "blocks/concrete_purple",
+		"metal_color": "blocks/concrete_silver",
+		"metal_border": "blocks/shulker_top_magenta",
+		"stripe_dark_gray": "blocks/concrete_gray",
+		"x_yellow": "blocks/wool_colored_yellow",
+		"x_red": "blocks/concrete_red"
+	}
+}
