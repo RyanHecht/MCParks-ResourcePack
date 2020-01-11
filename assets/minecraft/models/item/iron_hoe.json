@@ -219,7 +219,7 @@
 		{ "predicate": {"damaged": 0, "damage": 0.8446215139442231}, "model": "merch/ears/birthdaymickey_cap"},
 		{ "predicate": {"damaged": 0, "damage": 0.848605577689243}, "model": "merch/ears/minnie_cap"},
 		{ "predicate": {"damaged": 0, "damage": 0.852589641434263}, "model": "merch/ears/mickeymouseclub_cap"},
-		{ "predicate": {"damaged": 0, "damage": 0.8565737051792829}, "model": "item/iron_hoe"},
+		{ "predicate": {"damaged": 0, "damage": 0.8565737051792829}, "model": "misc/camera"},
 		{ "predicate": {"damaged": 0, "damage": 0.8605577689243028}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.8645418326693227}, "model": "merch/ears/donaldhat"},
 		{ "predicate": {"damaged": 0, "damage": 0.8685258964143426}, "model": "merch/ears/monstersuniversityhat"},
