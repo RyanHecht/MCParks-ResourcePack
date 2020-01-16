@@ -1,0 +1,8 @@
+{
+	"parent": "merch/ears/mcparkshat",
+	"textures": {
+		"body": "blocks/concrete_black",
+		"brim": "blocks/concrete_black",
+		"logo": "merch/deathly_hallows"
+	}
+}
