@@ -3,7 +3,7 @@
 	"textures": {
 		"2": "blocks/concrete_silver",
 		"7": "blocks/concrete_gray",
-		"11": "blocks/hardened_clay_stained_purple",
+		"11": "vehicles/purple ",
 		"12": "blocks/concrete_red",
 		"13": "blocks/concrete_purple",
 		"15": "blocks/concrete_silver"
