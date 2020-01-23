@@ -119,7 +119,7 @@
 		{ "predicate": {"damaged": 0, "damage": 0.44621513944223107}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.450199203187251}, "model": "merch/ears/wtpears"},
 		{ "predicate": {"damaged": 0, "damage": 0.4541832669322709}, "model": "merch/ears/tiggerears"},
-		{ "predicate": {"damaged": 0, "damage": 0.4581673306772908}, "model": "item/iron_hoe"},
+		{ "predicate": {"damaged": 0, "damage": 0.4581673306772908}, "model": "merch/ears/luxo_ball_ears"},
 		{ "predicate": {"damaged": 0, "damage": 0.46215139442231074}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.46613545816733065}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.47011952191235057}, "model": "item/iron_hoe"},
