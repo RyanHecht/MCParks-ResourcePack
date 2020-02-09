@@ -1,5 +1,5 @@
 {
-	"parent": "merch/ears/mcparkshat",
+	"parent": "merch/hats/caps/mcparks",
 	"textures": {
 		"body": "blocks/concrete_black",
 		"brim": "blocks/concrete_black",
