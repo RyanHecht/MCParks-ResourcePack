@@ -1,5 +1,4 @@
 {
-	"parent": "merch/ears/mcparkshat",
 	"textures": {
 		"front": "blocks/concrete_white",
 		"back": "blocks/concrete_white",
