@@ -162,7 +162,7 @@
 		{ "predicate": {"damaged": 0, "damage": 0.6175298804780877}, "model": "magicbands/walle"},
 		{ "predicate": {"damaged": 0, "damage": 0.6215139442231076}, "model": "magicbands/waltmickey"},
 		{ "predicate": {"damaged": 0, "damage": 0.6254980079681275}, "model": "magicbands/waltrr"},
-		{ "predicate": {"damaged": 0, "damage": 0.6294820717131474}, "model": "item/iron_hoe"},
+		{ "predicate": {"damaged": 0, "damage": 0.6294820717131474}, "model": "magicbands/mickey_twenty_twenty"},
 		{ "predicate": {"damaged": 0, "damage": 0.6334661354581673}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.6374501992031872}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.6414342629482072}, "model": "item/iron_hoe"},
