@@ -1,0 +1,27 @@
+{
+	"__comment": "Designed with love by _MajorisBR_ <3",
+	"textures": {
+		"voxels_palette": "vehicles/seusspole"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Voxels-BF8EFF",
+			"from": [ 7.5294, -12.7059, 8 ],
+			"to": [ 8.470576, 28.70587, 8.941176 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" }
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation":  [ 0, 0, -8.347 ],
+			"scale":  [ 2.3, 2.3, 2.3 ]
+		}
+	}
+}

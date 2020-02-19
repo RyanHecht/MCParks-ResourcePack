@@ -1,0 +1,13 @@
+{
+	"parent": "vehicles/speedway/speedway",
+	"textures": {
+		"body": "blocks/concrete_red",
+		"trim": "blocks/concrete_white",
+		"particle": "blocks/concrete_black",
+		"black": "blocks/concrete_black",
+		"silver": "blocks/concrete_silver",
+		"gray": "blocks/concrete_gray"
+		
+		
+	}
+}
