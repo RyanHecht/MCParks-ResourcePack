@@ -206,7 +206,7 @@
 		{ "_cmd_": "give @p minecraft:iron_axe 1 200 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.7928286852589}, "model": "vehicles/speedway/speedway_red"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 201 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.7968127490039}, "model": "vehicles/speedway/speedway_white"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 202 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.8007968127490}, "model": "vehicles/speedway/speedway_blue"},
-		{ "_cmd_": "give @p minecraft:iron_axe 1 203 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.8047808764940}, "model": "item/iron_axe"},
+		{ "_cmd_": "give @p minecraft:iron_axe 1 203 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.8047808764940}, "model": "vehicles/ripsaw"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 204 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.8087649402390}, "model": "item/iron_axe"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 205 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.8127490039840}, "model": "item/iron_axe"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 206 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.8167330677290}, "model": "item/iron_axe"},
