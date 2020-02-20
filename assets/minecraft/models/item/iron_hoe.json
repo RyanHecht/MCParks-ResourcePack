@@ -125,7 +125,7 @@
 		{ "predicate": {"damaged": 0, "damage": 0.47011952191235057}, "model": "magicbands/dvc"},
 		{ "predicate": {"damaged": 0, "damage": 0.4741035856573705}, "model": "magicbands/ednajackjack"},
 		{ "predicate": {"damaged": 0, "damage": 0.47808764940239046}, "model": "magicbands/fantasia"},
-		{ "predicate": {"damaged": 0, "damage": 0.4820717131474104}, "model": "magicbands/fantasyland1"},
+		{ "predicate": {"damaged": 0, "damage": 0.4820717131474104}, "model": "magicbands/fantasyland"},
 		{ "predicate": {"damaged": 0, "damage": 0.4860557768924303}, "model": "magicbands/figment"},
 		{ "predicate": {"damaged": 0, "damage": 0.4900398406374502}, "model": "magicbands/foj"},
 		{ "predicate": {"damaged": 0, "damage": 0.4940239043824701}, "model": "magicbands/fop"},
