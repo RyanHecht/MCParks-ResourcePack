@@ -169,7 +169,7 @@
 		{ "predicate": {"damaged": 0, "damage": 0.6454183266932271}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.649402390438247}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.6533864541832669}, "model": "item/iron_hoe"},
-		{ "predicate": {"damaged": 0, "damage": 0.6573705179282868}, "model": "item/iron_hoe"},
+		{ "predicate": {"damaged": 0, "damage": 0.6573705179282868}, "model": "merch/hats/ears/bow/orange_bird"},
 		{ "predicate": {"damaged": 0, "damage": 0.6613545816733067}, "model": "magicbands/valentines"},
 		{ "predicate": {"damaged": 0, "damage": 0.6653386454183267}, "model": "merch/hats/ears/bow/red_ears"},
 		{ "predicate": {"damaged": 0, "damage": 0.6693227091633466}, "model": "merch/hats/caps/mad_hatter_hat"},
