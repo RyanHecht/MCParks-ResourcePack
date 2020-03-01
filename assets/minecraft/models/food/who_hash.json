@@ -6,7 +6,8 @@
 		"texture1": "food/who_hash",
 		"texture2": "blocks/concrete_silver",
 		"texture3": "blocks/hardened_clay",
-		"texture4": "blocks/hardened_clay_stained_green"
+		"texture4": "blocks/hardened_clay_stained_green",
+		"texture5": "food/who_hash_label"
 	},
 	"elements": [ 	 
 		{
@@ -384,6 +385,19 @@
 				"south": { "uv": [ 3, 0, 5.5, 2 ], "texture": "#texture4" },
 				"west": { "uv": [ 3, 0, 5.5, 2 ], "texture": "#texture4" },
 				"east": { "uv": [ 10.5, 0, 13, 2 ], "texture": "#texture4" }
+			}
+		},
+		{
+			"__comment": "Box2",
+			"from": [ 3.5, 2.5, 13.01 ],
+			"to": [ 12.5, 12.5, 13.011 ],
+			"faces": {
+				"down": { "uv": [ 3, 12.999, 13, 13 ], "texture": "#texture" },
+				"up": { "uv": [ 3, 3, 13, 3.001 ], "texture": "#texture" },
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 2, 1, 14, 16 ], "texture": "#texture5" },
+				"west": { "uv": [ 3, 4, 3.001, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 12.999, 4, 13, 16 ], "texture": "#texture" }
 			}
 		}
 	],
