@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "blocks/concrete_red",
 		"2": "merch/transparent",
-		"3": "merch/thing1",
+		"3": "merch/thing2",
 		"particle": "blocks/concrete_red"
 	}
 }
