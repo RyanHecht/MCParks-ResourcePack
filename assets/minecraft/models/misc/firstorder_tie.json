@@ -4,9 +4,9 @@
 		"0": "blocks/concrete_red",
 		"2": "blocks/concrete_white",
 		"3": "blocks/concrete_silver",
-		"4": "First Order TIE/blackTIE",
+		"4": "misc/blacktie",
 		"5": "blocks/concrete_black",
-		"7": "First Order TIE/blackTIE2",
+		"7": "misc/blacktie2",
 		"particle": "blocks/concrete_red"
 	},
 	"elements": [
