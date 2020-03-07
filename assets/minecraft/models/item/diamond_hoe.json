@@ -8,7 +8,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.000640614990391 }, "model": "merch/hats/misc/xwing_helmet" },
 		{ "predicate": { "damaged": 0, "damage": 0.001281229980782 }, "model": "merch/hats/misc/xwing_resistance_black" },
 		{ "predicate": { "damaged": 0, "damage": 0.001921844971172 }, "model": "merch/hats/misc/xwing_resistance_white" },
-		{ "predicate": { "damaged": 0, "damage": 0.002562459961563 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.002562459961563 }, "model": "merch/toys/lightsabers/maulsaberlit" },
 		{ "predicate": { "damaged": 0, "damage": 0.003203074951954 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.003843689942345 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.004484304932735 }, "model": "item/diamond_hoe" },
