@@ -1,0 +1,13 @@
+{
+	"parent": "merch/hats/misc/xwing_resistance_black",
+	"textures": {
+		"particle": "blocks/concrete_white",
+		"body": "blocks/concrete_white",
+		"stripes": "blocks/concrete_black",
+		"trim": "blocks/hardened_clay_stained_white",
+		"mic_area": "blocks/concrete_white",
+		"logo_area": "blocks/concrete_silver",
+		"resistance_logo": "merch/resistance_blue",
+		"texture": "blocks/glass_orange"
+	}
+}

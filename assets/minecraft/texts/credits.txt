@@ -1,6 +1,6 @@
 ﻿
 [C]§f============
-[C]§9MCParks Team - as of 1/5/2020
+[C]§9MCParks Team - as of 3/6/2020
 [C]§f============
 
  
@@ -10,15 +10,15 @@
  
 §7Resource Pack Team
 [C]RyanHecht_
-[C]Guby
 [C]agentdid127
-[C]Jishy_
+[C]NotJishy
 [C]W2D5W8
 [C]SorcererParker
 [C]mlgbuilder
-[C]Jones_Potter
 [C]etdt12344
 [C]Fendork
+[C]Majoris
+[C]YouthInRevolt
  
 §cExecutives
 [C]W2D5W8
@@ -27,22 +27,22 @@
 [C]ElectricUmbrella
 
 §bParks Experience (Main Focus)
-[C]agentdid127 (Resource Pack, GR, Technician)
-[C]Guby (Resource Pack)
+[C]agentdid127 (Resource Pack)
 [C]Fendork (Resource Pack)
 [C]BenDaGoat (PR/Branding)
 [C]wolfmitchell (Development)
+[C]Majoris (Resource Pack)
+[C]YouthInRevolt (Resource Pack)
 
 §9Technicians
 [C]Vec_ (§9Lead§f)
 [C]etdt12344		Picklee	
 [C]_Imagineer_		mpawn
-[C]DLP1992		Jones_Potter
+[C]DLP1992		agentdid127
 [C]JishySpoops		ronsampaul
 [C]The_Thanos		FixIt_Felix
 [C]NobodyBestFriend	abk1504_extreme
 [C]AgentCarmichael_	ultrakrash
-[C]ShdwsMC
  
 §6Imagineers
 [C]Aaruse (§6Lead§f)
@@ -51,15 +51,16 @@
 [C]FirstOrder (§6New DHS Project Lead§f)
 [C]SorcererParker (§6New DL Project Lead§f)
 [C]Krake802		butterman123654
-[C]Gorthog		NiTeStalkrr
-[C]StarQatar		JUANDI321
+[C]NiTeStalkrr		JUANDI321
 [C]Rilbud		disneyTokyo
-[C]FirstOrder		MorTimerPlay
-[C]wityblack		ImAFoolishMortal
+[C]MorTimerPlay		Gorthog
+[C]itsasmallworld		ImAFoolishMortal
 [C]LegendOfSif		Paxtons1
 [C]StarQatar		T_Squnito
-[C]farksepher BentSpoon
+[C]farksepher		Kegbo
 [C]BehindTheMagic jamman345
+[C]__Revelations__		DisneylandParks
+[C]DJBoemerang		IESE_Plays_MC
  
 §aGuest Relations
 [C]lilpres (§aLead§f)
@@ -81,6 +82,9 @@
 [C]national8872_	Colin_j
 [C]SintrexGame		radmel
 [C]TheBomb776677	HexAdventures
+[C]Zorgith		johnyb2
+[C]ThorThunderGod		agentdid127
+[C]NotJishy
 
 [C]§f============
 [C]§3Special Thanks

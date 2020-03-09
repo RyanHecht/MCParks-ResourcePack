@@ -3,11 +3,11 @@
 	"textures": {
 		"4": "blocks/concrete_brown",
 		"7": "blocks/concrete_powder_silver",
-		"8": "blocks/concrete_brown",
+		"8": "backpacks/dougbrown",
 		"10": "blocks/concrete_red",
 		"11": "blocks/concrete_black",
 		"12": "blocks/concrete_gray",
-		"13": "blocks/concrete_brown",
+		"13": "backpacks/dougears",
 		"14": "blocks/concrete_white",
 		"15": "blocks/concrete_pink"
 	},
