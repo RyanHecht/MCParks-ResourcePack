@@ -1,0 +1,9 @@
+{
+	"parent":"misc/ge/droids/gonk_white",
+	"textures": {
+		"body": "blocks/concrete_powder_silver",
+		"feet": "blocks/concrete_gray",
+		"particle": "blocks/wool_colored_white",
+		"panel": "blocks/hardened_clay"
+	}
+}
