@@ -26,7 +26,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.012171684817425 }, "model": "merch/toys/star_destroyer" },
 		{ "predicate": { "damaged": 0, "damage": 0.012812299807816 }, "model": "merch/toys/battlecruiser" },
 		{ "predicate": { "damaged": 0, "damage": 0.013452914798206 }, "model": "merch/toys/raddus" },
-		{ "predicate": { "damaged": 0, "damage": 0.014093529788597 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.014093529788597 }, "model": "misc/ge/vehicles/hanger_outside_tie" },
 		{ "predicate": { "damaged": 0, "damage": 0.014734144778988 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.015374759769379 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.016015374759769 }, "model": "item/diamond_hoe" },
