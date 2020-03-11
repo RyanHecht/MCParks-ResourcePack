@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"particle": "Door Control Panel/CP1",
-		"voxels_atlas": "Door Control Panel/CP1"
+		"particle": "misc/ge/CP1",
+		"voxels_atlas": "misc/ge/CP1"
 	},
 	"elements": [
 		{
