@@ -3,10 +3,10 @@
 	"textures": {
 		"0": "blocks/concrete_red",
 		"2": "blocks/concrete_white",
-		"3": "First Order TIE (Done)/concrete_silver",
-		"4": "First Order TIE (Done)/blacktiedarkgray",
+		"3": "blocks/concrete_silver",
+		"4": "misc/blacktiedarkgray",
 		"5": "blocks/concrete_black",
-		"7": "First Order TIE (Done)/blacktielightgray",
+		"7": "misc/blacktielightgray",
 		"particle": "blocks/concrete_red"
 	},
 	"elements": [
