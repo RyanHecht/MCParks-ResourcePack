@@ -198,9 +198,9 @@
 		{ "predicate": {"damaged": 0, "damage": 0.7569721115537849}, "model": "item/iron_shovel"},
 		{ "predicate": {"damaged": 0, "damage": 0.7609561752988048}, "model": "item/iron_shovel"},
 		{ "predicate": {"damaged": 0, "damage": 0.7649402390438247}, "model": "item/iron_shovel"},
-		{ "predicate": {"damaged": 0, "damage": 0.7689243027888446}, "model": "item/iron_shovel"},
-		{ "predicate": {"damaged": 0, "damage": 0.7729083665338645}, "model": "item/iron_shovel"},
-		{ "predicate": {"damaged": 0, "damage": 0.7768924302788844}, "model": "item/iron_shovel"},
+		{ "predicate": {"damaged": 0, "damage": 0.7689243027888446}, "model": "shows/hea"},
+		{ "predicate": {"damaged": 0, "damage": 0.7729083665338645}, "model": "shows/wishes"},
+		{ "predicate": {"damaged": 0, "damage": 0.7768924302788844}, "model": "shows/rdct"},
 		{ "predicate": {"damaged": 0, "damage": 0.7808764940239044}, "model": "item/iron_shovel"},
 		{ "predicate": {"damaged": 0, "damage": 0.7848605577689243}, "model": "item/iron_shovel"},
 		{ "predicate": {"damaged": 0, "damage": 0.7888446215139442}, "model": "item/iron_shovel"},
@@ -253,9 +253,9 @@
 		{ "predicate": {"damaged": 0, "damage": 0.9760956175298805}, "model": "item/iron_shovel"},
 		{ "predicate": {"damaged": 0, "damage": 0.9800796812749004}, "model": "item/iron_shovel"},
 		{ "predicate": {"damaged": 0, "damage": 0.9840637450199203}, "model": "item/iron_shovel"},
-		{ "predicate": {"damaged": 0, "damage": 0.9880478087649402}, "model": "item/iron_shovel"},
-		{ "predicate": {"damaged": 0, "damage": 0.9920318725099602}, "model": "item/iron_shovel"},
-		{ "predicate": {"damaged": 0, "damage": 0.9960159362549801}, "model": "item/iron_shovel"},
+		{ "predicate": {"damaged": 0, "damage": 0.9880478087649402}, "model": "shows/rdct"},
+		{ "predicate": {"damaged": 0, "damage": 0.9920318725099602}, "model": "shows/wishes"},
+		{ "predicate": {"damaged": 0, "damage": 0.9960159362549801}, "model": "shows/hea"},
 		{ "predicate": {"damaged": 1, "damage": 0}, "model": "item/iron_shovel"}
 	]
 }
