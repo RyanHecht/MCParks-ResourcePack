@@ -31,7 +31,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.015374759769379 }, "model": "merch/hats/misc/bobo_fett_helmet" },
 		{ "predicate": { "damaged": 0, "damage": 0.016015374759769 }, "model": "merch/hats/misc/jango_helmet" },
 		{ "predicate": { "damaged": 0, "damage": 0.01665598975016 }, "model": "merch/hats/ears/regular/sixty_ears" },
-		{ "predicate": { "damaged": 0, "damage": 0.017296604740551 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.017296604740551 }, "model": "food/detonator/dasani" },
 		{ "predicate": { "damaged": 0, "damage": 0.017937219730942 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.018577834721332 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.019218449711723 }, "model": "item/diamond_hoe" },
