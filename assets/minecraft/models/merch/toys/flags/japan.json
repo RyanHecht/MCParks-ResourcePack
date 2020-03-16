@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "blocks/concrete_white",
 		"1": "blocks/concrete_yellow",
-		"2": "Japan/japan",
+		"2": "merch/japan",
 		"particle": "blocks/concrete_white"
 	},
 	"elements": [
