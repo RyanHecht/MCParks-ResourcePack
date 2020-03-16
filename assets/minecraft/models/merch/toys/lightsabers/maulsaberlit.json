@@ -8,6 +8,7 @@
 		"4": "blocks/concrete_powder_silver",
 		"5": "blocks/concrete_powder_red",
 		"6": "merch/darthmaul_gray",
+		"missing": "blocks/concrete_silver",
 		"particle": "blocks/concrete_powder_red"
 	},
 	"elements": [
