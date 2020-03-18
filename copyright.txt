@@ -1,0 +1,13 @@
+The models in this Resource Pack (Files in /assets/minecraft/models) were largely made by the MCParks team of Cast Members or by commissioned artists for the exclusive use on the MCParks Minecraft server. These models may not be used in any other context for any other reason without the consent of the Owners of MCParks
+
+The following models were made by GamerKM for the Haxicklesticks project, and are used with the original artist's permission:
+- /assets/minecraft/models/vehicles/dl/alice*.json
+- /assets/minecraft/models/vehicles/dl/astroorbiter.json
+- /assets/minecraft/models/vehicles/dl/autopia*.json
+- /assets/minecraft/models/vehicles/dl/horse.json
+- /assets/minecraft/models/vehicles/dl/matterhorn*.json
+- /assets/minecraft/models/vehicles/dl/monorail*.json
+- /assets/minecraft/models/vehicles/dl/mrtoad.json
+- /assets/minecraft/models/vehicles/dl/pinocchio.json
+- /assets/minecraft/models/vehicles/dl/snowwhite.json
+- /assets/minecraft/models/vehicles/dl/wtp.json
