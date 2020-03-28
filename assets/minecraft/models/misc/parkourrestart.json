@@ -1,1 +1,1 @@
-{"parent": "misc/maps", "textures": { "layer0": "misc/parkourrestart" }}
+{"parent": "item/generated", "textures": { "layer0": "misc/parkourrestart" }}

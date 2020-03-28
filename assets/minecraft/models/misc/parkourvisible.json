@@ -1,1 +1,1 @@
-{"parent": "misc/maps", "textures": { "layer0": "misc/parkourvisible" }}
+{"parent": "item/generated", "textures": { "layer0": "misc/parkourvisible" }}
