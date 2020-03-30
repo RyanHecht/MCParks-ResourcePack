@@ -38,7 +38,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.019859064702114 }, "model": "merch/gelizards/lizardblue" },
 		{ "predicate": { "damaged": 0, "damage": 0.020499679692505 }, "model": "merch/gelizards/lizardregular" },
 		{ "predicate": { "damaged": 0, "damage": 0.021140294682896 }, "model": "food/mcp_popcorn" },
-		{ "predicate": { "damaged": 0, "damage": 0.021780909673286 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.021780909673286 }, "model": "merch/hats/misc/loki_helmet" },
 		{ "predicate": { "damaged": 0, "damage": 0.022421524663677 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.023062139654068 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.023702754644459 }, "model": "item/diamond_hoe" },
