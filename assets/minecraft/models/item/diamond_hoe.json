@@ -69,7 +69,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.039718129404228 }, "model": "merch/hats/ears/bow/7th_/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.040358744394619 }, "model": "merch/hats/ears/bow/7th_/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.04099935938501 }, "model": "merch/hats/ears/regular/7year_ears" },
-		{ "predicate": { "damaged": 0, "damage": 0.0416399743754 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.0416399743754 }, "model": "misc/hardhat_exec" },
 		{ "predicate": { "damaged": 0, "damage": 0.042280589365791 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.042921204356182 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.043561819346573 }, "model": "item/diamond_hoe" },
