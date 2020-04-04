@@ -1,6 +1,6 @@
 {
 	"parent": "merch/gelizards/lizardblue",
 	"textures": {
-		"lizardblue": "merch/lizardregular",
+		"lizardblue": "merch/lizardregular"
 	}
 }
