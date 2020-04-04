@@ -1,0 +1,14 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "vehicles/dumbo/dumbodl",
+	"textures": {
+		"3": "blocks/concrete_powder_silver",
+		"5": "blocks/cactus_bottom",
+		"7": "blocks/concrete_white",
+		"8": "blocks/anvil_base",
+		"9": "blocks/concrete_powder_light_blue",
+		"11": "blocks/hardened_clay_stained_pink",
+		"main": "blocks/hardened_clay_stained_blue",
+		"accent": "blocks/wool_colored_blue"
+	}
+}

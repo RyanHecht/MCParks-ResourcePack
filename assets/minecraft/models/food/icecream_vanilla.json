@@ -1,0 +1,9 @@
+{
+    "parent": "food/icecream_chocolate",
+	"textures": {
+		"0": "blocks/sand",
+		"2": "blocks/concrete_white",
+		"3": "blocks/concrete_brown",
+		"particle": "blocks/sand"
+	}
+}

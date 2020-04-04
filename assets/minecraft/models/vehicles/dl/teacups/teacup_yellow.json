@@ -1,0 +1,6 @@
+{
+	"parent": "vehicles/dl/teacups/teacup_orange_p",
+	"textures": {
+		"orange_teacup": "vehicles/teacups/teacup_yellow"
+	}
+}

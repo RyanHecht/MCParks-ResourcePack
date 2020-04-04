@@ -1,0 +1,12 @@
+{
+	"parent": "vehicles/ppf_dl_yellow",
+	"textures": {
+		"coal_block": "blocks/coal_block",
+		"nether_brick": "blocks/hardened_clay_stained_red",
+		"shulker_lightblue": "blocks/shulker_top_light_blue",
+		"glowstone": "blocks/hardened_clay_stained_yellow",
+		"white_wool": "blocks/wool_colored_white",
+		"red_wool": "blocks/wool_colored_red",
+		"diamond_block": "blocks/diamond_block"
+	}
+}

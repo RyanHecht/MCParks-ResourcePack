@@ -1,1 +1,6 @@
-{"parent": "item/handheld", "textures": { "layer0": "attractions/wdw/park" } }
+{
+	"parent": "merch/gelizards/lizardblue",
+	"textures": {
+		"lizardblue": "merch/lizardregular",
+	}
+}
