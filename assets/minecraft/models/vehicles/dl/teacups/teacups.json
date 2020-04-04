@@ -1,6 +1,8 @@
 {
-	"__comment": "Designed by Guby, Textured by agentdid127",
+	"__comment": "Designed by Cm@BlackSpigotMC with Cubik Studio - https://cubik.studio",
 	"textures": {
+		"particle": "blocks/particle",
+		"texture": "blocks/texture",
 		"voxels_atlas": "blocks/voxels_atlas"
 	},
 	"elements": [ 	 
@@ -20089,5 +20091,45 @@
 				"east": { "uv": [ 10.125, 9.625, 10.09375, 9.65625 ], "texture": "#voxels_atlas" }
 			}
 		}
-	]
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 69, 31, 0 ],
+			"translation":  [ 0.6956, 2.0869, 0.6956 ],
+			"scale":  [ 0.15, 0.15, 0.15 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ 69, 31, 0 ],
+			"translation":  [ 0.6956, 2.0869, 0.6956 ],
+			"scale":  [ 0.15, 0.15, 0.15 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 25, 22, 0 ],
+			"translation":  [ 0, 5.5652, 0 ],
+			"scale":  [ 0.15, 0.15, 0.15 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ 25, 22, 0 ],
+			"translation":  [ 0, 5.5652, 0 ],
+			"scale":  [ 0.15, 0.15, 0.15 ]
+		},
+		"gui": {
+			"rotation":  [ 28, 49, -6 ],
+			"scale":  [ 0.25, 0.25, 0.25 ]
+		},
+		"head": {
+			"translation":  [ 0, -25.04, 0 ],
+			"scale":  [ 2, 2, 2 ]
+		},
+		"ground": {
+			"rotation":  [ 11, 0, 0 ],
+			"translation":  [ 0, 3.4782, 0 ],
+			"scale":  [ 0.25, 0.25, 0.25 ]
+		},
+		"fixed": {
+			"rotation":  [ -89, 0, 0 ],
+			"translation":  [ 0, 0, -2.086 ],
+			"scale":  [ 0.25, 0.25, 0.25 ]
+		}
+	}
 }
