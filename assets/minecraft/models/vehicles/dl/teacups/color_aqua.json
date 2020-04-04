@@ -1,0 +1,6 @@
+{
+	"parent": "vehicles/dl/teacups/teacups",
+	"textures": {
+		"voxels_atlas": "vehicles/teacups/aqua"
+	}
+}

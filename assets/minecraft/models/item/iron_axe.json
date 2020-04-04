@@ -228,7 +228,7 @@
 		{ "_cmd_": "give @p minecraft:iron_axe 1 222 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.8804780876494}, "model": "vehicles/dl/teacups/texture_blue"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 223 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.8844621513944}, "model": "vehicles/dl/teacups/texture_pink"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 224 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.8884462151394}, "model": "vehicles/dl/teacups/texture_red"},
-		{ "_cmd_": "give @p minecraft:iron_axe 1 225 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.8924302788844}, "model": "item/iron_axe"},
+		{ "_cmd_": "give @p minecraft:iron_axe 1 225 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.8924302788844}, "model": "vehicles/dl/teacups/color_aqua"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 226 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.8964143426294}, "model": "item/iron_axe"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 227 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.9003984063745}, "model": "item/iron_axe"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 228 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.9043824701195}, "model": "item/iron_axe"},
