@@ -1,0 +1,12 @@
+{
+    "parent": "vehicles/wdw_btm_engine",
+	"textures": {
+		"hardened_clay_black": "blocks/shulker_top_gray",
+		"hardened_clay_red": "blocks/wool_colored_red",
+		"hardened_clay_green": "blocks/concrete_powder_green",
+		"hardened_clay_limegreen": "blocks/glazed_terracotta_green",
+		"hardened_clay_yellow": "blocks/shulker_top_yellow",
+		"hardened_clay_white": "blocks/hardened_clay_stained_white",
+		"redstone_block": "blocks/redstone_block"
+	}
+}
