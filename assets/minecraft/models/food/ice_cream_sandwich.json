@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "blocks/concrete_white",
-		"1": "Mickey Ice Cream Sandwich/icecream_sandwich1",
-		"2": "Mickey Ice Cream Sandwich/icecream_sandwich2",
+		"1": "food/icecream_sandwich1",
+		"2": "food/icecream_sandwich2",
 		"particle": "blocks/concrete_white"
 	},
 	"elements": [
