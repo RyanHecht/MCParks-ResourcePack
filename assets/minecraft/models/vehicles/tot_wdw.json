@@ -1,0 +1,17 @@
+{
+	"parent": "vehicles/tot",
+	"textures": {
+		"particle": "blocks/particle",
+		"texture": "blocks/texture",
+		"voxels_atlas": "vehicles/tot",
+		"voxels_atlas1": "blocks/voxels_atlas1"
+	},
+		"display": {
+		"head": {
+			"rotation":  [ 0, 0, 0 ],
+			"translation":  [ -11, -29.91, -11 ],
+			"scale":  [ 2.7, 5.5, 2.7 ]
+		}
+	}
+	
+}
