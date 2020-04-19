@@ -239,7 +239,7 @@
 		{ "_cmd_": "give @p minecraft:iron_axe 1 233 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.9243027888446}, "model": "misc/parrot_cage_jose"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 234 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.9282868525896}, "model": "misc/parrot_cage_michael"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 235 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.9322709163346}, "model": "misc/parrot_cage_pierre"},
-		{ "_cmd_": "give @p minecraft:iron_axe 1 236 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.9362549800796}, "model": "item/iron_axe"},
+		{ "_cmd_": "give @p minecraft:iron_axe 1 236 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.9362549800796}, "model": "vehicles/roger_rabbit"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 237 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.9402390438247}, "model": "item/iron_axe"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 238 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.9442231075697}, "model": "item/iron_axe"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 239 {Unbreakable:1}", "predicate": {"damaged": 0, "damage": 0.9482071713147}, "model": "item/iron_axe"},
