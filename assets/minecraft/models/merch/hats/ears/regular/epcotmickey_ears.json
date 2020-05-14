@@ -3,8 +3,7 @@
 	"textures": {
 		"2": "blocks/concrete_black",
 		"3": "blocks/concrete_silver",
-		"4": "merch/ears/epcotmickey_texture2",
-		"particle": "merch/mcparks_hat"
+		"4": "merch/ears/epcotmickey_texture2"
 	},
 	"elements": [
 		{
