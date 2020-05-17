@@ -119,7 +119,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.071748878923767 }, "model": "backpacks/sse" },
 		{ "predicate": { "damaged": 0, "damage": 0.072389493914158 }, "model": "backpacks/coloredmickeys" },
 		{ "predicate": { "damaged": 0, "damage": 0.073030108904548 }, "model": "backpacks/pixar" },
-		{ "predicate": { "damaged": 0, "damage": 0.073670723894939 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.073670723894939 }, "model": "merch/hats/ears/regular/canadian" },
 		{ "predicate": { "damaged": 0, "damage": 0.07431133888533 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.074951953875721 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.075592568866111 }, "model": "item/diamond_hoe" },
