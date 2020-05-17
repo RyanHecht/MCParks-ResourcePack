@@ -32996,35 +32996,42 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation":  [ 69, 31, 0 ],
-			"translation":  [ -9.739, 15.304, -4.768 ]
+			"translation":  [ 0.6956, 2.0869, 0.6956 ],
+			"scale":  [ 0.15, 0.15, 0.15 ]
 		},
 		"thirdperson_lefthand": {
 			"rotation":  [ 69, 31, 0 ],
-			"translation":  [ -9.739, 15.304, -4.768 ]
+			"translation":  [ 0.6956, 2.0869, 0.6956 ],
+			"scale":  [ 0.15, 0.15, 0.15 ]
 		},
 		"firstperson_righthand": {
-			"rotation":  [ -17, -1, 5 ],
-			"translation":  [ 9.7383, -16, -53.56 ],
-			"scale":  [ 2, 2, 2 ]
+			"rotation":  [ 8, 135, 0 ],
+			"translation":  [ 0, 5.5652, 0 ],
+			"scale":  [ 0.15, 0.15, 0.15 ]
 		},
 		"firstperson_lefthand": {
-			"rotation":  [ -17, -1, 5 ],
-			"translation":  [ 9.7383, -16, -53.56 ],
-			"scale":  [ 2, 2, 2 ]
+			"rotation":  [ 8, 135, 0 ],
+			"translation":  [ 0, 5.5652, 0 ],
+			"scale":  [ 0.15, 0.15, 0.15 ]
 		},
 		"gui": {
-			"translation":  [ 1.3913, -1.391, 0 ]
+			"rotation":  [ 9, -139, 0 ],
+			"translation":  [ 1.3913, 0, 0 ],
+			"scale":  [ 0.3, 0.3, 0.3 ]
 		},
 		"head": {
 			"translation":  [ 8.3478, 0, -55.65 ],
 			"scale":  [ 2.5, 2.5, 2.5 ]
 		},
 		"ground": {
-			"rotation":  [ 27, 0, 0 ],
-			"translation":  [ 0, 11.826, -15.29 ]
+			"rotation":  [ 9, 0, 0 ],
+			"translation":  [ 0, 5.5652, 0 ],
+			"scale":  [ 0.25, 0.25, 0.25 ]
 		},
 		"fixed": {
-			"translation":  [ 0, 0, -18.08 ]
+			"rotation":  [ -89, 0, 0 ],
+			"translation":  [ 0, 0, -3.477 ],
+			"scale":  [ 0.25, 0.25, 0.25 ]
 		}
 	}
 }
