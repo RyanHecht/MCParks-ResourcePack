@@ -136,7 +136,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.08263933376041 }, "model": "magicbands/livebelle" },
 		{ "predicate": { "damaged": 0, "damage": 0.083279948750801 }, "model": "magicbands/marypoppins" },
 		{ "predicate": { "damaged": 0, "damage": 0.083920563741192 }, "model": "magicbands/squirt" },
-		{ "predicate": { "damaged": 0, "damage": 0.084561178731582 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.084561178731582 }, "model": "misc/hagrid_cycle" },
 		{ "predicate": { "damaged": 0, "damage": 0.085201793721973 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.085842408712364 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.086483023702755 }, "model": "item/diamond_hoe" },
