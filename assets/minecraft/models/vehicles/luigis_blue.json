@@ -28180,7 +28180,7 @@
 		"head": {
 			"rotation":  [ 0, -90, 0 ],
 			"translation":  [ 0, -13, 0 ],
-			"scale":  [ 2.5, 2.5, 2.5 ]
+			"scale":  [ 1.8, 1.8, 1.8 ]
 		},
 		"ground": {
 			"translation":  [ 0, 12, 0 ],
