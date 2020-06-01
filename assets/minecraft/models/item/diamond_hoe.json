@@ -149,7 +149,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.09096732863549 }, "model": "merch/toys/flags/pride_flags/pansexual" },
 		{ "predicate": { "damaged": 0, "damage": 0.091607943625881 }, "model": "merch/toys/flags/pride_flags/pride_flag" },
 		{ "predicate": { "damaged": 0, "damage": 0.092248558616272 }, "model": "merch/toys/flags/pride_flags/transgender" },
-		{ "predicate": { "damaged": 0, "damage": 0.092889173606662 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.092889173606662 }, "model": "misc/ge/droids/mousedroid_popcorn" },
 		{ "predicate": { "damaged": 0, "damage": 0.093529788597053 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.094170403587444 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.094811018577835 }, "model": "item/diamond_hoe" },
