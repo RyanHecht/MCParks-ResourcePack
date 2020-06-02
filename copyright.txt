@@ -11,3 +11,4 @@ The following models were made by GamerKM for the Haxicklesticks project, and ar
 - /assets/minecraft/models/vehicles/dl/pinocchio.json
 - /assets/minecraft/models/vehicles/dl/snowwhite.json
 - /assets/minecraft/models/vehicles/dl/wtp.json
+- /assets/minecraft/models/misc/parrot_cage*.json
