@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "blocks/concrete_white",
 		"1": "blocks/concrete_yellow",
-		"2": "merch/japan",
+		"4": "merch/japan",
 		"particle": "blocks/concrete_white"
 	},
 	"elements": [
@@ -129,12 +129,12 @@
 			"from": [7.5, 9.75, -6.25],
 			"to": [7.75, 25, 22.25],
 			"faces": {
-				"north": {"uv": [16, 0, 7.72, 8.523], "texture": "#2"},
-				"east": {"uv": [16, 0, 0.088, 15.982], "texture": "#2"},
-				"south": {"uv": [4.302, 5.049, 4.834, 8.548], "texture": "#2"},
-				"west": {"uv": [0.035, 0, 15.96, 15.966], "texture": "#2"},
-				"up": {"uv": [1.404, 2.737, 10.545, 1.156], "rotation": 90, "texture": "#2"},
-				"down": {"uv": [6.204, 14.649, 8.483, 15.185], "rotation": 270, "texture": "#2"}
+				"north": {"uv": [16, 0, 7.72, 8.523], "texture": "#4"},
+				"east": {"uv": [0, 0.5, 15.925, 15.216], "texture": "#4"},
+				"south": {"uv": [4.302, 5.049, 4.834, 8.548], "texture": "#4"},
+				"west": {"uv": [0, 0.5, 15.925, 15.216], "texture": "#4"},
+				"up": {"uv": [1.404, 2.737, 10.545, 1.156], "rotation": 90, "texture": "#4"},
+				"down": {"uv": [6.204, 14.649, 8.483, 15.185], "rotation": 270, "texture": "#4"}
 			}
 		},
 		{
