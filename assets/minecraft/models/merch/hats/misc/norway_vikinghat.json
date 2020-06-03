@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/gold_block",
+		"0": "blocks/gold_block",
 		"4": "merch/epcot_logo",
-		"6": "block/gray_concrete",
-		"7": "block/concrete_powder_silver",
-		"10": "block/bone_block_side",
-		"particle": "block/gold_block"
+		"6": "blocks/concrete_gray",
+		"7": "blocks/concrete_powder_silver",
+		"10": "blocks/bone_block_side",
+		"particle": "blocks/gold_block"
 	},
 	"elements": [
 		{
