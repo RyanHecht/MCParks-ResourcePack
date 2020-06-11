@@ -1,8 +1,7 @@
 {
 	"__comment": "Designed by Etdt12344 with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "epcot_lwtl",
-		"texture": "epcot_lwtl",
+		"particle": "vehicles/epcot_lwtl",
 		"voxels_palette": "vehicles/epcot_lwtl"
 	},
 	"elements": [ 	 
