@@ -1,7 +1,6 @@
 {
 	"__comment": "Designed by Gooby with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/particle",
 		"texture": "blocks/concrete_black",
 		"texture1": "blocks/concrete_gray",
 		"texture2": "blocks/concrete_yellow",

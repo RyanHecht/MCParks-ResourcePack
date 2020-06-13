@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "merch/0",
 		"1": "blocks/grass_path_top",
-		"particle": "blocks/white_concrete_powder"
+		"particle": "blocks/concrete_powder_white"
 	},
 	"elements": [ 	 
 		{

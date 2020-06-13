@@ -1,7 +1,6 @@
 {
 	"__comment": "Designed by KUMO85 with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "items/particle",
 		"texture": "vehicles/ee"
 	},
 	"elements": [ 	 

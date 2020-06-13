@@ -1,8 +1,6 @@
 {
 	"__comment": "Designed by MCParks with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/particle",
-		"texture": "blocks/texture",
 		"TTA_Vehicle_TNH_palette": "vehicles/tta"
 	},
 	"elements": [ 	 

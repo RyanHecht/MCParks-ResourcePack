@@ -11,8 +11,7 @@
 		"8": "blocks/concrete_silver",
 		"9": "blocks/concrete_powder_red",
 		"10": "vehicles/ggc_safety_message2",
-		"particle": "blocks/concrete_light_blue",
-		"missing": "blocks/e_texture"
+		"particle": "blocks/concrete_light_blue"
 	},
 	"elements": [ 	 
 		{

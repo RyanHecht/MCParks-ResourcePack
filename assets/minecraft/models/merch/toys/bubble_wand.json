@@ -1,7 +1,6 @@
 {
 	"credit": "Created by Guby <3",
 	"textures": {
-		"particle": "blocks/particle",
 		"texture": "blocks/concrete_red",
 		"mesh_palette": "blocks/mesh_palette",
 		"texture1": "blocks/concrete_yellow",

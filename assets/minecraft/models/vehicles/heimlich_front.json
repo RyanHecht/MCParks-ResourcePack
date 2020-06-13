@@ -1,7 +1,6 @@
 {
 	"__comment": "Designed by MCParks with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "items/particle",
 		"texture": "items/texture",
 		"voxels_palette": "vehicles/heimlich_front"
 	},

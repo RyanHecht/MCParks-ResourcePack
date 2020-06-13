@@ -1,7 +1,6 @@
 {
 	"__comment": "Designed by MCParks with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/particle",
 		"texture": "blocks/texture",
 		"McQueen_palette": "misc/cars/mcqueen"
 	},

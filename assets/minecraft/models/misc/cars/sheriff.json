@@ -1,7 +1,6 @@
 {
 	"__comment": "Designed by MCParks with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "misc/cars/sheriff_particle",
 		"texture": "misc/cars/sheriff_texture",
 		"rs": "misc/cars/rs_police",
 		"mesh_atlas": "misc/cars/sheriff_atlas"

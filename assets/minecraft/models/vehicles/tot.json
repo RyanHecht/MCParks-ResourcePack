@@ -1,8 +1,6 @@
 {
 	"__comment": "Designed by Rhysjones12 with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/particle",
-		"texture": "blocks/texture",
 		"voxels_atlas": "vehicles/tot",
 		"voxels_atlas1": "blocks/voxels_atlas1"
 	},

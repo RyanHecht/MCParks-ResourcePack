@@ -1,7 +1,6 @@
 {
 	"__comment": "Designed by W2D5W8 with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/particle",
 		"texture": "blocks/texture",
 		"mesh_palette": "merch/mesh_palette"
 	},
