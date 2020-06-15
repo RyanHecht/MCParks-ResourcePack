@@ -1,13 +1,22 @@
-﻿
+
 [C]§f============
-[C]§9MCParks Team - as of 3/6/2020
+[C]§9MCParks Team - as of 6/14/2020
 [C]§f============
 
  
 §dOwners
-[C]TheDrMeowMix
+[C]TeamDarren
 [C]RyanHecht_
  
+§cLeads/Executives
+[C]W2D5W8
+[C]Kae_
+[C]Jessicacake22
+[C]ElectricUmbrella
+[C]Vec_
+[C]Aaruse
+[C]PandemicWW
+
 §7Resource Pack Team
 [C]RyanHecht_
 [C]agentdid127
@@ -19,81 +28,8 @@
 [C]Fendork
 [C]Majoris
 [C]YouthInRevolt
+[C]wityblack
+[C]ZachTheTech
  
-§cExecutives
-[C]W2D5W8
-[C]Kae_
-[C]Jessicacake22
-[C]ElectricUmbrella
 
-§bParks Experience (Main Focus)
-[C]agentdid127 (Resource Pack)
-[C]Fendork (Resource Pack)
-[C]BenDaGoat (PR/Branding)
-[C]wolfmitchell (Development)
-[C]Majoris (Resource Pack)
-[C]YouthInRevolt (Resource Pack)
-
-§9Technicians
-[C]Vec_ (§9Lead§f)
-[C]etdt12344		Picklee	
-[C]_Imagineer_		mpawn
-[C]DLP1992		agentdid127
-[C]JishySpoops		ronsampaul
-[C]The_Thanos		FixIt_Felix
-[C]NobodyBestFriend	abk1504_extreme
-[C]AgentCarmichael_	ultrakrash
- 
-§6Imagineers
-[C]Aaruse (§6Lead§f)
-[C]WestC0T (§6WDW Resorts Project Lead§f)
-[C]mlgbuilder (§6DCA Project Lead§f)
-[C]FirstOrder (§6New DHS Project Lead§f)
-[C]SorcererParker (§6New DL Project Lead§f)
-[C]Krake802		butterman123654
-[C]NiTeStalkrr		JUANDI321
-[C]Rilbud		disneyTokyo
-[C]MorTimerPlay		Gorthog
-[C]itsasmallworld		ImAFoolishMortal
-[C]LegendOfSif		Paxtons1
-[C]StarQatar		T_Squnito
-[C]farksepher		Kegbo
-[C]BehindTheMagic jamman345
-[C]__Revelations__		DisneylandParks
-[C]DJBoemerang		IESE_Plays_MC
- 
-§aGuest Relations
-[C]lilpres (§aLead§f)
-[C]Chigg_ (§aEvents Coordinator§f)
-[C]MissDiamonder (§aCharacters Coordinator§f)
-[C]spakado		ohhelloitsnick
-[C]TheDisneyDork	Zach0317
-[C]HanShortFirst30	Beach_
-[C]HarryPotter0731	libbymoonbeam26
-[C]SplinterPlayMC	Beemaxer
-[C]Amanda_Dancer2	AdrienSol
-[C]nhrds TheCrazyAlien
-[C]LostBoyIan		daeynore
-[C]SpacelanderD		Fuzed_
-[C]ShdwsMC		HeyItsConan
-[C]SandycatMC		Tori____
-[C]BrokenTV		PandemicWW
-[C]CJordan		YorkshireRose
-[C]national8872_	Colin_j
-[C]SintrexGame		radmel
-[C]TheBomb776677	HexAdventures
-[C]Zorgith		johnyb2
-[C]ThorThunderGod		agentdid127
-[C]NotJishy
-
-[C]§f============
-[C]§3Special Thanks
-[C]§f============
-
-[C]Boby the Sponge
-
-
-
-
-
-§f"Hi, I'm Boby, the MCParks sponge!" §e- Boby The Sponge
+§bFor a full CM list, go to /warp staff
