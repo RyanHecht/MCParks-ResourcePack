@@ -1,7 +1,6 @@
 {
 	"__comment": "Designed by Agentdid127 with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/particle",
 		"texture": "vehicles/railway_logo",
 		"railway_texture": "vehicles/mmrr_engine",
 		"texture1": "vehicles/mmrr_cart_name"
