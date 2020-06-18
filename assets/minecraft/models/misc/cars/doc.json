@@ -1,7 +1,6 @@
 {
 	"__comment": "Designed by MCParks with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "misc/cars/doc_particle",
 		"texture": "blocks/texture",
 		"Sans+titre_atlas": "misc/cars/doc_atlas"
 	},

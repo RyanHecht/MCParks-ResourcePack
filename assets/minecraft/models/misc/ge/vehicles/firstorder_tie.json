@@ -4,9 +4,9 @@
 		"0": "blocks/concrete_red",
 		"2": "blocks/concrete_white",
 		"3": "blocks/concrete_silver",
-		"4": "misc/blacktiedarkgray",
+		"4": "misc/ge/blacktiedarkgray",
 		"5": "blocks/concrete_black",
-		"7": "misc/blacktielightgray",
+		"7": "misc/ge/blacktielightgray",
 		"particle": "blocks/concrete_red"
 	},
 	"elements": [

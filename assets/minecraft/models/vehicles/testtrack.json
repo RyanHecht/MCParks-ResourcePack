@@ -1,8 +1,8 @@
 {
 	"__comment": "Designed by Eric Devine (etdt12344) with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "testtrack",
-		"texture": "testtrack",
+		"particle": "vehicles/testtrack",
+		"texture": "vehicles/testtrack",
 		"voxels_palette": "vehicles/testtrack"
 	},
 	"elements": [ 	 

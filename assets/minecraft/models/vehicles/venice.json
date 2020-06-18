@@ -1,7 +1,7 @@
 {
 	"__comment": "http://nullbox.net - Designed by NullBlox with Cubik Studio - http://bdcraft.net",
 	"textures": {
-		"particle": "vehicles/venice.png"
+		"particle": "vehicles/venice"
 	},
 	"elements": [ 	 
 		{

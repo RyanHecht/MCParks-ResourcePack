@@ -1,8 +1,6 @@
 {
 	"__comment": "Designed by Amids_ with Cubik Studio",
 	"textures": {
-		"particle": "blocks/particle",
-		"texture": "blocks/texture",
 		"tex": "vehicles/trolley_tex",
 		"mcparks_dca_t": "vehicles/trolley_t"
 	},

@@ -14,8 +14,7 @@
 		"11": "blocks/concrete_powder_blue",
 		"12": "blocks/bone_block_side",
 		"13": "blocks/cauldron_side",
-		"particle": "blocks/log_oak",
-		"missing": "blocks/e_texture"
+		"particle": "blocks/log_oak"
 	},
 	"elements": [ 	 
 		{
