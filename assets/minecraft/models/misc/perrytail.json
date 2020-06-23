@@ -1,8 +1,8 @@
 {
 	"__comment": "Designed by Mert_dermon with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"orange": "blocks/orange_concrete"
-		"yellow": "blocks/yellow_concrete"
+		"orange": "blocks/concrete_orange"
+		"yellow": "blocks/concrete_yellow"
 	},
 	"elements": [ 	 
 		{

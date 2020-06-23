@@ -1,12 +1,12 @@
 {
 	"__comment": "Designed by Mert_dermon with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"green": "blocks/lime_concrete"
-		"pink": "blocks/magenta_terracotta"
-		"brown": "blocks/brown_concrete"
-		"light": "blocks/white_terracotta"
-		"black": "blocks/black_wool"
-		"white": "blocks/white_wool"
+		"green": "blocks/concrete_lime"
+		"pink": "blocks/hardened_clay_stained_magenta"
+		"brown": "blocks/concrete_brown"
+		"light": "blocks/hardened_clay_stained_white"
+		"black": "blocks/wool_colored_black"
+		"white": "blocks/wool_colored_white"
 	},
 	"elements": [ 	 
 		{
