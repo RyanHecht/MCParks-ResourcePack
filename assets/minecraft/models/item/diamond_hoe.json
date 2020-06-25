@@ -163,7 +163,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.099871959026889 }, "model": "merch/toys/babyyoda" },
 		{ "predicate": { "damaged": 0, "damage": 0.100512163892446 }, "model": "misc/hardhat_pe" },
 		{ "predicate": { "damaged": 0, "damage": 0.101152368758003 }, "model": "misc/perrytail" },
-		{ "predicate": { "damaged": 0, "damage": 0.10179257362356 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.10179257362356 }, "model": "merch/prizes/spoon" },
 		{ "predicate": { "damaged": 0, "damage": 0.102432778489117 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.103072983354673 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.10371318822023 }, "model": "item/diamond_hoe" },
