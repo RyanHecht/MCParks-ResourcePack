@@ -1,11 +1,11 @@
 {
 	"__comment": "Designed by Mert_dermon with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"red": "blocks/terracotta_red",
+		"red": "blocks/hardened_clay_stained_red",
 		"green": "blocks/concrete_green",
 		"orange": "blocks/concrete_orange",
-		"tortilla": "blocks/smooth_sandstone",
-		"brown": "blocks_concrete_brown"
+		"tortilla": "blocks/sandstone_smooth",
+		"brown": "blocks/concrete_brown"
 	},
 	"elements": [ 	 
 		{

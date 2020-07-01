@@ -2,8 +2,8 @@
 	"__comment": "Designed by Mert_dermon with Cubik Studio - https://cubik.studio",
 	"textures": {
 		"butterbeerlabel": "food/butterbeerlabel",
-		"white": "blocks/stained_glass_pane_white",
-		"cream": "blocks/terracotta_white",
+		"white": "blocks/glass_white",
+		"cream": "blocks/hardened_clay_stained_white",
 		"brown": "blocks/concrete_brown"
 	},
 	"elements": [ 	 
@@ -49,7 +49,7 @@
 		{
 			"__comment": "Box208",
 			"from": [ 5.168, 4.976, 13 ],
-			"to": [ 5.672, 5.032, 13.35 ],
+			"to": [ 5.671999, 5.032, 13.35 ],
 			"faces": {
 				"down": { "uv": [ 0.64, 12.16, 2.08, 12.32 ], "texture": "#butterbeerlabel" },
 				"up": { "uv": [ 0.64, 12.32, 2.08, 12.16 ], "texture": "#butterbeerlabel" },
@@ -101,7 +101,7 @@
 		{
 			"__comment": "Box212",
 			"from": [ 5.728, 8.056, 13 ],
-			"to": [ 6.12, 8.112, 13.35 ],
+			"to": [ 6.119999, 8.112, 13.35 ],
 			"faces": {
 				"down": { "uv": [ 2.24, 3.360001, 3.36, 3.52 ], "texture": "#butterbeerlabel" },
 				"up": { "uv": [ 2.24, 3.52, 3.36, 3.36 ], "texture": "#butterbeerlabel" },
@@ -127,7 +127,7 @@
 		{
 			"__comment": "Box214",
 			"from": [ 5.84, 8.112, 13 ],
-			"to": [ 6.064, 8.167999, 13.35 ],
+			"to": [ 6.064, 8.167998, 13.35 ],
 			"faces": {
 				"down": { "uv": [ 2.56, 3.2, 3.2, 3.36 ], "texture": "#butterbeerlabel" },
 				"up": { "uv": [ 2.56, 3.36, 3.2, 3.2 ], "texture": "#butterbeerlabel" },
@@ -166,7 +166,7 @@
 		{
 			"__comment": "Box217",
 			"from": [ 6.176, 5.144, 13 ],
-			"to": [ 6.232, 7.944, 13.35 ],
+			"to": [ 6.231999, 7.944, 13.35 ],
 			"faces": {
 				"down": { "uv": [ 3.52, 11.68, 3.68, 11.84 ], "texture": "#butterbeerlabel" },
 				"up": { "uv": [ 3.52, 4, 3.68, 3.84 ], "texture": "#butterbeerlabel" },
@@ -504,7 +504,7 @@
 		{
 			"__comment": "Box243",
 			"from": [ 9.424, 8.112, 13 ],
-			"to": [ 9.648, 8.167999, 13.35 ],
+			"to": [ 9.648, 8.167998, 13.35 ],
 			"faces": {
 				"down": { "uv": [ 12.8, 3.2, 13.44, 3.36 ], "texture": "#butterbeerlabel" },
 				"up": { "uv": [ 12.8, 3.36, 13.44, 3.2 ], "texture": "#butterbeerlabel" },
@@ -543,7 +543,7 @@
 		{
 			"__comment": "Box246",
 			"from": [ 9.927999, 8.112, 13 ],
-			"to": [ 10.376, 8.167999, 13.35 ],
+			"to": [ 10.376, 8.167998, 13.35 ],
 			"faces": {
 				"down": { "uv": [ 14.24, 3.2, 15.52, 3.36 ], "texture": "#butterbeerlabel" },
 				"up": { "uv": [ 14.24, 3.36, 15.52, 3.2 ], "texture": "#butterbeerlabel" },
@@ -4102,5 +4102,45 @@
 				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#white" }
 			}
 		}
-	]
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 75, 102, 0 ],
+			"translation":  [ -0.695, 2.7826, 2.0869 ],
+			"scale":  [ 0.375, 0.375, 0.375 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ 75, -103, 0 ],
+			"translation":  [ -0.695, 2.7826, 2.0869 ],
+			"scale":  [ 0.375, 0.375, 0.375 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ -16, 72, 0 ],
+			"translation":  [ 0, 3.4782, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ -16, 72, 0 ],
+			"translation":  [ 0, 3.4782, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"gui": {
+			"rotation":  [ 27, -20, 0 ],
+			"translation":  [ 0, 1.3913, 0 ],
+			"scale":  [ 0.6, 0.6, 0.6 ]
+		},
+		"head": {
+			"rotation":  [ 0, 180, 0 ],
+			"translation":  [ -0.5, 12.521, 0 ],
+			"scale":  [ 0.7, 0.7, 0.7 ]
+		},
+		"ground": {
+			"rotation":  [ -13, 0, 0 ],
+			"translation":  [ 0, 3.3913, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, 180, 0 ]
+		}
+	}
 }
