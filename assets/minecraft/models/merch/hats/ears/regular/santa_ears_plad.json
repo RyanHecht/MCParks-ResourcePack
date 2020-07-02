@@ -1,0 +1,9 @@
+{
+	"parent": "merch/hats/ears/regular/santa_ears",
+	"__comment": "Crafted by Agentdid127. :D",
+	"textures": {
+		"3": "merch/ears/plad",
+		"4": "blocks/concrete_white",
+		"5": "blocks/concrete_black"
+	}
+}
