@@ -1,0 +1,76 @@
+{
+	"__comment": "Crafted by Agentdid127. :D",
+	"textures": {
+		"particle": "blocks/e_particle",
+		"texture": "blocks/concrete_gray",
+		"texture1": "blocks/concrete_powder_black"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Box1",
+			"from": [ 5, -2, 5 ],
+			"to": [ 11, 18, 11 ],
+			"faces": {
+				"down": { "uv": [ 5, 5, 11, 11 ], "texture": "#texture" },
+				"up": { "uv": [ 5, 5, 11, 11 ], "texture": "#texture" },
+				"north": { "uv": [ 5, 0, 11, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 5, 0, 11, 16 ], "texture": "#texture" },
+				"west": { "uv": [ 5, 0, 11, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 5, 0, 11, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Box1",
+			"from": [ 3, 17, 3 ],
+			"to": [ 13, 27.5, 13 ],
+			"faces": {
+				"down": { "uv": [ 3, 3, 13, 13 ], "texture": "#texture1" },
+				"up": { "uv": [ 3, 3, 13, 13 ], "texture": "#texture1" },
+				"north": { "uv": [ 3, 4.5, 13, 15 ], "texture": "#texture1" },
+				"south": { "uv": [ 3, 4.5, 13, 15 ], "texture": "#texture1" },
+				"west": { "uv": [ 3, 4.5, 13, 15 ], "texture": "#texture1" },
+				"east": { "uv": [ 3, 4.5, 13, 15 ], "texture": "#texture1" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 75, 45, 0 ],
+			"translation":  [ 0, 1.1086, -0.695 ],
+			"scale":  [ 0.2, 0.2, 0.2 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ 75, 45, 0 ],
+			"translation":  [ 0, 1.1086, -0.695 ],
+			"scale":  [ 0.2, 0.2, 0.2 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 21, 36, 0 ],
+			"translation":  [ -9.043, -2.086, 0 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ 21, 36, 0 ],
+			"translation":  [ -9.043, -2.086, 0 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"gui": {
+			"rotation":  [ 16, 49, -36 ],
+			"translation":  [ 0, -1.391, 0 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"head": {
+			"rotation":  [ -131, 0, 0 ],
+			"translation":  [ -6.26, 0.6956, -3.478 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"ground": {
+			"rotation":  [ 66, 53, 0 ],
+			"scale":  [ 0.3, 0.3, 0.3 ]
+		},
+		"fixed": {
+			"translation":  [ 0, -2.086, 0 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		}
+	}
+}
