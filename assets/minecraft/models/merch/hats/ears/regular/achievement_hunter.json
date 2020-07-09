@@ -1,0 +1,11 @@
+{
+	"__comment": "Crafted by Agentdid127. :D",
+	"parent": "merch/hats/ears/regular/sixty_ears",
+	"textures": {
+		"body": "blocks/concrete_powder_green",
+		"ears": "blocks/concrete_black",
+		"logo": "merch/achievement_hunter",
+		"brim": "blocks/concrete_powder_silver",
+		"particle": "blocks/beacon"
+	}
+}
