@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Created by Guby <3",
 	"textures": {
 		"0": "blocks/hardened_clay_stained_red",
 		"1": "blocks/shulker_top_red",
@@ -141,8 +141,8 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"head": {
-			"translation": [0, -4.25, -2.25],
-			"scale": [0.82, 0.99, 0.82]
+			"translation": [0, -5.25, -2.25],
+			"scale": [0.9, 1.1, 0.9]
 		},
 		"fixed": {
 			"translation": [0, -9.75, 0]
