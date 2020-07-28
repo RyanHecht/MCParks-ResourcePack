@@ -215,7 +215,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.133162612035851 }, "model": "merch/hats/ears/bow/epcot_french_bowears" },
 		{ "predicate": { "damaged": 0, "damage": 0.133802816901408 }, "model": "merch/hats/ears/bow/epcot_italian_bowears" },
 		{ "predicate": { "damaged": 0, "damage": 0.134443021766965 }, "model": "merch/hats/ears/bow/epcot_uk_bowears" },
-		{ "predicate": { "damaged": 0, "damage": 0.135083226632522 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.135083226632522 }, "model": "merch/hats/caps/tot_bellhop_hat" },
 		{ "predicate": { "damaged": 0, "damage": 0.135723431498079 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.136363636363636 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.137003841229193 }, "model": "item/diamond_hoe" },
