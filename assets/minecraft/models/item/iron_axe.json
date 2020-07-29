@@ -75,7 +75,7 @@
 		{ "_cmd_": "give @p minecraft:iron_axe 1 69 {Unbreakable:1}",  "predicate": {"damaged": 0, "damage": 0.2709163346613}, "model": "vehicles/monorail/silver_middle"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 70 {Unbreakable:1}",  "predicate": {"damaged": 0, "damage": 0.2749003984063}, "model": "vehicles/monorail/peach_middle"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 71 {Unbreakable:1}",  "predicate": {"damaged": 0, "damage": 0.2788844621513}, "model": "vehicles/monorail/black_middle"},
-		{ "_cmd_": "give @p minecraft:iron_axe 1 72 {Unbreakable:1}",  "predicate": {"damaged": 0, "damage": 0.2828685258964}, "model": "item/iron_axe"},
+		{ "_cmd_": "give @p minecraft:iron_axe 1 72 {Unbreakable:1}",  "predicate": {"damaged": 0, "damage": 0.2828685258964}, "model": "merch/toys/duck2"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 73 {Unbreakable:1}",  "predicate": {"damaged": 0, "damage": 0.2868525896414}, "model": "vehicles/teacup"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 74 {Unbreakable:1}",  "predicate": {"damaged": 0, "damage": 0.2908366533864}, "model": "vehicles/teacupyellow"},
 		{ "_cmd_": "give @p minecraft:iron_axe 1 75 {Unbreakable:1}",  "predicate": {"damaged": 0, "damage": 0.2948207171314}, "model": "vehicles/teacupgreen"},

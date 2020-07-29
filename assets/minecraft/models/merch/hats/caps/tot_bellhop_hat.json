@@ -4,7 +4,7 @@
 		"0": "blocks/concrete_red",
 		"1": "blocks/concrete_yellow",
 		"2": "blocks/concrete_black",
-		"3": "Textures/totlogo",
+		"3": "merch/totlogo",
 		"particle": "blocks/concrete_red"
 	},
 	"elements": [
@@ -594,16 +594,16 @@
 			}
 		},
 		{
-			"from": [6.66, 1.74, 0.92],
-			"to": [9.7, 3.5, 6.18],
+			"from": [6.66, 0.94, 0.92],
+			"to": [9.7, 4.2, 6.18],
 			"rotation": {"angle": 0, "axis": "y", "origin": [10.82, 4.14, 2.3]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#missing"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#3"},
-				"up": {"uv": [0, 0, 16, 16], "texture": "#missing"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#missing"}
+				"east": {"uv": [0, 0, 0.75, 1], "texture": "#3"},
+				"south": {"uv": [0, 0, 0.75, 1], "texture": "#3"},
+				"west": {"uv": [0, 0, 0.75, 1], "texture": "#3"},
+				"up": {"uv": [0, 0, 0.75, 1], "texture": "#3"},
+				"down": {"uv": [0, 0, 0.75, 1], "texture": "#3"}
 			}
 		}
 	],
@@ -635,8 +635,8 @@
 			"translation": [0.25, 4.75, 0]
 		},
 		"head": {
-			"translation": [0, 10, 0],
-			"scale": [1.07, 1.06, 1.06]
+			"translation": [0, 10, -0.25],
+			"scale": [1.15, 1.09, 1.19]
 		},
 		"fixed": {
 			"translation": [0, 4.75, 5.5],

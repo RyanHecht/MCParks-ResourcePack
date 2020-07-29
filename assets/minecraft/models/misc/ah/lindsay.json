@@ -1,0 +1,54 @@
+{
+	"credit": "Made by Guby <3",
+	"textures": {
+		"0": "merch/ah_names",
+		"particle": "merch/ah_names"
+	},
+	"elements": [
+		{
+			"from": [-4.5, 0, 8],
+			"to": [16, 5, 8.5],
+			"faces": {
+				"north": {"uv": [2.25, 7.875, 9.75, 9.675], "texture": "#0"},
+				"east": {"uv": [0, 0, 0.625, 0.625], "texture": "#0"},
+				"south": {"uv": [0, 0, 0.625, 0.625], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.625, 0.625], "texture": "#0"},
+				"up": {"uv": [0, 0, 0.625, 0.625], "texture": "#0"},
+				"down": {"uv": [0, 0, 0.625, 0.625], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [70, 0, 0],
+			"translation": [7, 0.25, 29]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [70, 0, 0],
+			"translation": [7, 0.25, 29]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -180, 0],
+			"translation": [-21.5, 17.5, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -180, 0],
+			"translation": [3.5, 17.5, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"ground": {
+			"translation": [0, 3.75, 0]
+		},
+		"gui": {
+			"rotation": [0, -180, 0],
+			"translation": [1, 6.5, 0]
+		},
+		"head": {
+			"translation": [14.5, 18.75, 0]
+		},
+		"fixed": {
+			"translation": [1.75, 12.75, -1]
+		}
+	}
+}
