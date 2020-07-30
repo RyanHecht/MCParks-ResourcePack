@@ -1,0 +1,8 @@
+{
+	"parent": "merch/prizes/iron_surfboard",
+	"textures": {
+		"0": "blocks/diamond_block",
+		"1": "misc/tfn2020_black",
+		"particle": "blocks/diamond_block"
+	}
+}
