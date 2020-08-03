@@ -222,7 +222,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.13764404609475 }, "model": "merch/prizes/gold_surfboard" },
 		{ "predicate": { "damaged": 0, "damage": 0.138284250960307 }, "model": "merch/prizes/diamond_surfboard" },
 		{ "predicate": { "damaged": 0, "damage": 0.138924455825864 }, "model": "merch/prizes/snorkel" },
-		{ "predicate": { "damaged": 0, "damage": 0.139564660691421 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.139564660691421 }, "model": "merch/hats/ears/misc/shrekears" },
 		{ "predicate": { "damaged": 0, "damage": 0.140204865556978 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.140845070422535 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.141485275288092 }, "model": "item/diamond_hoe" },
