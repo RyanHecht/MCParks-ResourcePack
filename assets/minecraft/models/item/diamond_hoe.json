@@ -224,7 +224,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.138924455825864 }, "model": "merch/prizes/snorkel" },
 		{ "predicate": { "damaged": 0, "damage": 0.139564660691421 }, "model": "merch/hats/ears/misc/shrekears" },
 		{ "predicate": { "damaged": 0, "damage": 0.140204865556978 }, "model": "misc/wreath_spooky" },
-		{ "predicate": { "damaged": 0, "damage": 0.140845070422535 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.140845070422535 }, "model": "food/simpsons_doughnut" },
 		{ "predicate": { "damaged": 0, "damage": 0.141485275288092 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.142125480153649 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.142765685019206 }, "model": "item/diamond_hoe" },
