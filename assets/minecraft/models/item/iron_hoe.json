@@ -245,7 +245,7 @@
 		{ "predicate": {"damaged": 0, "damage": 0.948207171314741}, "model": "sauce/19"},
 		{ "predicate": {"damaged": 0, "damage": 0.9521912350597609}, "model": "sauce/20"},
 		{ "predicate": {"damaged": 0, "damage": 0.9561752988047809}, "model": "sauce/21"},
-		{ "predicate": {"damaged": 0, "damage": 0.9601593625498008}, "model": "misc/wreath_spooky"},
+		{ "predicate": {"damaged": 0, "damage": 0.9601593625498008}, "model": "sauce/22"},
 		{ "predicate": {"damaged": 0, "damage": 0.9641434262948207}, "model": "misc/bigwreath"},
 		{ "predicate": {"damaged": 0, "damage": 0.9681274900398407}, "model": "misc/mickeywreath"},
 		{ "predicate": {"damaged": 0, "damage": 0.9721115537848606}, "model": "misc/longwreath"},
