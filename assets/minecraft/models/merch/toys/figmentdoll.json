@@ -11,7 +11,7 @@
 		"63": "blocks/shulker_top_red",
 		"79": "blocks/wool_colored_purple",
 		"83": "blocks/wool_colored_yellow",
-		"89": "textures/merch/figmenttext",
+		"89": "merch/figmenttext",
 		"particle": "blocks/concrete_black"
 	},
 	"elements": [
@@ -7688,9 +7688,9 @@
 		},
 		{
 			"name": "Voxels-FFFF11",
-			"from": [5.65, 4.4, 5.5],
-			"to": [9.35, 5.7, 6.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7.9, 8]},
+			"from": [5.65, 4.4, 5.35],
+			"to": [9.35, 5.7, 6.35],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7.9, 7.85]},
 			"faces": {
 				"north": {"uv": [0, 2.75, 15.826, 13.248], "texture": "#89"},
 				"east": {"uv": [8.96, 4.96, 11.04, 7.04], "texture": "#83"},
