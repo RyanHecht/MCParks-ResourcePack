@@ -6,8 +6,7 @@
 		"52": "blocks/snow",
 		"60": "blocks/wool_colored_lime",
 		"65": "blocks/wool_colored_red",
-		"87": "blocks/glazed_terracotta_lime",
-		"particle": "MCParks-ResourcePack/pack"
+		"87": "blocks/glazed_terracotta_lime"
 	},
 	"elements": [
 		{
