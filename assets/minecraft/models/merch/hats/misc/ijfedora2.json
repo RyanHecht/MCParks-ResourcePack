@@ -1,0 +1,7 @@
+﻿{
+    "parent": "merch/hats/misc/ijfedora",
+    "textures": {
+        "particle": "blocks/wool_colored_white",
+	"texture": "blocks/shulker_top_black"
+    }
+}
