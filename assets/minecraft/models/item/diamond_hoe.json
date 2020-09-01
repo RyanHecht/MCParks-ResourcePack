@@ -318,7 +318,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.19910371318822 }, "model": "food/canadacheesesoup" },
 		{ "predicate": { "damaged": 0, "damage": 0.199743918053777 }, "model": "merch/toys/lightsabers/reyyellow" },
 		{ "predicate": { "damaged": 0, "damage": 0.200384122919334 }, "model": "merch/toys/lightsabers/inquisitor" },
-		{ "predicate": { "damaged": 0, "damage": 0.201024327784891 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.201024327784891 }, "model": "minigames/insideout/insideout_controlpanel" },
 		{ "predicate": { "damaged": 0, "damage": 0.201664532650448 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.202304737516005 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.202944942381562 }, "model": "item/diamond_hoe" },

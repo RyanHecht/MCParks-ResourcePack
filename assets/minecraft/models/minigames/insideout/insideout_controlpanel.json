@@ -10945,6 +10945,12 @@
 			}
 		}
 	],
+	"display": {
+		"head": {
+			"translation": [0, -1.75, 12],
+			"scale": [4, 2.85547, 4]
+		}
+	},
 	"groups": [
 		{
 			"name": "Console",
