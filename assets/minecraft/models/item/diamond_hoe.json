@@ -322,7 +322,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.201664532650448 }, "model": "misc/hmh_ironweb" },
 		{ "predicate": { "damaged": 0, "damage": 0.202304737516005 }, "model": "misc/hmh_outsidewreath" },
 		{ "predicate": { "damaged": 0, "damage": 0.202944942381562 }, "model": "food/chicken_dumplings" },
-		{ "predicate": { "damaged": 0, "damage": 0.203585147247119 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.203585147247119 }, "model": "merch/toys/marshmallowstick" },
 		{ "predicate": { "damaged": 0, "damage": 0.204225352112676 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.204865556978233 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.20550576184379 }, "model": "item/diamond_hoe" },
