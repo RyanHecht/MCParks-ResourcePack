@@ -7,7 +7,7 @@
 		"32": "blocks/concrete_white",
 		"47": "blocks/hardened_clay_stained_red",
 		"49": "blocks/hardened_clay_stained_white",
-		"85": "blocks/stripped_birch_log",
+		"85": "merch/stripped_birch_log",
 		"86": "blocks/end_bricks"
 	},
 	"elements": [
