@@ -1,5 +1,5 @@
 {
-	"credit": "Made by SpacelanderD :D",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "blocks/gold_block",
 		"2": "blocks/door_iron_lower",
@@ -452,13 +452,14 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [0, 89, 0],
+			"rotation": [0, 90, 0],
 			"translation": [0.5, -0.25, 0.5],
 			"scale": [1, 1.1, 1]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [0, -120, 0],
-			"translation": [0, -0.5, 0.25]
+			"rotation": [0, -90, 0],
+			"translation": [-0.5, -0.25, 0.5],
+			"scale": [1, 1.1, 1]
 		},
 		"firstperson_righthand": {
 			"rotation": [-20, 108, 0],
