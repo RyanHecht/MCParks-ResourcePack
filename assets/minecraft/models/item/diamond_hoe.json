@@ -338,7 +338,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.21190781049936 }, "model": "food/foodandwine/apple_pie_drink" },
 		{ "predicate": { "damaged": 0, "damage": 0.212548015364917 }, "model": "merch/toys/gizmo" },
 		{ "predicate": { "damaged": 0, "damage": 0.213188220230474 }, "model": "food/foodandwine/cremebrulee" },
-		{ "predicate": { "damaged": 0, "damage": 0.213828425096031 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.213828425096031 }, "model": "food/foodandwine/lamingtons_fandw" },
 		{ "predicate": { "damaged": 0, "damage": 0.214468629961588 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.215108834827145 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.215749039692702 }, "model": "item/diamond_hoe" },
