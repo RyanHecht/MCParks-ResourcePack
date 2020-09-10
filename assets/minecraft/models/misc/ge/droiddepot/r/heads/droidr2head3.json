@@ -1,0 +1,6 @@
+﻿{
+    "parent": "misc/ge/droiddepot/r/heads/droidr2head1",
+    "textures": {
+        "texture": "misc/ge/r/droidr2head3"
+    }
+}

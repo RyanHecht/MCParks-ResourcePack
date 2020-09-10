@@ -1,0 +1,8 @@
+﻿{
+    "parent": "misc/ge/droiddepot/bb/spheres/droidsphere1",
+    "textures": {
+        "particle": "blocks/wool_colored_gray",
+        "texture": "misc/ge/bb/droidsphere9",
+        "0": "misc/ge/bb/droidsphere9"
+    }
+}

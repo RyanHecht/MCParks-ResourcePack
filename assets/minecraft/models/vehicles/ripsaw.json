@@ -1,7 +1,6 @@
 {
 	"__comment": "Crafted by Agentdid127. :D",
 	"textures": {
-		"voxels_palette": "blocks/voxels_palette",
 		"red": "blocks/concrete_red",
 		"black": "blocks/concrete_black",
 		"yellow": "blocks/concrete_yellow",

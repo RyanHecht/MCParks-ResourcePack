@@ -13,7 +13,7 @@
 		"71": "blocks/snow",
 		"72": "blocks/cactus_top",
 		"particle": "blocks/concrete_black",
-		"voxels_palette": "blocks/voxels_palette"
+		"voxels_palette": "blocks/concrete_gray"
 	},
 	"elements": [
 		{
