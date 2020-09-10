@@ -3063,7 +3063,7 @@
 		},
 		"thirdperson_lefthand": {
 			"rotation": [81, -180, 0],
-			"scale": [0.4, 0.4, 0.4]
+			"scale": [1.4, 1.4, 1.4]
 		},
 		"firstperson_righthand": {
 			"rotation": [0, -40, 0],
