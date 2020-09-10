@@ -7,7 +7,7 @@
 		"32": "blocks/concrete_white",
 		"47": "blocks/hardened_clay_stained_red",
 		"49": "blocks/hardened_clay_stained_white",
-		"85": "merch/stripped_birch_log",
+		"85": "blocks/stripped_birch_log",
 		"86": "blocks/end_bricks"
 	},
 	"elements": [
@@ -3067,6 +3067,43 @@
 			}
 		}
 	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 1, 0],
+			"translation": [0, 2.25, 4],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 1, 0],
+			"translation": [0, 2.25, 4],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [5, 2, 0],
+			"translation": [2, 8.25, -0.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [5, 2, 0],
+			"translation": [2, 8.25, -0.25]
+		},
+		"ground": {
+			"translation": [0, 4, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"gui": {
+			"rotation": [29, -25, 0],
+			"translation": [0.75, 4.75, 0],
+			"scale": [1.1, 1.1, 1.1]
+		},
+		"head": {
+			"rotation": [0, -180, 0],
+			"translation": [-0.5, 13.5, 0]
+		},
+		"fixed": {
+			"translation": [0.25, 6.75, -3.5],
+			"scale": [1.4, 1.4, 1.4]
+		}
+	},
 	"groups": [
 		{
 			"name": "YELLOW",
