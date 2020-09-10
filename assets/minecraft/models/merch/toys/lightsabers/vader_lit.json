@@ -1,5 +1,5 @@
 {
-	"credit": "Made by SpacelanderD :D",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "blocks/iron_block",
 		"1": "blocks/gold_block",
@@ -1431,8 +1431,8 @@
 			}
 		},
 		{
-			"from": [7.14806, 1.65, 8.3552],
-			"to": [7.41206, 27.5964, 8.89376],
+			"from": [7.04806, 1.65, 8.3552],
+			"to": [7.51206, 27.5964, 8.89376],
 			"rotation": {"angle": 0, "axis": "y", "origin": [4.89878, 6.01712, 11.61152]},
 			"faces": {
 				"north": {"uv": [5, 9, 7, 11], "texture": "#12"},
@@ -1811,7 +1811,7 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [36, 85, 0],
-			"translation": [0.25, 6.593, 8.586],
+			"translation": [0.25, 6.343, 6.336],
 			"scale": [0.6, 0.7, 0.6]
 		},
 		"thirdperson_lefthand": {
@@ -1832,7 +1832,7 @@
 		"ground": {
 			"rotation": [18, 0, 0],
 			"translation": [0, 6.549, 0],
-			"scale": [0.6, 0.65, 0.6]
+			"scale": [0.66, 0.65, 0.6]
 		},
 		"gui": {
 			"rotation": [0, -1, -50],
