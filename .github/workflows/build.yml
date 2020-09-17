@@ -1,0 +1,119 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Build
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    branches: [ release ]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+      
+      #Installs Java on the server for the converter
+      - name: Set up Java
+        uses: actions/setup-java@v1
+        with:
+          java-version: 1.11
+
+     
+     # Clones and builds the Resource Pack Converter.
+      - name: Setup
+        run: |
+          mkdir scripts
+          git clone https://github.com/MCParks/ResourcePackConverter scripts/ResourcePackConverter
+          cd scripts/ResourcePackConverter
+          mvn -B package --file pom.xml
+          cd ../
+          mv ResourcePackConverter/target/ResourcePackConverter.jar ResourcePackConverter.jar
+          cd ../
+      
+      - name: Delete unused file types
+        run: |
+          echo "Deleting files that aren't of a whitelisted type"
+          find assets/ -type f -not -iname "*.txt" -and -not -iname "*.json" -and -not -iname "*.properties" -and -not -iname "*.png" -and -not -iname "*.ogg" -and -not -iname "*.txt" -and -not -iname "*.png.mcmeta" -exec rm -f {} \;
+      # Takes the resource pack and zips it up for the version
+      - name: 1.12 Build
+        run: |
+          ls
+          zip -r mcparkspack.zip assets pack.mcmeta pack.png;
+          echo 1.12 Build Complete!
+    
+    
+    # Uses 1.12 build to create a version for 1.13 with the converter
+      - name: 1.13 conversion
+        run: |
+          mkdir convert
+          cp mcparkspack.zip convert/mcparkspack.zip
+          echo Converting to 1.13...
+          java -jar scripts/ResourcePackConverter.jar --input convert --to 1.13
+          mv convert/mcparkspack_converted.zip mcparkspack1-13.zip
+          rm -rf convert;
+          echo 1.13 Build Complete!
+          
+          
+      # Uses copy of 1.12 pack to build a 1.15 pack
+      - name: 1.15 conversion
+        run: |
+          mkdir convert
+          cp mcparkspack.zip convert/mcparkspack.zip
+          echo Converting to 1.15...
+          java -jar scripts/ResourcePackConverter.jar --input convert --to 1.15
+          mv convert/mcparkspack_converted.zip mcparkspack1-15.zip
+          rm -rf convert;
+          echo 1.15 Build Complete!
+          
+          
+          
+      # Uploads all 3 packs to the FTP server
+      - name: File Upload
+        env: 
+          IMAGE_FTP_SERVER: ${{ secrets.IMAGE_FTP_SERVER}}
+          IMAGE_FTP_PASSWORD: ${{ secrets.IMAGE_FTP_PASSWORD}}
+        run: |
+          ftp -p -inv $IMAGE_FTP_SERVER << EOF
+          user images $IMAGE_FTP_PASSWORD
+          delete mcparkspack.zip
+          delete mcparkspack1-13.zip
+          delete mcparkspack1-15.zip
+          binary
+          put mcparkspack.zip
+          put mcparkspack1-13.zip
+          put mcparkspack1-15.zip
+          bye
+          EOF
+          
+          
+      # Logs into Minecraft Network and resets pack on Bungee
+     # - name: Reload ForceResourcePacks on Bungee
+     #   env:
+   #       PANEL_URL: ${{ secrets.PANEL_URL }}
+  #        BUNGEE_SERVER_ID: ${{ secrets.BUGEE_SERVER_ID }}
+    #      PANEL_API_AUTH: ${{ secrets.PANEL_API_AUTH }}
+      #  run: |
+       #   curl "http://$PANEL_URL/api/client/servers/$BUNGEE_SERVER_ID/command" \
+        #  -H "Authorization: Bearer $PANEL_API_AUTH" \
+         # -H "Content-Type: application/json" \
+         # -H "Accept: Application/vnd.pterodactyl.v1+json" \
+         # -X POST \
+         # -d '{ "command": "frp reload" }'
+         # sleep 2s;  
+         # curl "http://$PANEL_URL/api/client/servers/$BUNGEE_SERVER_ID/command" \
+         # -H "Authorization: Bearer $PANEL_API_AUTH" \
+         # -H "Content-Type: application/json" \
+         # -H "Accept: Application/vnd.pterodactyl.v1+json" \
+         # -X POST \
+         # -d '{ "command": "frp generatehashes" }' 
+        
+          
+          
