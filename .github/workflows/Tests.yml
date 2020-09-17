@@ -66,14 +66,14 @@ jobs:
         run: |
           wc errors/256_errors.txt > err_1
           read lines words characters filename < err_1 
-          err1="Files over 256x: '"$lines"'"
+          err1="{ "name": "Files over 256x", "value:" "'"$lines"'"}"
           wc errors/16_errors.txt > err_2
           read lines words characters filename < err_2
-          err2="Files under 16x: '"$lines"'"
+          err2=""{ "name": "Files under 16x", "value:" "'"$lines"'"}"
           wc errors/non_whitelisted.txt > err_3
           read lines words characters filename < err_3
-          err3="Files that are not whitelisted: '"$lines"'"
+          err3="{ "name": "Files that are not whitelisted", "value:" "'"$lines"'"}"
           link=($(pastebinit -i errors.txt))
-          curl -X POST -H "Content-Type: application/json" -d '{"avatar_url": "https://raw.githubusercontent.com/RyanHecht/MCParks-ResourcePack/release/pack.png", "username": "Tests Completed", "content": "Summary:\n '"$err1"',\n '"$err2"',\n '"$err3"',\n More Information: '"$link"'"}' $DISCORD_URL
+          curl -X POST -H "Content-Type: application/json" -d '{"avatar_url": "https://raw.githubusercontent.com/RyanHecht/MCParks-ResourcePack/release/pack.png", "username": "Pack Test Workflow", "description": "Here is a breif overview of the completed tests.", "embed": { "title": "Tests Completed", "fields": { '"$err1"', '"$err2"', '"$err3"'}, "footer": {"text": "For more information, go to '"$link"'"}}}' $DISCORD_URL
           
           
