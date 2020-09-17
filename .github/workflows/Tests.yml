@@ -74,6 +74,6 @@ jobs:
           read lines words characters filename < err_3
           err3="Files that are not whitelisted: '"$lines"'"
           link=($(pastebinit -i errors.txt))
-          curl -X POST -H "Content-Type: application/json" -d '{"avatar_url": "https://raw.githubusercontent.com/RyanHecht/MCParks-ResourcePack/release/pack.png", "username": "Tests Completed", "content": "Summary: '"$err1"', '"$err2"', '"$err3"', More Information: '"$link"'"}' $DISCORD_URL
+          curl -X POST -H "Content-Type: application/json" -d '{"avatar_url": "https://raw.githubusercontent.com/RyanHecht/MCParks-ResourcePack/release/pack.png", "username": "Tests Completed", "content": "Summary:\n '"$err1"',\n '"$err2"',\n '"$err3"',\n More Information: '"$link"'"}' $DISCORD_URL
           
           
