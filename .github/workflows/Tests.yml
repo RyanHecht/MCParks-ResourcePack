@@ -74,7 +74,7 @@ jobs:
           read lines words characters filename < err_3
           err3='{ "name": "Files that are not whitelisted", "value": "'"$lines"'"}'
           link=($(pastebinit -i errors.txt))
-          echo '{"avatar_url": "https://raw.githubusercontent.com/RyanHecht/MCParks-ResourcePack/release/pack.png", "username": "Pack Test Workflow", "description": "Here is a breif overview of the completed tests.", "embed": [ "title": "Tests Completed", "fields": { '"$err1"', '"$err2"', '"$err3"'], "footer": {"text": "For more information, go to '"$link"'"}}}';
-          curl -X POST -H "Content-Type: application/json" -d '{"avatar_url": "https://raw.githubusercontent.com/RyanHecht/MCParks-ResourcePack/release/pack.png", "username": "Pack Test Workflow", "description": "Here is a breif overview of the completed tests.", "embed": [ "title": "Tests Completed", "fields": { '"$err1"', '"$err2"', '"$err3"'], "footer": {"text": "For more information, go to '"$link"'"}}}' $DISCORD_URL
+          echo '{"avatar_url": "https://raw.githubusercontent.com/RyanHecht/MCParks-ResourcePack/release/pack.png", "username": "Pack Test Workflow", "description": "Here is a breif overview of the completed tests.", "embed": { "title": "Tests Completed", "fields": [ '"$err1"', '"$err2"', '"$err3"']}, "footer": {"text": "For more information, go to '"$link"'"}}';
+          curl -X POST -H "Content-Type: application/json" -d '{"avatar_url": "https://raw.githubusercontent.com/RyanHecht/MCParks-ResourcePack/release/pack.png", "username": "Pack Test Workflow", "description": "Here is a breif overview of the completed tests.", "embed": { "title": "Tests Completed", "fields": [ '"$err1"', '"$err2"', '"$err3"']}, "footer": {"text": "For more information, go to '"$link"'"}}' $DISCORD_URL
           
           
