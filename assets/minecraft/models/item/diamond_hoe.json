@@ -346,7 +346,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.217029449423816 }, "model": "food/foodandwine/lobsterroll" },
 		{ "predicate": { "damaged": 0, "damage": 0.217669654289373 }, "model": "food/foodandwine/appleseedpopcorn" },
 		{ "predicate": { "damaged": 0, "damage": 0.21830985915493 }, "model": "merch/hats/ears/bow/france_ears" },
-		{ "predicate": { "damaged": 0, "damage": 0.218950064020487 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.218950064020487 }, "model": "merch/hats/misc/DinosaurHat" },
 		{ "predicate": { "damaged": 0, "damage": 0.219590268886044 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.220230473751601 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.220870678617157 }, "model": "item/diamond_hoe" },
