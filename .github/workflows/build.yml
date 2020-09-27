@@ -98,7 +98,7 @@ jobs:
      # - name: Reload ForceResourcePacks on Bungee
      #   env:
    #       PANEL_URL: ${{ secrets.PANEL_URL }}
-  #        BUNGEE_SERVER_ID: ${{ secrets.BUGEE_SERVER_ID }}
+  #        BUNGEE_SERVER_ID: ${{ secrets.BUNGEE_SERVER_ID }}
     #      PANEL_API_AUTH: ${{ secrets.PANEL_API_AUTH }}
       #  run: |
        #   curl "http://$PANEL_URL/api/client/servers/$BUNGEE_SERVER_ID/command" \
