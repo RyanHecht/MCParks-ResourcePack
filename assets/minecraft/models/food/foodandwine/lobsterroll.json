@@ -6,8 +6,8 @@
 		"3": "blocks/concrete_powder_red",
 		"4": "blocks/mushroom_block_skin_red",
 		"5": "blocks/hardened_clay_stained_white",
-		"voxels_atlas": "blocks/quartz_block_bottom",
-		"particle": "blocks/log_oak"
+		"particle": "blocks/log_oak",
+		"voxels_atlas": "blocks/quartz_block_bottom"
 	},
 	"elements": [
 		{
@@ -1499,8 +1499,7 @@
 		},
 		"head": {
 			"rotation": [0, 180, 0],
-			"translation": [1.25, 15.75, 0],
-			"scale": [4, 4, 4]
+			"translation": [0, 13, 0]
 		},
 		"fixed": {
 			"rotation": [0, -34, 0],
