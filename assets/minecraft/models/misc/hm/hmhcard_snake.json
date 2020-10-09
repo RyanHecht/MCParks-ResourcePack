@@ -1,0 +1,33 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [96, 160],
+	"textures": {
+		"0": "misc/hmhsnake",
+		"particle": "misc/hmhsnake"
+	},
+	"elements": [
+		{
+			"from": [-6.892, -7, -16],
+			"to": [21, -5.054, 31.352],
+			"rotation": {"angle": 0, "axis": "y", "origin": [28.136, 24.136, 60.542]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.91583, 15.9002], "texture": "#0"},
+				"east": {"uv": [0, 0, 2.16667, 0.05], "texture": "#0"},
+				"south": {"uv": [0, 0, 1.25, 0.05], "texture": "#0"},
+				"west": {"uv": [0, 0, 2.16667, 0.05], "texture": "#0"},
+				"up": {"uv": [0, 0, 15.91583, 15.9996], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0, 0, 15.91583, 15.9996], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [-4.75, 15.75, 23]
+		},
+		"head": {
+			"rotation": [-90, 0, 0],
+			"translation": [-10.75, 12.5, -35.25],
+			"scale": [4, 4, 4]
+		}
+	}
+}
