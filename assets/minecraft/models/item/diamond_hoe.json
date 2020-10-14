@@ -359,7 +359,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.225352112676056 }, "model": "food/gbtrappopcorn" },
 		{ "predicate": { "damaged": 0, "damage": 0.225992317541613 }, "model": "misc/ge/vehicles/a_wing" },
 		{ "predicate": { "damaged": 0, "damage": 0.22663252240717 }, "model": "misc/hm/hmh_ironweb" },
-		{ "predicate": { "damaged": 0, "damage": 0.227272727272727 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.227272727272727 }, "model": "merch/toys/zero" },
 		{ "predicate": { "damaged": 0, "damage": 0.227912932138284 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.228553137003841 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.229193341869398 }, "model": "item/diamond_hoe" },
