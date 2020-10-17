@@ -1,0 +1,6 @@
+﻿{
+    "parent": "vehicles/indy",
+    "textures": {
+        "indyjeep_atlas": "vehicles/indyjeep_atlas2"
+    }
+}
