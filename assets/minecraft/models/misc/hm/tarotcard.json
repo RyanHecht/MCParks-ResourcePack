@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "misc/AStar_Card",
-		"1": "misc/Red_Back_Tarot",
+		"0": "misc/astar_card",
+		"1": "misc/red_back_tarot",
 		"2": "blocks/snow",
 		"particle": "blocks/snow"
 	},
