@@ -1,13 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-<<<<<<< HEAD
 		"0": "misc/wreathpic",
 		"particle": "misc/wreathpic"
-=======
-		"0": "misc/wreathpic",
-		"particle": "misc/wreathpic"
->>>>>>> aba14cb920b48ac1ba06cdbe432106c8782593f4
 	},
 	"elements": [
 		{
