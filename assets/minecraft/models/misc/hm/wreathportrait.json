@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 <<<<<<< HEAD
-		"0": "downloads/wreath",
-		"particle": "downloads/wreath"
+		"0": "misc/wreathpic",
+		"particle": "misc/wreathpic"
 =======
 		"0": "misc/wreathpic",
 		"particle": "misc/wreathpic"
