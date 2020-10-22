@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "misc/astar_card1",
-		"1": "HMHCards/red_back_tarot1",
+		"1": "misc/red_back_tarot1",
 		"2": "blocks/snow",
 		"particle": "blocks/snow"
 	},
