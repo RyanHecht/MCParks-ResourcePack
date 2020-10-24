@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "misc/astar_card1",
+		"0": "misc/three_life_lines",
 		"1": "misc/red_back_tarot1",
 		"2": "blocks/snow",
 		"particle": "blocks/snow"
@@ -12,9 +12,9 @@
 			"to": [13.36, 12.6, 8.6],
 			"rotation": {"angle": 0, "axis": "y", "origin": [15.46, 9.1, 19.1]},
 			"faces": {
-				"north": {"uv": [0, 0, 9.75, 16], "texture": "#1"},
+				"north": {"uv": [0, 0, 9.625, 16], "texture": "#1"},
 				"east": {"uv": [0, 0, 2.499, 1.5], "texture": "#2"},
-				"south": {"uv": [0, 0, 9.75, 15.875], "texture": "#0"},
+				"south": {"uv": [0.5, 0.25, 10, 15.75], "texture": "#0"},
 				"west": {"uv": [0, 0, 1.5, 1.5], "texture": "#2"},
 				"up": {"uv": [0, 0, 0.799, 0.499], "texture": "#2"},
 				"down": {"uv": [0, 0, 0.799, 1.5], "texture": "#2"}
@@ -32,7 +32,7 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [-32, 0, 0],
-			"translation": [-1.25, 4.25, 0],
+			"translation": [-1.25, 3.25, 0],
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"firstperson_lefthand": {
@@ -42,7 +42,7 @@
 		},
 		"ground": {
 			"rotation": [-26, 0, 0],
-			"translation": [0, 3.75, 0],
+			"translation": [0, 0.75, 0],
 			"scale": [0.3, 0.3, 0.3]
 		},
 		"gui": {
