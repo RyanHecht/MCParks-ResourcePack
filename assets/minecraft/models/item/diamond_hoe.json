@@ -382,7 +382,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.240076824583867 }, "model": "misc/hm/elevencandlesfloating" },
 		{ "predicate": { "damaged": 0, "damage": 0.240717029449424 }, "model": "misc/hm/twelvesignsofthezodiac" },
 		{ "predicate": { "damaged": 0, "damage": 0.241357234314981 }, "model": "misc/hm/thirteenringsofpower" },
-		{ "predicate": { "damaged": 0, "damage": 0.241997439180538 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.241997439180538 }, "model": "misc/gfnewspaper" },
 		{ "predicate": { "damaged": 0, "damage": 0.242637644046095 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.243277848911652 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.243918053777209 }, "model": "item/diamond_hoe" },
