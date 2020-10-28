@@ -386,7 +386,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.242637644046095 }, "model": "misc/hm/garland" },
 		{ "predicate": { "damaged": 0, "damage": 0.243277848911652 }, "model": "food/candycornmilkshake" },
 		{ "predicate": { "damaged": 0, "damage": 0.243918053777209 }, "model": "misc/hm/hatbox" },
-		{ "predicate": { "damaged": 0, "damage": 0.244558258642766 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.244558258642766 }, "model": "merch/hats/caps/jacksantahat" },
 		{ "predicate": { "damaged": 0, "damage": 0.245198463508323 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.24583866837388 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.246478873239437 }, "model": "item/diamond_hoe" },
