@@ -392,7 +392,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.246478873239437 }, "model": "misc/straightwreathwhite" },
 		{ "predicate": { "damaged": 0, "damage": 0.247119078104994 }, "model": "misc/mickeywreathwhite" },
 		{ "predicate": { "damaged": 0, "damage": 0.247759282970551 }, "model": "misc/longwreathwhite" },
-		{ "predicate": { "damaged": 0, "damage": 0.248399487836108 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.248399487836108 }, "model": "merch/hats/caps/oogiehat" },
 		{ "predicate": { "damaged": 0, "damage": 0.249039692701665 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.249679897567222 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.250320102432778 }, "model": "item/diamond_hoe" },
