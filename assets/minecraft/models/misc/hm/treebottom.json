@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "blocks/gold_block",
-		"2": "HMH/StainedTreeBottom",
+		"2": "misc/stainedtreebottom",
 		"3": "blocks/rail_golden",
 		"9": "blocks/redstone_block",
 		"particle": "blocks/gold_block"

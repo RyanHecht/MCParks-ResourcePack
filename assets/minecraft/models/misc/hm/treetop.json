@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "blocks/gold_block",
-		"2": "HMH/StainedTreeTop",
+		"2": "misc/stainedtreetop",
 		"3": "blocks/rail_golden",
-		"5": "HMH/bone",
+		"5": "misc/bone",
 		"6": "blocks/bone_block_side",
 		"7": "blocks/coal_block",
 		"8": "blocks/concrete_powder_silver",
