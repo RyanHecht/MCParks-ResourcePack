@@ -187,7 +187,7 @@
 		{ "predicate": {"damaged": 0, "damage": 0.7131474103585658}, "model": "attractions/bgt/cc"},
 		{ "predicate": {"damaged": 0, "damage": 0.7171314741035857}, "model": "attractions/bgt/gwazi"},
 		{ "predicate": {"damaged": 0, "damage": 0.7211155378486056}, "model": "attractions/bgt/ff"},
-		{ "predicate": {"damaged": 0, "damage": 0.7250996015936255}, "model": "item/iron_shovel"},
+		{ "predicate": {"damaged": 0, "damage": 0.7250996015936255}, "model": "attractions/dlr/dl/hmh"},
 		{ "predicate": {"damaged": 0, "damage": 0.7290836653386454}, "model": "item/iron_shovel"},
 		{ "predicate": {"damaged": 0, "damage": 0.7330677290836654}, "model": "item/iron_shovel"},
 		{ "predicate": {"damaged": 0, "damage": 0.7370517928286853}, "model": "item/iron_shovel"},
