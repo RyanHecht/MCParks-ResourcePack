@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "block/wool_colored_silver",
+		"3": "blocks/wool_colored_silver",
 		"4": "blocks/concrete_black",
 		"7": "blocks/concrete_powder_yellow",
 		"8": "backpacks/hufflepuff_logo",
-		"9": "block/concrete_yellow",
-		"12": "block/concrete_silver",
+		"9": "blocks/concrete_yellow",
+		"12": "blocks/concrete_silver",
 		"particle": "block/wool_colored_silver"
 	},
 	"elements": [

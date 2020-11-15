@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "block/wool_colored_silver",
+		"3": "blocks/wool_colored_silver",
 		"4": "blocks/concrete_black",
 		"6": "blocks/concrete_red",
 		"7": "blocks/concrete_powder_yellow",
 		"8": "backpacks/gryffindor_logo",
-		"10": "block/concrete_powder_red",
-		"12": "block/concrete_silver",
+		"10": "blocks/concrete_powder_red",
+		"12": "blocks/concrete_silver",
 		"particle": "block/wool_colored_silver"
 	},
 	"elements": [

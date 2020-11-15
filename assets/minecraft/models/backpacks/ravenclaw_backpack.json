@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "block/wool_colored_silver",
+		"3": "blocks/wool_colored_silver",
 		"4": "blocks/concrete_black",
 		"6": "blocks/concrete_powder_blue",
 		"8": "backpacks/ravenclaw_logo",
-		"11": "block/concrete_silver",
+		"11": "blocks/concrete_silver",
 		"particle": "block/wool_colored_silver"
 	},
 	"elements": [
