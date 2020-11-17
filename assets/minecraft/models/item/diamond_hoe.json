@@ -414,7 +414,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.26056338028169 }, "model": "food/apple_xmasminnie" },
 		{ "predicate": { "damaged": 0, "damage": 0.261203585147247 }, "model": "backpacks/pokeball_backpack" },
 		{ "predicate": { "damaged": 0, "damage": 0.261843790012804 }, "model": "misc/tikiroom_bird" },
-		{ "predicate": { "damaged": 0, "damage": 0.262483994878361 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.262483994878361 }, "model": "merch/hats/misc/plutoreindeerhat" },
 		{ "predicate": { "damaged": 0, "damage": 0.263124199743918 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.263764404609475 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.264404609475032 }, "model": "item/diamond_hoe" },
