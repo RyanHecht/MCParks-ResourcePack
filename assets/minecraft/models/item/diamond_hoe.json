@@ -423,7 +423,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.266325224071703 }, "model": "misc/bop_mouth" },
 		{ "predicate": { "damaged": 0, "damage": 0.26696542893726 }, "model": "misc/toucanred" },
 		{ "predicate": { "damaged": 0, "damage": 0.267605633802817 }, "model": "misc/toucangreen" },
-		{ "predicate": { "damaged": 0, "damage": 0.268245838668374 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.268245838668374 }, "model": "misc/cockatoo" },
 		{ "predicate": { "damaged": 0, "damage": 0.268886043533931 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.269526248399488 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.270166453265045 }, "model": "item/diamond_hoe" },
