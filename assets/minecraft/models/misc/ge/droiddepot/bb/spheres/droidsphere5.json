@@ -1,8 +1,0 @@
-﻿{
-    "parent": "misc/ge/droiddepot/bb/spheres/droidsphere1",
-    "textures": {
-        "particle": "misc/ge/bb/droidsphere5",
-        "texture": "misc/ge/bb/droidsphere5",
-        "0": "misc/ge/bb/droidsphere5"
-    }
-}

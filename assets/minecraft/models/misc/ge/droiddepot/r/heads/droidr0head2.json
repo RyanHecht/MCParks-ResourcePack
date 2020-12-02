@@ -1,7 +1,0 @@
-﻿{
-    "parent": "misc/ge/droiddepot/r/heads/droidr0head1",
-    "textures": {
-        "texture": "misc/ge/r/droidr0head2",
-        "0": "blocks/wool_colored_white"
-    }
-}

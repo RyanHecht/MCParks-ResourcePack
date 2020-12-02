@@ -1,8 +1,0 @@
-﻿{
-    "parent": "misc/ge/droiddepot/r/heads/droidr5head1",
-    "textures": {
-        "texture": "misc/ge/r/droidr5head3",
-        "0": "misc/ge/r/droidr5head3",
-        "1": "misc/ge/r/droidr5head3"
-    }
-}
