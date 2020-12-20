@@ -1,0 +1,12 @@
+{
+	"parent": "misc/wreath",
+	"textures": {
+		"0": "misc/white_wreath",
+		"1": "blocks/concrete_lime",
+		"2": "blocks/concrete_red",
+		"4": "blocks/gold_block",
+		"5": "blocks/concrete_light_blue",
+		"6": "blocks/concrete_powder_red",
+		"particle": "blocks/concrete_powder_red"
+	}
+}

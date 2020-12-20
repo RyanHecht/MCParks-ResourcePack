@@ -1,0 +1,6 @@
+﻿{
+    "parent": "misc/ge/droiddepot/bb/heads/droidhead5",
+    "textures": {
+        "texture": "misc/ge/bb/droidhead3"
+    }
+}

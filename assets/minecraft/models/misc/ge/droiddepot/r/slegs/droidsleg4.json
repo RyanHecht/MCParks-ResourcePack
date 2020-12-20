@@ -1,0 +1,7 @@
+﻿{
+    "parent": "misc/ge/droiddepot/r/slegs/droidsleg1",
+    "textures": {
+        "particle": "misc/ge/r/droidbody4",
+        "texture": "misc/ge/r/droidbody4"
+    }
+}
