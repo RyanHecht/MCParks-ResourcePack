@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "misc/tentellingteaLeaves",
+		"0": "misc/tentellingtealeaves",
 		"1": "misc/green_back",
 		"2": "blocks/snow",
 		"particle": "blocks/snow"
