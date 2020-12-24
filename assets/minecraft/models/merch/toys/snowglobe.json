@@ -1,10 +1,10 @@
 {
 	"credit": "Made by Guby <3",
 	"textures": {
-		"3": "Downloads/snowglobe1",
+		"3": "merch/snowglobe",
 		"texture": "blocks/concrete_white",
 		"texture1": "blocks/glass_silver",
-		"particle": "Downloads/snowglobe1"
+		"particle": "merch/snowglobe"
 	},
 	"elements": [
 		{
