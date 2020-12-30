@@ -1,12 +1,12 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Guby <3",
 	"textures": {
 		"0": "blocks/concrete_yellow",
 		"1": "blocks/concrete_white",
 		"2": "blocks/concrete_black",
-		"4": "merch/campfire_fire",
+		"4": "blocks/fire_layer_0",
 		"10": "blocks/lapis_block",
-		"particle": "merch/campfire_fire"
+		"particle": "blocks/fire_layer_0"
 	},
 	"elements": [
 		{
