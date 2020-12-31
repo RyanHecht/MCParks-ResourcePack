@@ -1,9 +1,9 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Guby <3",
 	"textures": {
 		"0": "blocks/concrete_white",
 		"1": "blocks/concrete_yellow",
-		"2": "merch/pride_flags/asexual",
+		"2": "merch/pride_flags",
 		"particle": "blocks/concrete_white"
 	},
 	"elements": [
@@ -129,12 +129,12 @@
 			"from": [7.5, 10.75, -6.25],
 			"to": [7.75, 25, 22.25],
 			"faces": {
-				"north": {"uv": [0.6, 0, 16, 14.158], "texture": "#missing"},
-				"east": {"uv": [16, 0, 0.038, 15.948], "texture": "#2"},
-				"south": {"uv": [0, 0.01, 1.438, 15.938], "texture": "#2"},
-				"west": {"uv": [1.225, 0, 16, 16], "texture": "#2"},
-				"up": {"uv": [0, 0, 15.4, 0.62], "texture": "#2"},
-				"down": {"uv": [0, 15.438, 15.4, 15.995], "texture": "#2"}
+				"north": {"uv": [12.1, 0, 13.937, 8], "texture": "#2"},
+				"east": {"uv": [12.1, 0, 13.937, 8], "texture": "#2"},
+				"south": {"uv": [12.1, 0, 13.937, 8], "texture": "#2"},
+				"west": {"uv": [12.1, 0, 13.937, 8], "texture": "#2"},
+				"up": {"uv": [13.5, 0.5, 13.7, 0.7], "texture": "#2"},
+				"down": {"uv": [12.1, 6, 13.936, 8], "texture": "#2"}
 			}
 		},
 		{
