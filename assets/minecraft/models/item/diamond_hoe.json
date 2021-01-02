@@ -434,7 +434,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.27336747759283 }, "model": "merch/hats/ears/bow/2021_bow" },
 		{ "predicate": { "damaged": 0, "damage": 0.274007682458387 }, "model": "merch/hats/ears/misc/2021_ears" },
 		{ "predicate": { "damaged": 0, "damage": 0.274647887323944 }, "model": "merch/hats/misc/brown_piratehat" },
-		{ "predicate": { "damaged": 0, "damage": 0.275288092189501 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.275288092189501 }, "model": "misc/potc_parrot" },
 		{ "predicate": { "damaged": 0, "damage": 0.275928297055058 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.276568501920615 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.277208706786172 }, "model": "item/diamond_hoe" },
