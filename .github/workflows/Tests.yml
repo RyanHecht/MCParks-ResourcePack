@@ -1,0 +1,80 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Tests
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    branches: [ master ]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "tests"
+  tests:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      # Runs a single command using the runners shell
+      #- name: Run a one-line script
+       # run: echo Hello, world!
+
+      - name: Setup
+        run: |
+          sudo apt install libimage-exiftool-perl;
+          mkdir errors/
+      # Runs a set of commands using the runners shell
+      - name: Get a list of files over 256x
+        run: |
+          exiftool -q -r -ext png -if '$ImageHeight > 256 && $ImageWidth > 256' -p '$Directory/$FileName' assets/minecraft/textures/ >> errors/256_errors.txt;
+          sed -i '/gui/d' errors/256_errors.txt
+          sed -i '/clothing/d' errors/256_errors.txt
+          
+          
+      - name: Get a list of files under 16x
+        run: |
+          exiftool -q -r -ext png -if '$ImageHeight < 16 && $ImageWidth < 16' -p '$Directory/$FileName' assets/minecraft/textures/ >> errors/16_errors.txt;
+      - name: Find all files that are not whitelisted and log them
+        run: |
+          find assets/ -type f -not -iname "*.txt" -and -not -iname "*.png.mcmeta" -and -not -iname "*.json" -and -not -iname "*.properties" -and -not -iname "*.png" -and -not -iname "*.ogg" -and -not -iname "*.txt" >> errors/non_whitelisted.txt
+      
+      - name: Compile All errors into one file
+        run: |
+          echo "==Images over 256x==" >> errors.txt
+          cat errors/256_errors.txt >> errors.txt
+          echo "" >> errors.txt
+          echo "==Images under 16x==" >> errors.txt
+          cat errors/16_errors.txt >> errors.txt
+          echo "" >> errors.txt
+          echo "==Files that are not whitelisted (will be removed in release)==" >> errors.txt
+          cat errors/non_whitelisted.txt >> errors.txt
+
+          
+      - uses: actions/upload-artifact@v2
+        with:
+         name: Errors
+         path: errors/
+      
+      - name: Send errors to Discord Webhook
+        env: 
+          DISCORD_URL:  ${{ secrets.DISCORDWEBHOOK }}
+        run: |
+          wc errors/256_errors.txt > err_1
+          read lines words characters filename < err_1 
+          err1='{ "name": "Files over 256x", "value": "'"$lines"'"}'
+          wc errors/16_errors.txt > err_2
+          read lines words characters filename < err_2
+          err2='{ "name": "Files under 16x", "value": "'"$lines"'"}'
+          wc errors/non_whitelisted.txt > err_3
+          read lines words characters filename < err_3
+          err3='{ "name": "Files that are not whitelisted", "value": "'"$lines"'"}'
+          link=($(pastebinit -i errors.txt))
+          echo '{ "embeds": [{ "title": "Tests Completed!", "description": "Here is a breif overview of the completed tests.", "url": "'"$link"'", "color": 41983, "fields": [ '"$err1"', '"$err2"', '"$err3"' ], "footer": { "text": "For more information, go to '"$link"'" }}], "username": "Pack Test Workflow","avatar_url": "https://raw.githubusercontent.com/RyanHecht/MCParks-ResourcePack/release/pack.png" }'
+          curl -X POST -H "Content-Type: application/json" -d '{ "embeds": [{ "title": "Tests Completed!", "description": "Here is a breif overview of the completed tests.", "url": "'"$link"'", "color": 41983, "fields": [ '"$err1"', '"$err2"', '"$err3"' ], "footer": { "text": "For more information, go to '"$link"'" }}], "username": "Pack Test Workflow","avatar_url": "https://raw.githubusercontent.com/RyanHecht/MCParks-ResourcePack/release/pack.png" }' $DISCORD_URL
+          
+          
