@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"particle": "misc/ge/CP1",
-		"voxels_atlas": "misc/ge/CP1"
+		"particle": "misc/ge/cp1",
+		"voxels_atlas": "misc/ge/cp1"
 	},
 	"elements": [
 		{

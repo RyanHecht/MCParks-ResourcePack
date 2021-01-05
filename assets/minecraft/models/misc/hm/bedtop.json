@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "blocks/gold_block",
-		"2": "misc/StainedBedTop",
+		"2": "misc/stainedbedtop",
 		"3": "blocks/rail_golden",
 		"5": "misc/bone",
 		"6": "blocks/bone_block_side",
