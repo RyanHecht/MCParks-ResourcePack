@@ -43,7 +43,7 @@ jobs:
         run: |
           find assets/ -type f -not -iname "*.txt" -and -not -iname "*.png.mcmeta" -and -not -iname "*.json" -and -not -iname "*.properties" -and -not -iname "*.png" -and -not -iname "*.ogg" -and -not -iname "*.txt" >> errors/non_whitelisted.txt
       
-      - name: Find textures
+      - name: Find textures with invalid names
         run: |
           find assets/minecraft/models/ -type f -regex "[^ ]*.json" -exec sh -c "cat {} | jq '.textures | to_entries[] | .value' | grep -Ev '\"[a-z0-9/._-]+\"' | awk '{ print \"{}\"; print $1; print "\n" }'" \; >> errors/invalid_texture_names.txt
       - name: Compile All errors into one file
@@ -58,7 +58,7 @@ jobs:
           cat errors/non_whitelisted.txt >> errors.txt
           echo "" >> errors.txt
           echo "==Files with invalid texture names==" >> errors.txt
-          cat errors/invalid_texture_names.txt
+          cat errors/invalid_texture_names.txt >> errors.txt
 
           
       - uses: actions/upload-artifact@v2
