@@ -58,6 +58,7 @@ jobs:
           cat errors/non_whitelisted.txt >> errors.txt
           echo "" >> errors.txt
           echo "==Files with invalid texture names==" >> errors.txt
+          cat errors/invalid_texture_names.txt
 
           
       - uses: actions/upload-artifact@v2
