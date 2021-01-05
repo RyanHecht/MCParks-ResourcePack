@@ -26,7 +26,7 @@ jobs:
 
       - name: Setup
         run: |
-          sudo apt install libimage-exiftool-perl;
+          sudo apt install libimage-exiftool-perl jq;
           mkdir errors/
       # Runs a set of commands using the runners shell
       - name: Get a list of files over 256x
@@ -44,7 +44,7 @@ jobs:
           find assets/ -type f -not -iname "*.txt" -and -not -iname "*.png.mcmeta" -and -not -iname "*.json" -and -not -iname "*.properties" -and -not -iname "*.png" -and -not -iname "*.ogg" -and -not -iname "*.txt" >> errors/non_whitelisted.txt
       
       - name: Find textures
-        run: /
+        run: |
           find assets/minecraft/models/ -type f -regex "[^ ]*.json" -exec sh -c "cat {} | jq '.textures | to_entries[] | .value' | grep -Ev '\"[a-z0-9/._-]+\"' | awk '{ print \"{}\"; print $1; print "\n" }'" \; >> errors/invalid_texture_names.txt
       - name: Compile All errors into one file
         run: |
