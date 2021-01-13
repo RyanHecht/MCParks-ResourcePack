@@ -266,8 +266,8 @@
 			"scale": [2, 2, 2]
 		},
 		"head": {
-			"translation": [14, 14.25, 13.25],
-			"scale": [2, 2, 2]
+			"translation": [21, 23.75, 19.5],
+			"scale": [3, 3, 3]
 		},
 		"fixed": {
 			"rotation": [0, 64, 0],
