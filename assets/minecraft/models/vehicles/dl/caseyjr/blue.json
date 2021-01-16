@@ -1,5 +1,5 @@
 {
-	"credit": "Created by Guby <3",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"wool_orange": "blocks/shulker_top_cyan",
 		"glowstone": "blocks/gold_block",
@@ -1209,6 +1209,20 @@
 			"name": "wool_orange",
 			"from": [-4, 1, 9],
 			"to": [20, 2, 17.5],
+			"faces": {
+				"north": {"uv": [4, 14, 12, 15], "texture": "#wool_orange"},
+				"east": {"uv": [1.5, 14, 9, 15], "texture": "#wool_orange"},
+				"south": {"uv": [0, 14, 16, 15], "texture": "#wool_orange"},
+				"west": {"uv": [9, 14, 16, 15], "texture": "#wool_orange"},
+				"up": {"uv": [0, 9, 16, 16], "texture": "#wool_orange"},
+				"down": {"uv": [0, 0, 16, 7], "texture": "#wool_orange"}
+			}
+		},
+		{
+			"name": "wool_orange",
+			"from": [-4, 1, -9.5],
+			"to": [20, 2, -1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, -10.5]},
 			"faces": {
 				"north": {"uv": [4, 14, 12, 15], "texture": "#wool_orange"},
 				"east": {"uv": [1.5, 14, 9, 15], "texture": "#wool_orange"},
