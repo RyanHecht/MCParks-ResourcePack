@@ -445,7 +445,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.280409731113956 }, "model": "merch/toys/trident" },
 		{ "predicate": { "damaged": 0, "damage": 0.281049935979513 }, "model": "merch/prizes/cmawards" },
 		{ "predicate": { "damaged": 0, "damage": 0.28169014084507 }, "model": "misc/fantasmic/fantasmicmickeyhead" },
-		{ "predicate": { "damaged": 0, "damage": 0.282330345710627 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.282330345710627 }, "model": "merch/hats/misc/bluepirate_hat" },
 		{ "predicate": { "damaged": 0, "damage": 0.282970550576184 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.283610755441741 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.284250960307298 }, "model": "item/diamond_hoe" },
