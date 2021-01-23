@@ -1,7 +1,7 @@
 ﻿{
     "parent": "merch/hats/misc/brown_piratehat",
     "textures": {
-        "3": "merch/reddhat2",
-	"voxels_atlas": "merch/reddhat1"
+        "3": "merch/bluehat2",
+	"voxels_atlas": "merch/bluehat1"
     }
 }
