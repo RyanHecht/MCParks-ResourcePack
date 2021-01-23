@@ -534,9 +534,7 @@
 			"scale": [0.2, 0.2, 0.2]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [-11, 162, 0],
-			"translation": [0.5, 1.5, 0],
-			"scale": [0.2, 0.2, 0.2]
+			"scale": [4, 4, 4]
 		},
 		"firstperson_righthand": {
 			"rotation": [-11, 131, 0],
