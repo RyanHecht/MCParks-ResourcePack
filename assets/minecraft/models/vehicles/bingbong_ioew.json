@@ -15,6 +15,7 @@
 		"15": "blocks/wool_colored_orange",
 		"16": "blocks/wool_colored_red",
 		"17": "blocks/wool_colored_yellow",
+		"18": "blocks/anvil_top_damaged_0",
 		"particle": "blocks/concrete_gray"
 	},
 	"elements": [
@@ -8541,7 +8542,7 @@
 				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
 				"east": {"uv": [16, 0, 0, 16], "texture": "#6"},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 2, 16], "texture": "#18"},
 				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
 				"down": {"uv": [0, 0, 16, 16], "texture": "#3"}
 			}
@@ -8552,7 +8553,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [1.5395, -0.60294, 8.03879]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 3, 16], "texture": "#18"},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
 				"west": {"uv": [0, 0, 16, 16], "texture": "#6"},
 				"up": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#1"},
