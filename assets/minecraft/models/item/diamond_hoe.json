@@ -452,7 +452,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.284891165172855 }, "model": "merch/hats/ears/misc/tiktok" },
 		{ "predicate": { "damaged": 0, "damage": 0.285531370038412 }, "model": "merch/toys/flags/pride_flags/aromantic" },
 		{ "predicate": { "damaged": 0, "damage": 0.286171574903969 }, "model": "merch/toys/flags/pride_flags/intersex" },
-		{ "predicate": { "damaged": 0, "damage": 0.286811779769526 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.286811779769526 }, "model": "merch/hats/ears/misc/300kheadband" },
 		{ "predicate": { "damaged": 0, "damage": 0.287451984635083 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.28809218950064 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.288732394366197 }, "model": "item/diamond_hoe" },
