@@ -1,6 +1,6 @@
 
 [C]§f============
-[C]§9MCParks Team - as of 6/14/2020
+[C]§9MCParks Leadership Team
 [C]§f============
 
  
@@ -8,28 +8,17 @@
 [C]TeamDarren
 [C]RyanHecht_
  
-§cLeads/Executives
+§cExecutives
 [C]W2D5W8
 [C]Kae_
-[C]Jessicacake22
 [C]ElectricUmbrella
-[C]Vec_
-[C]Aaruse
-[C]PandemicWW
 
-§7Resource Pack Team
-[C]RyanHecht_
-[C]agentdid127
-[C]NotJishy
-[C]W2D5W8
-[C]SorcererParker
-[C]mlgbuilder
-[C]etdt12344
-[C]Fendork
-[C]Majoris
-[C]YouthInRevolt
-[C]wityblack
-[C]ZachTheTech
+§cLeads
+[C]Vec_ - Technician
+[C]Aaruse - Imagineer
+[C]ILoveBigAl - Guest Relations
  
+
+§bWhat we do would not be possible without the help of our wonderful team of Cast Members who work hard everyday to create magical memories for all of our guests!
 
 §bFor a full CM list, go to /warp staff
