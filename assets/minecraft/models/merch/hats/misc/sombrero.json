@@ -1,11 +1,11 @@
 {
 	"credit": "Made by Logan(MuppetVision)",
 	"textures": {
-		"3": "block/log_birch_top",
-		"4": "block/concrete_yellow",
-		"5": "block/concrete_orange",
-		"6": "block/double_plant_rose_bottom",
-		"particle": "block/double_plant_rose_bottom"
+		"3": "blocks/log_birch_top",
+		"4": "blocks/concrete_yellow",
+		"5": "blocks/concrete_orange",
+		"6": "blocks/double_plant_rose_bottom",
+		"particle": "blocks/double_plant_rose_bottom"
 	},
 	"elements": [
 		{

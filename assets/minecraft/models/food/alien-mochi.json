@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "food/cup-texture",
-		"4": "block/cactus_bottom",
-		"5": "food/toy story logo",
-		"7": "block/concrete_white",
-		"8": "block/hardened_clay_stained_gray"
+		"4": "blocks/cactus_bottom",
+		"5": "food/toy-story-logo",
+		"7": "blocks/concrete_white",
+		"8": "blocks/hardened_clay_stained_gray"
 	},
 	"elements": [
 		{
