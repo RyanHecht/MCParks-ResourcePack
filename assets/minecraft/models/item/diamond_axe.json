@@ -23,7 +23,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.010243277848912 }, "model": "vehicles/dl/splash" },
 		{ "predicate": { "damaged": 0, "damage": 0.010883482714469 }, "model": "vehicles/dl/dlrr/ckholiday_engine" },
 		{ "predicate": { "damaged": 0, "damage": 0.011523687580026 }, "model": "vehicles/dl/dlrr/ckholiday_passengercar" },
-		{ "predicate": { "damaged": 0, "damage": 0.012163892445583 }, "model": "item/diamond_axe" },
+		{ "predicate": { "damaged": 0, "damage": 0.012163892445583 }, "model": "vehicles/dl/dlrr/ckholiday_tender" },
 		{ "predicate": { "damaged": 0, "damage": 0.01280409731114 }, "model": "item/diamond_axe" },
 		{ "predicate": { "damaged": 0, "damage": 0.013444302176697 }, "model": "item/diamond_axe" },
 		{ "predicate": { "damaged": 0, "damage": 0.014084507042254 }, "model": "item/diamond_axe" },
