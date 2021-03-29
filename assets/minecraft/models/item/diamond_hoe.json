@@ -465,7 +465,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.293213828425096 }, "model": "backpacks/shelliemay_backpack" },
 		{ "predicate": { "damaged": 0, "damage": 0.293854033290653 }, "model": "food/marshmallow_mickey" },
 		{ "predicate": { "damaged": 0, "damage": 0.29449423815621 }, "model": "food/mickey_cookie" },
-		{ "predicate": { "damaged": 0, "damage": 0.295134443021767 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.295134443021767 }, "model": "merch/toys/dinoramadolls_cementosaurus" },
 		{ "predicate": { "damaged": 0, "damage": 0.295774647887324 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.296414852752881 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.297055057618438 }, "model": "item/diamond_hoe" },

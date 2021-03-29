@@ -12,10 +12,10 @@
 		"25": "blocks/concrete_powder_black",
 		"26": "blocks/glass_gray",
 		"30": "blocks/nether_brick",
+		"particle": "blocks/concrete_powder_red",
 		"yellow": "blocks/concrete_yellow",
 		"red": "blocks/red_nether_brick",
-		"gray": "concrete_silver",
-		"particle": "blocks/concrete_powder_red"
+		"gray": "concrete_silver"
 	},
 	"elements": [
 		{
@@ -7594,6 +7594,7 @@
 			"name": "Voxels-808080",
 			"from": [-12, 2, 0.5],
 			"to": [-10.5, 2.5, 1],
+			"color": 2,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7607,6 +7608,7 @@
 			"name": "Voxels-808080",
 			"from": [-12, 3, 0.5],
 			"to": [-11, 7.5, 1],
+			"color": 6,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7620,6 +7622,7 @@
 			"name": "Voxels-808080",
 			"from": [-12, 8, 0.5],
 			"to": [-11, 9, 1],
+			"color": 4,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7633,6 +7636,7 @@
 			"name": "Voxels-808080",
 			"from": [-12, 8.5, 1],
 			"to": [-10.5, 9, 4.5],
+			"color": 1,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7646,6 +7650,7 @@
 			"name": "Voxels-808080",
 			"from": [-12, 15.5, 0],
 			"to": [-10.5, 17, 0.5],
+			"color": 7,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7659,6 +7664,7 @@
 			"name": "Voxels-808080",
 			"from": [-12, 17.5, 2],
 			"to": [-10, 18, 2.5],
+			"color": 6,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7672,6 +7678,7 @@
 			"name": "Voxels-808080",
 			"from": [-12, 17.5, 2.5],
 			"to": [-10.5, 18, 3.5],
+			"color": 1,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7685,6 +7692,7 @@
 			"name": "Voxels-808080",
 			"from": [-11.5, 2, 1],
 			"to": [-10.5, 2.5, 2.5],
+			"color": 3,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7698,6 +7706,7 @@
 			"name": "Voxels-808080",
 			"from": [-11.5, 2, 13.5],
 			"to": [-10.5, 8, 14.5],
+			"color": 1,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7711,6 +7720,7 @@
 			"name": "Voxels-808080",
 			"from": [-11.5, 2, 14.5],
 			"to": [-10.5, 2.5, 15.5],
+			"color": 1,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7724,6 +7734,7 @@
 			"name": "Voxels-808080",
 			"from": [-11.5, 2.5, 1],
 			"to": [-11, 8.5, 5],
+			"color": 2,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7737,6 +7748,7 @@
 			"name": "Voxels-808080",
 			"from": [-11.5, 2.5, 11],
 			"to": [-11, 8.5, 13.5],
+			"color": 3,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7750,6 +7762,7 @@
 			"name": "Voxels-808080",
 			"from": [-11.5, 2.5, 14.5],
 			"to": [-11, 8.5, 15],
+			"color": 1,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7763,6 +7776,7 @@
 			"name": "Voxels-808080",
 			"from": [-11.5, 3, 15],
 			"to": [-11, 9.5, 15.5],
+			"color": 4,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7776,6 +7790,7 @@
 			"name": "Voxels-808080",
 			"from": [-11.5, 8, 13.5],
 			"to": [-11, 8.5, 14.5],
+			"color": 0,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7789,6 +7804,7 @@
 			"name": "Voxels-808080",
 			"from": [-11.5, 8.5, 4.5],
 			"to": [-11, 9.5, 5],
+			"color": 2,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7802,6 +7818,7 @@
 			"name": "Voxels-808080",
 			"from": [-11.5, 9, 0.5],
 			"to": [-11, 9.5, 1],
+			"color": 1,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7815,6 +7832,7 @@
 			"name": "Voxels-808080",
 			"from": [-11.5, 9, 1.5],
 			"to": [-11, 9.5, 2],
+			"color": 0,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7828,6 +7846,7 @@
 			"name": "Voxels-808080",
 			"from": [-11.5, 9, 2.5],
 			"to": [-11, 9.5, 3],
+			"color": 4,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7841,6 +7860,7 @@
 			"name": "Voxels-808080",
 			"from": [-11.5, 9, 3.5],
 			"to": [-11, 9.5, 4],
+			"color": 3,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7854,6 +7874,7 @@
 			"name": "Voxels-808080",
 			"from": [-11.5, 9, 12],
 			"to": [-11, 9.5, 12.5],
+			"color": 2,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7867,6 +7888,7 @@
 			"name": "Voxels-808080",
 			"from": [-11.5, 9, 13],
 			"to": [-11, 9.5, 13.5],
+			"color": 4,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7880,6 +7902,7 @@
 			"name": "Voxels-808080",
 			"from": [-11.5, 9, 14],
 			"to": [-11, 9.5, 14.5],
+			"color": 7,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7893,6 +7916,7 @@
 			"name": "Voxels-808080",
 			"from": [-11.5, 15, 4.5],
 			"to": [-11, 18, 5],
+			"color": 6,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7906,6 +7930,7 @@
 			"name": "Voxels-808080",
 			"from": [-11.5, 15.5, 0.5],
 			"to": [-11, 17, 4.5],
+			"color": 4,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7919,6 +7944,7 @@
 			"name": "Voxels-808080",
 			"from": [-11.5, 15.5, 11.5],
 			"to": [-10.5, 17.5, 12],
+			"color": 2,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7932,6 +7958,7 @@
 			"name": "Voxels-808080",
 			"from": [-11.5, 15.5, 12],
 			"to": [-11, 18, 12.5],
+			"color": 2,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7945,6 +7972,7 @@
 			"name": "Voxels-808080",
 			"from": [-11.5, 15.5, 12.5],
 			"to": [-11, 16, 15],
+			"color": 3,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7958,6 +7986,7 @@
 			"name": "Voxels-808080",
 			"from": [-11.5, 16, 11],
 			"to": [-11, 18, 11.5],
+			"color": 2,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7971,6 +8000,7 @@
 			"name": "Voxels-808080",
 			"from": [-11.5, 16, 13.5],
 			"to": [-11, 17, 16],
+			"color": 7,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7984,6 +8014,7 @@
 			"name": "Voxels-808080",
 			"from": [-11.5, 17, 2.5],
 			"to": [-10.5, 17.5, 3],
+			"color": 0,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -7997,6 +8028,7 @@
 			"name": "Voxels-808080",
 			"from": [-11.5, 17, 3],
 			"to": [-11, 17.5, 4.5],
+			"color": 1,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8010,6 +8042,7 @@
 			"name": "Voxels-808080",
 			"from": [-11.5, 17, 12.5],
 			"to": [-11, 17.5, 13],
+			"color": 3,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8023,6 +8056,7 @@
 			"name": "Voxels-808080",
 			"from": [-11.5, 17.5, 3.5],
 			"to": [-11, 18, 4.5],
+			"color": 5,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8036,6 +8070,7 @@
 			"name": "Voxels-808080",
 			"from": [-11.5, 17.5, 5],
 			"to": [-11, 18, 5.5],
+			"color": 2,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8049,6 +8084,7 @@
 			"name": "Voxels-808080",
 			"from": [-11.5, 17.5, 10.5],
 			"to": [-11, 18, 11],
+			"color": 1,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8062,6 +8098,7 @@
 			"name": "Voxels-808080",
 			"from": [-11.5, 17.5, 11.5],
 			"to": [-11, 18, 12],
+			"color": 2,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8075,6 +8112,7 @@
 			"name": "Voxels-808080",
 			"from": [-11, 2, 5.5],
 			"to": [-10.5, 2.5, 6],
+			"color": 6,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8088,6 +8126,7 @@
 			"name": "Voxels-808080",
 			"from": [-11, 2, 9],
 			"to": [-10.5, 2.5, 9.5],
+			"color": 1,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8101,6 +8140,7 @@
 			"name": "Voxels-808080",
 			"from": [-11, 16, 15.5],
 			"to": [-10.5, 17, 16],
+			"color": 0,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8114,6 +8154,7 @@
 			"name": "Voxels-808080",
 			"from": [-11, 17.5, 12],
 			"to": [-10.5, 18, 12.5],
+			"color": 1,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8140,6 +8181,7 @@
 			"name": "Voxels-808080",
 			"from": [-10, 17, 15.5],
 			"to": [27.5, 17.5, 16],
+			"color": 0,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8153,6 +8195,7 @@
 			"name": "Voxels-808080",
 			"from": [26.5, 2, 0.5],
 			"to": [27.5, 2.5, 5.5],
+			"color": 1,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8166,6 +8209,7 @@
 			"name": "Voxels-808080",
 			"from": [26.5, 2, 6],
 			"to": [27, 2.5, 9],
+			"color": 7,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8179,6 +8223,7 @@
 			"name": "Voxels-808080",
 			"from": [26.5, 2, 9.5],
 			"to": [27, 2.5, 13.5],
+			"color": 5,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8192,6 +8237,7 @@
 			"name": "Voxels-808080",
 			"from": [26.5, 2, 15],
 			"to": [27.5, 2.5, 15.5],
+			"color": 5,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8205,6 +8251,7 @@
 			"name": "Voxels-808080",
 			"from": [26.5, 16, 15.5],
 			"to": [27.5, 17, 16],
+			"color": 3,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8218,6 +8265,7 @@
 			"name": "Voxels-808080",
 			"from": [26.5, 17, 14.5],
 			"to": [27.5, 17.5, 15.5],
+			"color": 1,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8231,6 +8279,7 @@
 			"name": "Voxels-808080",
 			"from": [26.5, 17.5, 2],
 			"to": [27.5, 18, 2.5],
+			"color": 7,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8244,6 +8293,7 @@
 			"name": "Voxels-808080",
 			"from": [27, 2, 10.5],
 			"to": [27.5, 2.5, 13.5],
+			"color": 6,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8257,6 +8307,7 @@
 			"name": "Voxels-808080",
 			"from": [27, 2.5, 0.5],
 			"to": [27.5, 9.5, 1],
+			"color": 0,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8270,6 +8321,7 @@
 			"name": "Voxels-808080",
 			"from": [27, 2.5, 1],
 			"to": [27.5, 9, 5],
+			"color": 0,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8283,6 +8335,7 @@
 			"name": "Voxels-808080",
 			"from": [27, 2.5, 11],
 			"to": [27.5, 9.5, 11.5],
+			"color": 5,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8296,6 +8349,7 @@
 			"name": "Voxels-808080",
 			"from": [27, 2.5, 13.5],
 			"to": [27.5, 9, 15.5],
+			"color": 6,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8309,6 +8363,7 @@
 			"name": "Voxels-808080",
 			"from": [27, 9, 1.5],
 			"to": [27.5, 9.5, 2],
+			"color": 5,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8322,6 +8377,7 @@
 			"name": "Voxels-808080",
 			"from": [27, 9, 2.5],
 			"to": [27.5, 9.5, 3],
+			"color": 2,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8335,6 +8391,7 @@
 			"name": "Voxels-808080",
 			"from": [27, 9, 3.5],
 			"to": [27.5, 9.5, 4],
+			"color": 5,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8348,6 +8405,7 @@
 			"name": "Voxels-808080",
 			"from": [27, 9, 4.5],
 			"to": [27.5, 9.5, 5],
+			"color": 7,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8361,6 +8419,7 @@
 			"name": "Voxels-808080",
 			"from": [27, 9, 12],
 			"to": [27.5, 9.5, 12.5],
+			"color": 6,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8374,6 +8433,7 @@
 			"name": "Voxels-808080",
 			"from": [27, 9, 13],
 			"to": [27.5, 9.5, 13.5],
+			"color": 4,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8387,6 +8447,7 @@
 			"name": "Voxels-808080",
 			"from": [27, 9, 14],
 			"to": [27.5, 9.5, 14.5],
+			"color": 2,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8400,6 +8461,7 @@
 			"name": "Voxels-808080",
 			"from": [27, 9, 15],
 			"to": [27.5, 9.5, 15.5],
+			"color": 1,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8413,6 +8475,7 @@
 			"name": "Voxels-808080",
 			"from": [27, 13.5, 0.5],
 			"to": [27.5, 14, 1],
+			"color": 3,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8426,6 +8489,7 @@
 			"name": "Voxels-808080",
 			"from": [27, 13.5, 4.5],
 			"to": [27.5, 14, 5],
+			"color": 1,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8439,6 +8503,7 @@
 			"name": "Voxels-808080",
 			"from": [27, 13.5, 15],
 			"to": [27.5, 14, 15.5],
+			"color": 1,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8452,6 +8517,7 @@
 			"name": "Voxels-808080",
 			"from": [27, 14.5, 0.5],
 			"to": [27.5, 17, 1],
+			"color": 7,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8465,6 +8531,7 @@
 			"name": "Voxels-808080",
 			"from": [27, 14.5, 4.5],
 			"to": [27.5, 18, 5],
+			"color": 6,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8478,6 +8545,7 @@
 			"name": "Voxels-808080",
 			"from": [27, 14.5, 15],
 			"to": [27.5, 17, 15.5],
+			"color": 4,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8491,6 +8559,7 @@
 			"name": "Voxels-808080",
 			"from": [27, 15.5, 1.5],
 			"to": [27.5, 17, 4],
+			"color": 7,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8504,6 +8573,7 @@
 			"name": "Voxels-808080",
 			"from": [27, 15.5, 12],
 			"to": [27.5, 18, 12.5],
+			"color": 0,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8517,6 +8587,7 @@
 			"name": "Voxels-808080",
 			"from": [27, 15.5, 14],
 			"to": [27.5, 17.5, 14.5],
+			"color": 4,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8530,6 +8601,7 @@
 			"name": "Voxels-808080",
 			"from": [27, 15.5, 14.5],
 			"to": [27.5, 17, 15],
+			"color": 0,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8543,6 +8615,7 @@
 			"name": "Voxels-808080",
 			"from": [27, 17, 2],
 			"to": [27.5, 17.5, 4],
+			"color": 4,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8556,6 +8629,7 @@
 			"name": "Voxels-808080",
 			"from": [27, 17.5, 2.5],
 			"to": [27.5, 18, 4],
+			"color": 5,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8569,6 +8643,7 @@
 			"name": "Voxels-808080",
 			"from": [27, 17.5, 5],
 			"to": [27.5, 18, 5.5],
+			"color": 7,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8582,6 +8657,7 @@
 			"name": "Voxels-808080",
 			"from": [27, 17.5, 10.5],
 			"to": [27.5, 18, 11],
+			"color": 2,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8595,6 +8671,7 @@
 			"name": "Voxels-808080",
 			"from": [27, 17.5, 12.5],
 			"to": [27.5, 18, 13.5],
+			"color": 7,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8608,6 +8685,7 @@
 			"name": "Voxels-808080",
 			"from": [27.5, 1.5, 5],
 			"to": [28, 2, 12],
+			"color": 5,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8621,6 +8699,7 @@
 			"name": "Voxels-808080",
 			"from": [27.5, 2, 11],
 			"to": [28, 2.5, 14.5],
+			"color": 7,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8634,6 +8713,7 @@
 			"name": "Voxels-808080",
 			"from": [27.5, 8.5, 0.5],
 			"to": [28, 9, 4.5],
+			"color": 1,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -8647,6 +8727,7 @@
 			"name": "Voxels-808080",
 			"from": [27.5, 8.5, 15],
 			"to": [28, 9, 15.5],
+			"color": 5,
 			"faces": {
 				"north": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
 				"east": {"uv": [4.96, 4.96, 7.04, 7.04], "texture": "#missing"},
@@ -10545,6 +10626,7 @@
 			"name": "Voxels-EDFFDA",
 			"from": [-9.5, 19, 12.5],
 			"to": [-5, 20, 13],
+			"color": 7,
 			"faces": {
 				"north": {"uv": [12.96, 8.96, 15.04, 11.04], "texture": "#missing"},
 				"east": {"uv": [12.96, 8.96, 15.04, 11.04], "texture": "#missing"},
@@ -10558,6 +10640,7 @@
 			"name": "Voxels-EDFFDA",
 			"from": [-4, 19, 12.5],
 			"to": [1, 20, 13],
+			"color": 4,
 			"faces": {
 				"north": {"uv": [12.96, 8.96, 15.04, 11.04], "texture": "#missing"},
 				"east": {"uv": [12.96, 8.96, 15.04, 11.04], "texture": "#missing"},
@@ -10571,6 +10654,7 @@
 			"name": "Voxels-EDFFDA",
 			"from": [2, 19, 12.5],
 			"to": [7, 20, 13],
+			"color": 1,
 			"faces": {
 				"north": {"uv": [12.96, 8.96, 15.04, 11.04], "texture": "#missing"},
 				"east": {"uv": [12.96, 8.96, 15.04, 11.04], "texture": "#missing"},
@@ -10584,6 +10668,7 @@
 			"name": "Voxels-EDFFDA",
 			"from": [8, 19, 12.5],
 			"to": [13, 20, 13],
+			"color": 5,
 			"faces": {
 				"north": {"uv": [12.96, 8.96, 15.04, 11.04], "texture": "#missing"},
 				"east": {"uv": [12.96, 8.96, 15.04, 11.04], "texture": "#missing"},
@@ -10597,6 +10682,7 @@
 			"name": "Voxels-EDFFDA",
 			"from": [14, 19, 12.5],
 			"to": [19.5, 20, 13],
+			"color": 7,
 			"faces": {
 				"north": {"uv": [12.96, 8.96, 15.04, 11.04], "texture": "#missing"},
 				"east": {"uv": [12.96, 8.96, 15.04, 11.04], "texture": "#missing"},
@@ -10610,6 +10696,7 @@
 			"name": "Voxels-EDFFDA",
 			"from": [20.5, 19, 12.5],
 			"to": [25.5, 20, 13],
+			"color": 4,
 			"faces": {
 				"north": {"uv": [12.96, 8.96, 15.04, 11.04], "texture": "#missing"},
 				"east": {"uv": [12.96, 8.96, 15.04, 11.04], "texture": "#missing"},
@@ -11142,7 +11229,7 @@
 	],
 	"display": {
 		"head": {
-			"scale": [4, 4, 4]
+			"scale": [4, 3.76, 4]
 		}
 	},
 	"groups": [0,
