@@ -15101,7 +15101,8 @@
 		},
 		"ground": {
 			"rotation": [-6, 0, 9],
-			"translation": [0, 7, 0]
+			"translation": [0, 7.5, 0],
+			"scale": [0.6, 0.6, 0.6]
 		},
 		"gui": {
 			"rotation": [5, -14, 0],
