@@ -29,7 +29,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.014084507042254 }, "model": "misc/tikitopliporange" },
 		{ "predicate": { "damaged": 0, "damage": 0.01472471190781 }, "model": "misc/tikibottomorange" },
 		{ "predicate": { "damaged": 0, "damage": 0.015364916773367 }, "model": "vehicles/dl/dlrr/ckholliday_lillybelle" },
-		{ "predicate": { "damaged": 0, "damage": 0.016005121638924 }, "model": "item/diamond_axe" },
+		{ "predicate": { "damaged": 0, "damage": 0.016005121638924 }, "model": "vehicles/disneysea/dser" },
 		{ "predicate": { "damaged": 0, "damage": 0.016645326504481 }, "model": "item/diamond_axe" },
 		{ "predicate": { "damaged": 0, "damage": 0.017285531370038 }, "model": "item/diamond_axe" },
 		{ "predicate": { "damaged": 0, "damage": 0.017925736235595 }, "model": "item/diamond_axe" },
