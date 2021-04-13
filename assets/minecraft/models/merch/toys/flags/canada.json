@@ -1,9 +1,6 @@
 {
 	"parent": "merch/toys/flags/america",
 	"textures": {
-		"0": "blocks/concrete_white",
-		"1": "blocks/concrete_yellow",
-		"2": "merch/canada",
-		"particle": "blocks/concrete_white"
+		"2": "merch/flags/flag2"
 	}
 }
