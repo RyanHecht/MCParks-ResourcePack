@@ -478,7 +478,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.301536491677337 }, "model": "merch/hats/ears/regular/shelliemay_ears" },
 		{ "predicate": { "damaged": 0, "damage": 0.302176696542894 }, "model": "merch/hats/ears/regular/duffysailorhat" },
 		{ "predicate": { "damaged": 0, "damage": 0.302816901408451 }, "model": "merch/hats/ears/regular/tikiears" },
-		{ "predicate": { "damaged": 0, "damage": 0.303457106274008 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.303457106274008 }, "model": "merch/toys/marvel/wintersoldierarm" },
 		{ "predicate": { "damaged": 0, "damage": 0.304097311139565 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.304737516005122 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.305377720870679 }, "model": "item/diamond_hoe" },
