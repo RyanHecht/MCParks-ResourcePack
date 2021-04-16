@@ -485,7 +485,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.306017925736236 }, "model": "merch/hats/glasses/dinofacepaint" },
 		{ "predicate": { "damaged": 0, "damage": 0.306658130601793 }, "model": "merch/hats/glasses/dinofacepaintpink" },
 		{ "predicate": { "damaged": 0, "damage": 0.30729833546735 }, "model": "merch/hats/misc/scarletwitch-headpiece" },
-		{ "predicate": { "damaged": 0, "damage": 0.307938540332907 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.307938540332907 }, "model": "merch/toys/dinoramadolls_triceratop" },
 		{ "predicate": { "damaged": 0, "damage": 0.308578745198464 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.30921895006402 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.309859154929577 }, "model": "item/diamond_hoe" },
