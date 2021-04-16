@@ -24158,10 +24158,12 @@
 			"scale": [0.55, 0.55, 0.55]
 		},
 		"head": {
-			"translation": [0.5, 15.25, -1.25]
+			"translation": [0.5, -8, 10.75],
+			"scale": [4, 4, 4]
 		},
 		"fixed": {
-			"translation": [0, -2, -2]
+			"rotation": [0, 90, 0],
+			"translation": [0, -3.25, -3.75]
 		}
 	},
 	"groups": [
