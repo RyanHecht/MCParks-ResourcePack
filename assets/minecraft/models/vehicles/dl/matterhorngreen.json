@@ -1,5 +1,5 @@
 {
-	"parent": "vehicles/DL/matterhornblue",
+	"parent": "vehicles/dl/matterhornblue",
 	"textures": {
 		"particle": "blocks/e_particle",
 		"quartz_block_top": "blocks/quartz_block_top",

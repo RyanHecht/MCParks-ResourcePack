@@ -1,5 +1,5 @@
 {
-	"parent": "vehicles/DL/monorailredbody",
+	"parent": "vehicles/dl/monorailredbody",
 	"textures": {
 		"particle": "blocks/e_particle",
 		"stone_slab_top": "blocks/stone_slab_top",

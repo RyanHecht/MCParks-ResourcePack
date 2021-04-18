@@ -1,5 +1,5 @@
 {
-	"parent": "vehicles/DL/monorailredbody",
+	"parent": "vehicles/dl/monorailredbody",
 	"textures": {
 		"0": "merch/eighth_hexcastle",
 		"1": "merch/eighth_hexeight",
