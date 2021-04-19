@@ -1,5 +1,5 @@
 {
-	"parent": "vehicles/DL/alice1",
+	"parent": "vehicles/dl/alice1",
 	"textures": {
 		"particle": "blocks/e_particle",
 		"coal_block": "blocks/coal_block",
