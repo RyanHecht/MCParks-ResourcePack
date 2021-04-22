@@ -4,7 +4,7 @@
 		"particle": "blocks/e_particle",
 		"stone_slab_top": "blocks/stone_slab_top",
 		"quartz_block_top": "blocks/quartz_block_top",
-		"hardened_clay_stained_red": "blocks/lapis_block",
+		"hardened_clay_stained_red": "blocks/hardened_clay_stained_orange",
 		"coal_block": "blocks/coal_block",
 		"glass_black": "blocks/glass_black",
 		"hardened_clay_cyan": "blocks/hardened_clay_stained_cyan"

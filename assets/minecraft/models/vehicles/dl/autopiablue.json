@@ -1,5 +1,5 @@
 {
-	"parent": "vehicles/DL/autopiablack",
+	"parent": "vehicles/dl/autopiablack",
 	"textures": {
 		"particle": "blocks/e_particle",
 		"hardened_clay_red": "blocks/hardened_clay_stained_red",
