@@ -492,7 +492,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.310499359795134 }, "model": "backpacks/babyyodabackpack" },
 		{ "predicate": { "damaged": 0, "damage": 0.311139564660691 }, "model": "merch/hats/ears/misc/graduation2021" },
 		{ "predicate": { "damaged": 0, "damage": 0.311779769526248 }, "model": "merch/hats/ears/misc/simba_ears" },
-		{ "predicate": { "damaged": 0, "damage": 0.312419974391805 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.312419974391805 }, "model": "merch/hats/ears/regular/nemoears" },
 		{ "predicate": { "damaged": 0, "damage": 0.313060179257362 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.313700384122919 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.314340588988476 }, "model": "item/diamond_hoe" },
