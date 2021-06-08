@@ -1,9 +1,9 @@
 {
 	"parent": "vehicles/dl/monorailredbody",
 	"textures": {
-		"0": "merch/eighth_hexcastle",
-		"1": "merch/eighth_hexeight",
-		"hardened_clay_stained_red": "blocks/concrete_purple",
-		"quartz_block_top": "blocks/concrete_blue"
+		"0": "vehicles/monorailocean",
+		"1": "vehicles/monorailocean",
+		"hardened_clay_stained_red": "blocks/concrete_blue",
+		"quartz_block_top": "blocks/concrete_cyan"
 	}
 }
