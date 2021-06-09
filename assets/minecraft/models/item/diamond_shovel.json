@@ -525,7 +525,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.331626120358515 }, "model": "item/diamond_shovel" },
 		{ "predicate": { "damaged": 0, "damage": 0.332266325224072 }, "model": "item/diamond_shovel" },
 		{ "predicate": { "damaged": 0, "damage": 0.332906530089629 }, "model": "item/diamond_shovel" },
-		{ "predicate": { "damaged": 0, "damage": 0.333546734955186 }, "model": "shows/ewp/barge_base" },
+		{ "predicate": { "damaged": 0, "damage": 0.333546734955186 }, "model": "shows/ewp/ewp_serpent_head" },
 		{ "predicate": { "damaged": 0, "damage": 0.334186939820743 }, "model": "shows/ewp/serpent_head" },
 		{ "predicate": { "damaged": 0, "damage": 0.3348271446863 }, "model": "shows/ewp/serpent_body1" },
 		{ "predicate": { "damaged": 0, "damage": 0.335467349551857 }, "model": "shows/ewp/serpent_body2" },
