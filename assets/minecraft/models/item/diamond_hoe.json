@@ -502,7 +502,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.316901408450704 }, "model": "merch/hats/ears/regular/loki_ears" },
 		{ "predicate": { "damaged": 0, "damage": 0.317541613316261 }, "model": "merch/hats/ears/regular/wdwbirthdayears" },
 		{ "predicate": { "damaged": 0, "damage": 0.318181818181818 }, "model": "merch/hats/caps/plutohat" },
-		{ "predicate": { "damaged": 0, "damage": 0.318822023047375 }, "model": "item/diamond_hoe" },
+		{ "predicate": { "damaged": 0, "damage": 0.318822023047375 }, "model": "merch/hats/mysupercoolhat" },
 		{ "predicate": { "damaged": 0, "damage": 0.319462227912932 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.320102432778489 }, "model": "item/diamond_hoe" },
 		{ "predicate": { "damaged": 0, "damage": 0.320742637644046 }, "model": "item/diamond_hoe" },
