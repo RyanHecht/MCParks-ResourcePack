@@ -1977,7 +1977,7 @@
 		},
 		"gui": {
 			"rotation": [16, 146, -5],
-			"translation": [1.3913, 0, 0]
+			"translation": [0.8913, -1.5, 0]
 		},
 		"head": {
 			"rotation": [4, 0, 0],

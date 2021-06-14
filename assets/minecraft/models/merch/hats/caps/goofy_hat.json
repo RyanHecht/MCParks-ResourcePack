@@ -1928,6 +1928,11 @@
 			"translation": [-1.391, 0, 0],
 			"scale": [0.7, 0.7, 0.7]
 		},
+		"thirdperson_lefthand": {
+			"rotation": [35, 44, -61],
+			"translation": [-1.391, 0, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
 		"firstperson_righthand": {
 			"rotation": [-1, 122, -4],
 			"translation": [6.9565, -0.693, -6.257],
@@ -1940,7 +1945,7 @@
 		},
 		"gui": {
 			"rotation": [16, 146, -5],
-			"translation": [1.3913, 0, 0]
+			"translation": [0.8913, -1.25, 0]
 		},
 		"head": {
 			"rotation": [4, 0, 0],
