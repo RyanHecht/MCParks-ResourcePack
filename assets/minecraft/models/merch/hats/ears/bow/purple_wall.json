@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Guby <3",
 	"textures": {
 		"3": "blocks/coal_block",
 		"4": "merch/ears/purple_wall",
@@ -359,7 +359,7 @@
 			"to": [-5.5, 21, 7.75],
 			"rotation": {"angle": 0, "axis": "y", "origin": [6, 12, 8]},
 			"faces": {
-				"north": {"uv": [6.5575, 4.563, 5.8755, 9.559], "texture": "#4"},
+				"north": {"uv": [6.432, 4.5, 5.75, 9.496], "texture": "#4"},
 				"east": {"uv": [6.063, 1.188, 4.125, 1.813], "rotation": 180, "texture": "#4"},
 				"south": {"uv": [7.313, 2.094, 6.688, 2.719], "texture": "#4"},
 				"west": {"uv": [6.063, 1.188, 4.125, 1.813], "rotation": 180, "texture": "#4"},
@@ -372,7 +372,7 @@
 			"to": [-6, 20, 7.75],
 			"rotation": {"angle": 0, "axis": "y", "origin": [6, 12, 8]},
 			"faces": {
-				"north": {"uv": [5.682, 5.688, 4.875, 9.434], "texture": "#4"},
+				"north": {"uv": [5.557, 5.25, 4.75, 8.996], "texture": "#4"},
 				"east": {"uv": [6.063, 1.188, 4.125, 1.813], "rotation": 180, "texture": "#4"},
 				"south": {"uv": [7.313, 2.094, 6.688, 2.719], "texture": "#4"},
 				"west": {"uv": [6.063, 1.188, 4.125, 1.813], "rotation": 180, "texture": "#4"},
