@@ -7,8 +7,8 @@
 	"elements": [
 		{
 			"name": "left_arm",
-			"from": [0, 11.5, 6],
-			"to": [4, 23.5, 10],
+			"from": [6, 11.5, 6],
+			"to": [10, 23.5, 10],
 			"rotation": {"angle": 0, "axis": "x", "origin": [8, 23.5, 8]},
 			"faces": {
 				"north": {"uv": [9, 13, 10, 16], "texture": "#1"},
