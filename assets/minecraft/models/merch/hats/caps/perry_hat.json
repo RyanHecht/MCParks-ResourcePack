@@ -1,12 +1,12 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Fendork",
 	"textures": {
-		"1": "blocks/concrete_light_blue",
-		"2": "blocks/concrete_brown",
+		"1": "blocks/concrete_powder_cyan",
+		"2": "blocks/concrete_powder_brown",
 		"3": "blocks/concrete_black",
 		"4": "merch/perry_eyes",
-		"shulker_gray": "blocks/concrete_yellow",
-		"particle": "blocks/concrete_light_blue"
+		"particle": "blocks/concrete_powder_cyan",
+		"shulker_gray": "blocks/concrete_yellow"
 	},
 	"elements": [
 		{
