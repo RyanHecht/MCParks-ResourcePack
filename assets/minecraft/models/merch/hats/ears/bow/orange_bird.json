@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Guby <3",
 	"textures": {
 		"3": "blocks/concrete_powder_green",
 		"4": "blocks/concrete_orange",
@@ -1055,9 +1055,9 @@
 			}
 		},
 		{
-			"from": [15.125, 15.5, 9],
-			"to": [22.625, 22.625, 9],
-			"rotation": {"angle": 0, "axis": "y", "origin": [10, 12, 8]},
+			"from": [14.91447, 15.5, 9],
+			"to": [22.41447, 22.625, 9],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [18.66447, 19.0625, 9]},
 			"faces": {
 				"north": {"uv": [0.5, 0, 0, 0.5], "texture": "#5"},
 				"east": {"uv": [0.5, 0, 0, 0.5], "texture": "#5"},
