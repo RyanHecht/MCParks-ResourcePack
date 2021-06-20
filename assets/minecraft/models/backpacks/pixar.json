@@ -1,8 +1,8 @@
 {
-	"credit": "Made by Guby <3",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"3": "blocks/wool_colored_silver",
-		"5": "Downloads/pixar",
+		"5": "backpacks/pixar",
 		"particle": "blocks/wool_colored_silver",
 		"texture": "blocks/wool_colored_black",
 		"texture2": "blocks/concrete_powder_brown"
