@@ -1726,12 +1726,12 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [-1, -180, -90],
-			"translation": [-16, -0.75, 1.25],
+			"translation": [-4, -0.75, 1.25],
 			"scale": [0.77, 0.76, 0.67]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [-1, -180, 90],
-			"translation": [-8, -0.75, 1.25],
+			"translation": [4, -0.75, 1.25],
 			"scale": [0.77, 0.76, 0.66]
 		},
 		"firstperson_righthand": {
