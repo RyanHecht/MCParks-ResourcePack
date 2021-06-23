@@ -1,0 +1,9 @@
+﻿{
+    "parent": "food/nightblossom",
+    "textures": {
+        "particle": "blocks/concrete_light_blue",
+        "texture": "blocks/concrete_light_blue",
+        "0": "blocks/emerald_block",
+        "1": "blocks/concrete_lime"
+    }
+}
