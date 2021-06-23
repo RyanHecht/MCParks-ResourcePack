@@ -4,7 +4,7 @@
 		"0": "blocks/concrete_black",
 		"4": "blocks/concrete_red",
 		"5": "merch/ears/rainbow_neurodiverse_symbol",
-		"6": "merch/ears/rainbow-autism-acceptance",
+		"6": "merch/ears/autism-acceptance",
 		"7": "blocks/concrete_white",
 		"8": "blocks/concrete_orange",
 		"9": "blocks/concrete_yellow",
@@ -1845,7 +1845,7 @@
 			"to": [19.5, 27.15, 7.2],
 			"rotation": {"angle": 45, "axis": "z", "origin": [16, 0, 0]},
 			"faces": {
-				"north": {"uv": [1.3125, 6.75, 11.75, 12.8125], "texture": "#6"},
+				"north": {"uv": [0, 7.375, 15.938, 15.938], "texture": "#6"},
 				"east": {"uv": [1, 0, 0, 3], "texture": "#5"},
 				"south": {"uv": [3.0625, 0, 0, 0.6875], "texture": "#5"},
 				"west": {"uv": [1, 0, 0, 3], "texture": "#5"},
@@ -1860,7 +1860,7 @@
 			"faces": {
 				"north": {"uv": [0, 0, 3.0625, 0.6875], "texture": "#5"},
 				"east": {"uv": [0, 0, 1, 3], "texture": "#5"},
-				"south": {"uv": [1.3125, 6.75, 11.75, 12.8125], "texture": "#6"},
+				"south": {"uv": [0, 7.375, 15.938, 15.938], "texture": "#6"},
 				"west": {"uv": [0, 0, 1, 3], "texture": "#5"},
 				"up": {"uv": [7, 1, 0, 0], "texture": "#5"},
 				"down": {"uv": [7, 1, 0, 0], "texture": "#5"}

@@ -1,9 +1,8 @@
 {
     "parent": "food/hotdog",
 	"textures": {
-		"0": "food/hotdog1",
-		"1": "food/hotdog2",
+		"0": "food/hotdog_and_icecream",
 		"2": "blocks/wool_colored_yellow",
-		"particle": "food/hotdog1"
+		"particle": "food/hotdog_and_icecream"
 	}
 }

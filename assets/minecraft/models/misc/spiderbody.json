@@ -1,0 +1,52 @@
+{
+	"credit": "Made by Guby <3",
+	"textures": {
+		"1": "misc/spiderman_stunt",
+		"particle": "clothing/spiderman"
+	},
+	"elements": [
+		{
+			"name": "body",
+			"from": [4, 11.5, 6],
+			"to": [12, 23.5, 10],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 17.5, 8]},
+			"faces": {
+				"north": {"uv": [5, 5, 7, 7.98], "texture": "#1"},
+				"east": {"uv": [4, 5, 5, 8], "texture": "#1"},
+				"south": {"uv": [8, 5, 10, 8], "texture": "#1"},
+				"west": {"uv": [7, 5, 8, 7.98], "texture": "#1"},
+				"up": {"uv": [7, 5, 5, 4], "texture": "#1"},
+				"down": {"uv": [9, 4, 7, 5], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"translation": [0, -2.25, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"head": {
+			"translation": [0, -31, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	},
+	"groups": [
+		{
+			"name": "steve",
+			"origin": [8, 8, 8],
+			"children": [0]
+		}
+	]
+}

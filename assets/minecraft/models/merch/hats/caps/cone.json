@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Guby <3",
 	"textures": {
 		"img": "merch/cone/cozy_cone",
 		"images (1)": "merch/cone/zred",
@@ -8,13 +8,13 @@
 	"elements": [
 		{
 			"name": "Box1",
-			"from": [6.1686, 4.8661, 3.6204],
-			"to": [10.1686, 7.3661, 5.1204],
+			"from": [5.9186, 4.8661, 3.93619],
+			"to": [10.4186, 8.8661, 5.1204],
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#img"},
-				"east": {"uv": [0, 0, 0.07111, 16], "texture": "#img"},
-				"south": {"uv": [16, 0, 0, 16], "texture": "#img"},
-				"west": {"uv": [16, 16, 15.92889, 0], "rotation": 180, "texture": "#img"},
+				"north": {"uv": [0, 0.75, 16, 16], "texture": "#img"},
+				"east": {"uv": [0, 0, 5.321, 2.5], "texture": "#img"},
+				"south": {"uv": [4, 0, 0, 2], "texture": "#img"},
+				"west": {"uv": [6.248, 3, 3.429, 0], "rotation": 180, "texture": "#img"},
 				"up": {"uv": [0, 0.07111, 16, 0], "rotation": 180, "texture": "#img"},
 				"down": {"uv": [0, 15.92889, 16, 16], "rotation": 180, "texture": "#img"}
 			}
