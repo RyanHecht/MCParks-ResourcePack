@@ -1,8 +1,0 @@
-{
-	"parent": "vehicles/dl/monorailrednose",
-	"textures": {
-		"0": "vehicles/monorailoceanlogo",
-		"hardened_clay_stained_red": "blocks/concrete_blue",
-		"quartz_block_top": "blocks/concrete_cyan"
-	}
-}
