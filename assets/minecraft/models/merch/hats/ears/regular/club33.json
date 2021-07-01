@@ -1,10 +1,12 @@
 {
-	"credit": "Created by Guby <3",
+	"credit": "Made by Guby <3",
 	"textures": {
+		"4": "merch/ears/club33",
 		"wool_black": "blocks/gold_block",
 		"white_wool": "blocks/quartz_block_top",
 		"nether_brick": "blocks/glazed_terracotta_blue",
-		"hardened_clay_stained_lightblue": "blocks/lapis_block"
+		"hardened_clay_stained_lightblue": "blocks/lapis_block",
+		"particle": "merch/ears/club33"
 	},
 	"elements": [
 		{
@@ -1543,19 +1545,6 @@
 		},
 		{
 			"name": "wool_black",
-			"from": [7.5, 12, 11.5],
-			"to": [8, 12.5, 12],
-			"faces": {
-				"north": {"uv": [3, 6, 4, 7], "texture": "#wool_black"},
-				"east": {"uv": [3, 6, 4, 7], "texture": "#wool_black"},
-				"south": {"uv": [3, 6, 4, 7], "texture": "#wool_black"},
-				"west": {"uv": [3, 6, 4, 7], "texture": "#wool_black"},
-				"up": {"uv": [3, 6, 4, 7], "texture": "#wool_black"},
-				"down": {"uv": [3, 6, 4, 7], "texture": "#wool_black"}
-			}
-		},
-		{
-			"name": "wool_black",
 			"from": [8.5, 13.5, 11.5],
 			"to": [9, 14, 12],
 			"faces": {
@@ -1595,32 +1584,6 @@
 		},
 		{
 			"name": "wool_black",
-			"from": [8, 12.5, 11.5],
-			"to": [8.5, 13, 12],
-			"faces": {
-				"north": {"uv": [2, 4, 3, 5], "texture": "#wool_black"},
-				"east": {"uv": [2, 4, 3, 5], "texture": "#wool_black"},
-				"south": {"uv": [2, 4, 3, 5], "texture": "#wool_black"},
-				"west": {"uv": [2, 4, 3, 5], "texture": "#wool_black"},
-				"up": {"uv": [2, 4, 3, 5], "texture": "#wool_black"},
-				"down": {"uv": [2, 4, 3, 5], "texture": "#wool_black"}
-			}
-		},
-		{
-			"name": "wool_black",
-			"from": [7.5, 13, 11.5],
-			"to": [8, 13.5, 12],
-			"faces": {
-				"north": {"uv": [3, 6, 4, 7], "texture": "#wool_black"},
-				"east": {"uv": [3, 6, 4, 7], "texture": "#wool_black"},
-				"south": {"uv": [3, 6, 4, 7], "texture": "#wool_black"},
-				"west": {"uv": [3, 6, 4, 7], "texture": "#wool_black"},
-				"up": {"uv": [3, 6, 4, 7], "texture": "#wool_black"},
-				"down": {"uv": [3, 6, 4, 7], "texture": "#wool_black"}
-			}
-		},
-		{
-			"name": "wool_black",
 			"from": [8.5, 14.5, 11.5],
 			"to": [9, 15, 12],
 			"faces": {
@@ -1647,19 +1610,6 @@
 		},
 		{
 			"name": "nether_brick67",
-			"from": [8, 13, 11.5],
-			"to": [8.5, 13.5, 12],
-			"faces": {
-				"north": {"uv": [7.5, 2.5, 8, 3], "texture": "#hardened_clay_stained_lightblue"},
-				"east": {"uv": [4, 2.5, 4.5, 3], "texture": "#hardened_clay_stained_lightblue"},
-				"south": {"uv": [8, 2.5, 8.5, 3], "texture": "#hardened_clay_stained_lightblue"},
-				"west": {"uv": [11.5, 2.5, 12, 3], "texture": "#hardened_clay_stained_lightblue"},
-				"up": {"uv": [8, 11.5, 8.5, 12], "texture": "#hardened_clay_stained_lightblue"},
-				"down": {"uv": [8, 4, 8.5, 4.5], "texture": "#hardened_clay_stained_lightblue"}
-			}
-		},
-		{
-			"name": "nether_brick67",
 			"from": [7, 13, 11.5],
 			"to": [7.5, 13.5, 12],
 			"faces": {
@@ -1673,15 +1623,41 @@
 		},
 		{
 			"name": "nether_brick67",
-			"from": [7.5, 12.5, 11.5],
-			"to": [8, 13, 12],
+			"from": [7.5, 12, 11.5],
+			"to": [8.5, 13.5, 12],
 			"faces": {
 				"north": {"uv": [8, 3, 8.5, 3.5], "texture": "#hardened_clay_stained_lightblue"},
 				"east": {"uv": [4, 3, 4.5, 3.5], "texture": "#hardened_clay_stained_lightblue"},
-				"south": {"uv": [7.5, 3, 8, 3.5], "texture": "#hardened_clay_stained_lightblue"},
+				"south": {"uv": [8, 8, 9, 9.5], "texture": "#hardened_clay_stained_lightblue"},
 				"west": {"uv": [11.5, 3, 12, 3.5], "texture": "#hardened_clay_stained_lightblue"},
 				"up": {"uv": [7.5, 11.5, 8, 12], "texture": "#hardened_clay_stained_lightblue"},
 				"down": {"uv": [7.5, 4, 8, 4.5], "texture": "#hardened_clay_stained_lightblue"}
+			}
+		},
+		{
+			"name": "nether_brick68",
+			"from": [7.25, 12, 11.60526],
+			"to": [8.01316, 13.5, 12.10526],
+			"faces": {
+				"north": {"uv": [8, 3, 8.5, 3.5], "texture": "#4"},
+				"east": {"uv": [4, 3, 4.5, 3.5], "texture": "#4"},
+				"south": {"uv": [0, 0, 7, 16], "texture": "#4"},
+				"west": {"uv": [11.5, 3, 12, 3.5], "texture": "#4"},
+				"up": {"uv": [7.5, 11.5, 8, 12], "texture": "#4"},
+				"down": {"uv": [7.5, 4, 8, 4.5], "texture": "#4"}
+			}
+		},
+		{
+			"name": "nether_brick69",
+			"from": [8.03947, 12, 11.60526],
+			"to": [8.80263, 13.5, 12.10526],
+			"faces": {
+				"north": {"uv": [8, 3, 8.5, 3.5], "texture": "#4"},
+				"east": {"uv": [4, 3, 4.5, 3.5], "texture": "#4"},
+				"south": {"uv": [0, 0, 7, 16], "texture": "#4"},
+				"west": {"uv": [11.5, 3, 12, 3.5], "texture": "#4"},
+				"up": {"uv": [7.5, 11.5, 8, 12], "texture": "#4"},
+				"down": {"uv": [7.5, 4, 8, 4.5], "texture": "#4"}
 			}
 		},
 		{
@@ -1747,19 +1723,6 @@
 				"west": {"uv": [11.5, 4, 12, 4.5], "texture": "#hardened_clay_stained_lightblue"},
 				"up": {"uv": [7.5, 11.5, 8.5, 12], "texture": "#hardened_clay_stained_lightblue"},
 				"down": {"uv": [7.5, 4, 8.5, 4.5], "texture": "#hardened_clay_stained_lightblue"}
-			}
-		},
-		{
-			"name": "nether_brick67",
-			"from": [8, 12, 11.5],
-			"to": [8.5, 12.5, 12],
-			"faces": {
-				"north": {"uv": [7.5, 3.5, 8, 4], "texture": "#hardened_clay_stained_lightblue"},
-				"east": {"uv": [4, 3.5, 4.5, 4], "texture": "#hardened_clay_stained_lightblue"},
-				"south": {"uv": [8, 3.5, 8.5, 4], "texture": "#hardened_clay_stained_lightblue"},
-				"west": {"uv": [11.5, 3.5, 12, 4], "texture": "#hardened_clay_stained_lightblue"},
-				"up": {"uv": [8, 11.5, 8.5, 12], "texture": "#hardened_clay_stained_lightblue"},
-				"down": {"uv": [8, 4, 8.5, 4.5], "texture": "#hardened_clay_stained_lightblue"}
 			}
 		},
 		{

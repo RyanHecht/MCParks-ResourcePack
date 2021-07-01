@@ -3,7 +3,7 @@
 	"textures": {
 		"lizardblue": "merch/lizardblue"
 	},
-	"elements": [ 	 
+	"elements": [
 		{
 			"__comment": "Voxels-332002",
 			"from": [ 0.75, -4.25, 4.5 ],
